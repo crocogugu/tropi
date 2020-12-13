@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO X
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO TV
-https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+http://89.38.8.131:39532
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",PRO 2
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Antena1
