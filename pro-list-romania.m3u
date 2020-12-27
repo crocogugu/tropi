@@ -19,7 +19,7 @@ http://89.136.209.26:1935/liveedge/TVR1.stream/chunklist_w1660791699.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR2
 http://89.136.209.26:1935/liveedge/TVR2.stream/chunklist_w110470889.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVR3
-http://89.136.209.26:1935/liveedge/TVR3.stream/chunklist_w2055957737.m3u8
+http://vip.gotdns.ch:8181/Petrovic/Petrovic/24009?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",TVRi
 http://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/chunklist_b2564000.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",VH1
