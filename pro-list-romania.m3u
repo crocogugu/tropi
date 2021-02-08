@@ -1,5 +1,6 @@
 #EXTM3U
-#PLAYLIST:hlscat.comhttps://blackghost.live/207/tves1.m3u
+#PLAYLIST:hlscat.com
+https://blackghost.live/207/tves1.m3u
 http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8840
 #EXTINF:-1 tvg-id="" tvg-name="[RO]  Actualitatea Tv" tvg-logo="" group-title="Romania",[RO]  Actualitatea Tv
 http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8839
