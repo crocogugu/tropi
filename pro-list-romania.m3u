@@ -1,154 +1,214 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
-https://blackghost.live/207/tves1.m3u
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8840
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Actualitatea Tv" tvg-logo="" group-title="Romania",[RO]  Actualitatea Tv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8839
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Alpha media" tvg-logo="" group-title="Romania",[RO]  Alpha media
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8838
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  ANTENA 1" tvg-logo="" group-title="Romania",[RO]  ANTENA 1
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8837
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  ANTENA 3" tvg-logo="" group-title="Romania",[RO]  ANTENA 3
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8836
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  AXN BLACK" tvg-logo="" group-title="Romania",[RO]  AXN BLACK
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8834
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  AXN SPIN" tvg-logo="" group-title="Romania",[RO]  AXN SPIN
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8833
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  AXN WHITE" tvg-logo="" group-title="Romania",[RO]  AXN WHITE
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8832
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Bit Tv" tvg-logo="" group-title="Romania",[RO]  Bit Tv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8831
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  CINEMARATON" tvg-logo="" group-title="Romania",[RO]  CINEMARATON
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8829
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  CINEMAX" tvg-logo="" group-title="Romania",[RO]  CINEMAX
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8828
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  CINEMAX 2" tvg-logo="" group-title="Romania",[RO]  CINEMAX 2
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8827
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  COMEDY CENTRAL" tvg-logo="" group-title="Romania",[RO]  COMEDY CENTRAL
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8826
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  COMEDY EST" tvg-logo="" group-title="Romania",[RO]  COMEDY EST
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8825
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Cromtel tv" tvg-logo="" group-title="Romania",[RO]  Cromtel tv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8824
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DAVINCI" tvg-logo="" group-title="Romania",[RO]  DAVINCI
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8822
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI 24 HD" tvg-logo="" group-title="Romania",[RO]  DIGI 24 HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8821
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI ANIMAL WORLD HD" tvg-logo="" group-title="Romania",[RO]  DIGI ANIMAL WORLD HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8820
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI ANIMAL WORLD SD" tvg-logo="" group-title="Romania",[RO]  DIGI ANIMAL WORLD SD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8819
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI LIFE HD" tvg-logo="" group-title="Romania",[RO]  DIGI LIFE HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8818
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI SPORT 1" tvg-logo="" group-title="Romania",[RO]  DIGI SPORT 1
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8817
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Digi Sport 1 HD" tvg-logo="" group-title="Romania",[RO]  Digi Sport 1 HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8842
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Digi Sport 2 HD" tvg-logo="" group-title="Romania",[RO]  Digi Sport 2 HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8841
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI SPORT 3" tvg-logo="" group-title="Romania",[RO]  DIGI SPORT 3
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8816
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIGI WORLD" tvg-logo="" group-title="Romania",[RO]  DIGI WORLD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8815
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DISCOVERY" tvg-logo="" group-title="Romania",[RO]  DISCOVERY
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8814
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DISNEY JR" tvg-logo="" group-title="Romania",[RO]  DISNEY JR
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8813
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  DIVA" tvg-logo="" group-title="Romania",[RO]  DIVA
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8812
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  E HD" tvg-logo="" group-title="Romania",[RO]  E HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8810
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  ENTERTAINMENT" tvg-logo="" group-title="Romania",[RO]  ENTERTAINMENT
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8809
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  EUROSPORT" tvg-logo="" group-title="Romania",[RO]  EUROSPORT
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8808
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  FASHION TV" tvg-logo="" group-title="Romania",[RO]  FASHION TV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8807
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  FILM NOW" tvg-logo="" group-title="Romania",[RO]  FILM NOW
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8806
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  FILMCAFE" tvg-logo="" group-title="Romania",[RO]  FILMCAFE
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8805
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  FISHING & HUNTING" tvg-logo="" group-title="Romania",[RO]  FISHING & HUNTING
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8804
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  HAPPY CHANNEL" tvg-logo="" group-title="Romania",[RO]  HAPPY CHANNEL
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8801
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  HBO 1" tvg-logo="" group-title="Romania",[RO]  HBO 1
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8800
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  HBO 2" tvg-logo="" group-title="Romania",[RO]  HBO 2
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8799
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  HBO 3" tvg-logo="" group-title="Romania",[RO]  HBO 3
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8798
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Iasi TV" tvg-logo="" group-title="Romania",[RO]  Iasi TV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8797
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  INEDIT TV" tvg-logo="" group-title="Romania",[RO]  INEDIT TV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8796
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  InterMedia Tv" tvg-logo="" group-title="Romania",[RO]  InterMedia Tv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8794
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  KANAL D" tvg-logo="" group-title="Romania",[RO]  KANAL D
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8793
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  MINIMAX RO" tvg-logo="" group-title="Romania",[RO]  MINIMAX RO
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8789
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  MUSIC CHANNEL RO" tvg-logo="" group-title="Romania",[RO]  MUSIC CHANNEL RO
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8787
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  NASUL" tvg-logo="" group-title="Romania",[RO]  NASUL
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8786
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  NAT GEO WILD" tvg-logo="" group-title="Romania",[RO]  NAT GEO WILD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8785
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  NAT GEO WILD HD" tvg-logo="" group-title="Romania",[RO]  NAT GEO WILD HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8784
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Nest Tv" tvg-logo="" group-title="Romania",[RO]  Nest Tv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8783
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  NICK TOONS" tvg-logo="" group-title="Romania",[RO]  NICK TOONS
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8782
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  NICKELODEON" tvg-logo="" group-title="Romania",[RO]  NICKELODEON
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8781
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PAPRIKA TV" tvg-logo="" group-title="Romania",[RO]  PAPRIKA TV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8780
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO 2" tvg-logo="" group-title="Romania",[RO]  PRO 2
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8779
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO 2 HD" tvg-logo="" group-title="Romania",[RO]  PRO 2 HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8778
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO CINEMA" tvg-logo="" group-title="Romania",[RO]  PRO CINEMA
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8777
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO GOLD" tvg-logo="" group-title="Romania",[RO]  PRO GOLD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8776
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO TV" tvg-logo="" group-title="Romania",[RO]  PRO TV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8775
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO TV HD" tvg-logo="" group-title="Romania",[RO]  PRO TV HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8774
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO X" tvg-logo="" group-title="Romania",[RO]  PRO X
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8773
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  PRO X HD" tvg-logo="" group-title="Romania",[RO]  PRO X HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8772
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  REALITATEA" tvg-logo="" group-title="Romania",[RO]  REALITATEA
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8771
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Somax Tv" tvg-logo="" group-title="Romania",[RO]  Somax Tv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8770
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TARAF TV" tvg-logo="" group-title="Romania",[RO]  TARAF TV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8769
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Tele M" tvg-logo="" group-title="Romania",[RO]  Tele M
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8767
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  Tezaurtv" tvg-logo="" group-title="Romania",[RO]  Tezaurtv
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8766
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TLC" tvg-logo="" group-title="Romania",[RO]  TLC
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8764
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TNT" tvg-logo="" group-title="Romania",[RO]  TNT
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8763
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TRAVEL" tvg-logo="" group-title="Romania",[RO]  TRAVEL
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8761
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TVR 1" tvg-logo="" group-title="Romania",[RO]  TVR 1
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8759
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TVR Iasi" tvg-logo="" group-title="Romania",[RO]  TVR Iasi
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8758
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  TVR2" tvg-logo="" group-title="Romania",[RO]  TVR2
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8757
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  UTV" tvg-logo="" group-title="Romania",[RO]  UTV
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8756
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  UTV HD" tvg-logo="" group-title="Romania",[RO]  UTV HD
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8755
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  VH 1 RO" tvg-logo="" group-title="Romania",[RO]  VH 1 RO
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8754
-#EXTINF:-1 tvg-id="" tvg-name="[RO]  VIASAT NATURE" tvg-logo="" group-title="Romania",[RO]  VIASAT NATURE
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/8753
-#EXTINF:-1 tvg-id="" tvg-name="[RO] TVR 2" tvg-logo="" group-title="Romania",[RO] TVR 2
-http://live.faucontv.com:8000/baran-yigitalp/2HlADHufdA/5308
+#EXTINF:-1,***** RO | Romania *****
+http://nomorecable.xyz:80/Direct/919123/0
+#EXTINF:-1,RO | Acasa
+http://nomorecable.xyz:80/Direct/919123/15677
+#EXTINF:-1,RO | Acasa Gold
+http://nomorecable.xyz:80/Direct/919123/15678
+#EXTINF:-1,RO | AgroTV
+http://nomorecable.xyz:80/Direct/919123/15679
+#EXTINF:-1,RO | Antena 1
+http://nomorecable.xyz:80/Direct/919123/15681
+#EXTINF:-1,RO | Antena 1 FHD
+http://nomorecable.xyz:80/Direct/919123/77381
+#EXTINF:-1,RO | Antena 3
+http://nomorecable.xyz:80/Direct/919123/15682
+#EXTINF:-1,RO | Antena 3 FHD
+http://nomorecable.xyz:80/Direct/919123/77382
+#EXTINF:-1,RO | Antena Stars
+http://nomorecable.xyz:80/Direct/919123/15683
+#EXTINF:-1,RO | Antena Stars HD
+http://nomorecable.xyz:80/Direct/919123/77384
+#EXTINF:-1,RO | AXN
+http://nomorecable.xyz:80/Direct/919123/15684
+#EXTINF:-1,RO | AXN FHD
+http://nomorecable.xyz:80/Direct/919123/77385
+#EXTINF:-1,RO | AXN Black
+http://nomorecable.xyz:80/Direct/919123/15685
+#EXTINF:-1,RO | AXN SPIN
+http://nomorecable.xyz:80/Direct/919123/15686
+#EXTINF:-1,RO | AXN White
+http://nomorecable.xyz:80/Direct/919123/15687
+#EXTINF:-1,RO | B1
+http://nomorecable.xyz:80/Direct/919123/15688
+#EXTINF:-1,RO | Boomerang
+http://nomorecable.xyz:80/Direct/919123/15689
+#EXTINF:-1,RO | Cartoon Network
+http://nomorecable.xyz:80/Direct/919123/15690
+#EXTINF:-1,RO | Cinemax 1
+http://nomorecable.xyz:80/Direct/919123/15691
+#EXTINF:-1,RO | Cinemax 2
+http://nomorecable.xyz:80/Direct/919123/15692
+#EXTINF:-1,RO | Comedy Central
+http://nomorecable.xyz:80/Direct/919123/15694
+#EXTINF:-1,RO | Da Vinci Learning
+http://nomorecable.xyz:80/Direct/919123/15695
+#EXTINF:-1,RO | DIGI 24
+http://nomorecable.xyz:80/Direct/919123/15696
+#EXTINF:-1,RO | DIGI ANIMAL WORLD
+http://nomorecable.xyz:80/Direct/919123/15697
+#EXTINF:-1,RO | DIGI FILM
+http://nomorecable.xyz:80/Direct/919123/15698
+#EXTINF:-1,RO | DIGI Life
+http://nomorecable.xyz:80/Direct/919123/15699
+#EXTINF:-1,RO | DIGI Sport 1
+http://nomorecable.xyz:80/Direct/919123/15700
+#EXTINF:-1,RO | DIGI Sport 2
+http://nomorecable.xyz:80/Direct/919123/15701
+#EXTINF:-1,RO | DIGI Sport 3
+http://nomorecable.xyz:80/Direct/919123/15702
+#EXTINF:-1,RO | DIGI Sport 4
+http://nomorecable.xyz:80/Direct/919123/15703
+#EXTINF:-1,RO | Digi Sport 1 FHD
+http://nomorecable.xyz:80/Direct/919123/77375
+#EXTINF:-1,RO | Digi Sports 2 FHD
+http://nomorecable.xyz:80/Direct/919123/77376
+#EXTINF:-1,RO | Digi Sports 3 FHD
+http://nomorecable.xyz:80/Direct/919123/77377
+#EXTINF:-1,RO | Digi Sports 4 FHD
+http://nomorecable.xyz:80/Direct/919123/77378
+#EXTINF:-1,RO | DIGI WORLD
+http://nomorecable.xyz:80/Direct/919123/15704
+#EXTINF:-1,RO | Discovery
+http://nomorecable.xyz:80/Direct/919123/15705
+#EXTINF:-1,RO | Discovery ID
+http://nomorecable.xyz:80/Direct/919123/15706
+#EXTINF:-1,RO | Discovery Science
+http://nomorecable.xyz:80/Direct/919123/15707
+#EXTINF:-1,RO | Disney Channel
+http://nomorecable.xyz:80/Direct/919123/15708
+#EXTINF:-1,RO | Disney Jr
+http://nomorecable.xyz:80/Direct/919123/15709
+#EXTINF:-1,RO | Diva
+http://nomorecable.xyz:80/Direct/919123/15710
+#EXTINF:-1,RO | DTX
+http://nomorecable.xyz:80/Direct/919123/15711
+#EXTINF:-1,RO | E! Entertainment
+http://nomorecable.xyz:80/Direct/919123/15712
+#EXTINF:-1,RO | Etno
+http://nomorecable.xyz:80/Direct/919123/15713
+#EXTINF:-1,RO | Eurosport 1
+http://nomorecable.xyz:80/Direct/919123/15716
+#EXTINF:-1,RO | Eurosport 2
+http://nomorecable.xyz:80/Direct/919123/15717
+#EXTINF:-1,RO | Extreme Sport
+http://nomorecable.xyz:80/Direct/919123/15718
+#EXTINF:-1,RO | Favorit TV
+http://nomorecable.xyz:80/Direct/919123/15719
+#EXTINF:-1,RO | Film Cafe
+http://nomorecable.xyz:80/Direct/919123/15720
+#EXTINF:-1,RO | Fishing and Hunting
+http://nomorecable.xyz:80/Direct/919123/15721
+#EXTINF:-1,RO | Food Network
+http://nomorecable.xyz:80/Direct/919123/15722
+#EXTINF:-1,RO | Happy Channel
+http://nomorecable.xyz:80/Direct/919123/15723
+#EXTINF:-1,RO | HBO
+http://nomorecable.xyz:80/Direct/919123/15725
+#EXTINF:-1,RO | HBO 3
+http://nomorecable.xyz:80/Direct/919123/15724
+#EXTINF:-1,RO | HBO2
+http://nomorecable.xyz:80/Direct/919123/15726
+#EXTINF:-1,RO | HBOmania
+http://nomorecable.xyz:80/Direct/919123/15727
+#EXTINF:-1,RO | History
+http://nomorecable.xyz:80/Direct/919123/15728
+#EXTINF:-1,RO | HIT MUSIC
+http://nomorecable.xyz:80/Direct/919123/15729
+#EXTINF:-1,RO | Hora TV
+http://nomorecable.xyz:80/Direct/919123/15730
+#EXTINF:-1,RO | JimJam
+http://nomorecable.xyz:80/Direct/919123/15731
+#EXTINF:-1,RO | Kanal D
+http://nomorecable.xyz:80/Direct/919123/15732
+#EXTINF:-1,RO | Kanal D HD
+http://nomorecable.xyz:80/Direct/919123/77383
+#EXTINF:-1,RO | Kiss TV
+http://nomorecable.xyz:80/Direct/919123/15733
+#EXTINF:-1,RO | Look Plus
+http://nomorecable.xyz:80/Direct/919123/15734
+#EXTINF:-1,RO | Look TV
+http://nomorecable.xyz:80/Direct/919123/15735
+#EXTINF:-1,RO | Megamax
+http://nomorecable.xyz:80/Direct/919123/15737
+#EXTINF:-1,RO | Minimax
+http://nomorecable.xyz:80/Direct/919123/15738
+#EXTINF:-1,RO | MTV
+http://nomorecable.xyz:80/Direct/919123/15739
+#EXTINF:-1,RO | MTV Dance
+http://nomorecable.xyz:80/Direct/919123/15740
+#EXTINF:-1,RO | MTV Hits
+http://nomorecable.xyz:80/Direct/919123/15741
+#EXTINF:-1,RO | MTV Rocks
+http://nomorecable.xyz:80/Direct/919123/15742
+#EXTINF:-1,RO | Music Channel
+http://nomorecable.xyz:80/Direct/919123/15743
+#EXTINF:-1,RO | Nat Geo
+http://nomorecable.xyz:80/Direct/919123/15744
+#EXTINF:-1,RO | Nat Geo Wild
+http://nomorecable.xyz:80/Direct/919123/15745
+#EXTINF:-1,RO | National 24
+http://nomorecable.xyz:80/Direct/919123/15746
+#EXTINF:-1,RO | National Geographic
+http://nomorecable.xyz:80/Direct/919123/15747
+#EXTINF:-1,RO | National TV
+http://nomorecable.xyz:80/Direct/919123/15748
+#EXTINF:-1,RO | Nickelodeon
+http://nomorecable.xyz:80/Direct/919123/15749
+#EXTINF:-1,RO | Paramount Channel
+http://nomorecable.xyz:80/Direct/919123/15750
+#EXTINF:-1,RO | Prima TV
+http://nomorecable.xyz:80/Direct/919123/15751
+#EXTINF:-1,RO | PRO Cinema
+http://nomorecable.xyz:80/Direct/919123/15752
+#EXTINF:-1,RO | PRO TV
+http://nomorecable.xyz:80/Direct/919123/15753
+#EXTINF:-1,RO | Pro TV FHD
+http://nomorecable.xyz:80/Direct/919123/77380
+#EXTINF:-1,RO | Realitatea TV
+http://nomorecable.xyz:80/Direct/919123/15754
+#EXTINF:-1,RO | ROmania TV
+http://nomorecable.xyz:80/Direct/919123/15755
+#EXTINF:-1,RO | Sport
+http://nomorecable.xyz:80/Direct/919123/15756
+#EXTINF:-1,RO | Telekom 1
+http://nomorecable.xyz:80/Direct/919123/15676
+#EXTINF:-1,RO | Telekom 2
+http://nomorecable.xyz:80/Direct/919123/15673
+#EXTINF:-1,RO | Telekom 3
+http://nomorecable.xyz:80/Direct/919123/15674
+#EXTINF:-1,RO | Telekom 4
+http://nomorecable.xyz:80/Direct/919123/15675
+#EXTINF:-1,RO | TLC
+http://nomorecable.xyz:80/Direct/919123/15757
+#EXTINF:-1,RO | TNT
+http://nomorecable.xyz:80/Direct/919123/15758
+#EXTINF:-1,RO | Travel
+http://nomorecable.xyz:80/Direct/919123/15759
+#EXTINF:-1,RO | Travel Mix
+http://nomorecable.xyz:80/Direct/919123/15760
+#EXTINF:-1,RO | TV Paprika
+http://nomorecable.xyz:80/Direct/919123/15761
+#EXTINF:-1,RO | TV1000
+http://nomorecable.xyz:80/Direct/919123/15762
+#EXTINF:-1,RO | TVR
+http://nomorecable.xyz:80/Direct/919123/15763
+#EXTINF:-1,RO | TVR1
+http://nomorecable.xyz:80/Direct/919123/15764
+#EXTINF:-1,RO | TVR2
+http://nomorecable.xyz:80/Direct/919123/15765
+#EXTINF:-1,RO | TVR3
+http://nomorecable.xyz:80/Direct/919123/15766
+#EXTINF:-1,RO | UTV
+http://nomorecable.xyz:80/Direct/919123/15767
+#EXTINF:-1,RO | VH1
+http://nomorecable.xyz:80/Direct/919123/15768
+#EXTINF:-1,RO | VH1 Classic
+http://nomorecable.xyz:80/Direct/919123/15769
+#EXTINF:-1,RO | Viasat
+http://nomorecable.xyz:80/Direct/919123/15770
+#EXTINF:-1,RO | Viasat History
+http://nomorecable.xyz:80/Direct/919123/15771
+#EXTINF:-1,RO | Viasat Nature
+http://nomorecable.xyz:80/Direct/919123/15772
+#EXTINF:-1,RO | ZU TV
+http://nomorecable.xyz:80/Direct/919123/15773
