@@ -212,3 +212,39 @@ http://nomorecable.xyz:80/Direct/919123/15771
 http://nomorecable.xyz:80/Direct/919123/15772
 #EXTINF:-1,RO | ZU TV
 http://nomorecable.xyz:80/Direct/919123/15773
+#EXTINF:-1,HBO
+http://mag.mtbox.hitv.one/GXJRFt6857/sxoDyY567/14604
+#EXTINF:-1,+HBO GO LIVE ROMANIA
+http://185.2.82.97:14010/sop.ts
+#EXTINF:-1,HBO GO 2 LIVE ---//---
+http://185.2.82.97:14020/sop.ts
+#EXTINF:-1,HBO GO 3 LIVE ---//---
+http://185.2.82.97:14030/sop.ts
+#EXTINF:-1,CINEMAX
+http://mag.mtbox.hitv.one:80/GXJRFt6857/sxoDyY567/14629
+#EXTINF:-1,CINEMAX2
+http://mag.mtbox.hitv.one:80/GXJRFt6857/sxoDyY567/16558
+#EXTINF:-1,MAGIC TV
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8?publisher=83
+#EXTINF:-1,Canal 33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+#EXTINF:-1,Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1251469938_b300000.m3u8?publisher=83
+#EXTINF:-1,Pro TV HD
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,Pro X HD
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,Pro Cinema HD
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-procinema/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,Pro 2 HD
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,Pro Gold
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,Pro TV INTERNATIONAL
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,TV IASI LIFE
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1,TV NEAMT
+rtmp://82.208.140.3:12800/live/1
+#EXTINF:-1,VOYO NEWS
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
