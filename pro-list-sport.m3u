@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,RO | DIGI Sport 1
+http://nomorecable.xyz:80/Direct/919123/15700
+#EXTINF:-1,RO | DIGI Sport 2
+http://nomorecable.xyz:80/Direct/919123/15701
+#EXTINF:-1,RO | DIGI Sport 3
+http://nomorecable.xyz:80/Direct/919123/15702
+#EXTINF:-1,RO | DIGI Sport 4
+http://nomorecable.xyz:80/Direct/919123/15703
+#EXTINF:-1,RO | Digi Sport 1 FHD
+http://nomorecable.xyz:80/Direct/919123/77375
+#EXTINF:-1,RO | Digi Sports 2 FHD
+http://nomorecable.xyz:80/Direct/919123/77376
+#EXTINF:-1,RO | Digi Sports 3 FHD
+http://nomorecable.xyz:80/Direct/919123/77377
+#EXTINF:-1,RO | Digi Sports 4 FHD
+http://nomorecable.xyz:80/Direct/919123/77378
+#EXTINF:-1,RO | Eurosport 1
+http://nomorecable.xyz:80/Direct/919123/15716
+#EXTINF:-1,RO | Eurosport 2
+http://nomorecable.xyz:80/Direct/919123/15717
+#EXTINF:-1,RO | Extreme Sport
+http://nomorecable.xyz:80/Direct/919123/15718
+#EXTINF:-1,RO | Sport
+http://nomorecable.xyz:80/Direct/919123/15756
+#EXTINF:-1,RO | Telekom 1
+http://nomorecable.xyz:80/Direct/919123/15676
+#EXTINF:-1,RO | Telekom 2
+http://nomorecable.xyz:80/Direct/919123/15673
+#EXTINF:-1,RO | Telekom 3
+http://nomorecable.xyz:80/Direct/919123/15674
+#EXTINF:-1,RO | Telekom 4
+http://nomorecable.xyz:80/Direct/919123/15675
+#EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="ITALY",Motor TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://i.imgur.com/5ulOi6s.png" group-title="ITALY",MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="ITALY",My Surf TV
+https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTVL" tvg-logo="" group-title="ITALY LOCAL",SPORTVL
+https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
+#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO CAT
+https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO
+https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos" tvg-name="ETB Deportes",ETB Deportes
+https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
+https://hls-aragontv-events2.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
