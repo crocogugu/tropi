@@ -1,6 +1,36 @@
 #EXTM3U
 #EXTINF:-1,ANTENA TA
 https://live7digi.antenaplay.ro/a1/a1_3000k.m3u8
+#EXTINF:-1,DOCUBOX
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41590
+#EXTINF:-1,DuckTv
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41591
+#EXTINF:-1,TrinitasTv
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41592
+#EXTINF:-1,FilmBOX stars
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41595
+#EXTINF:-1,FilmBOX family
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41596
+#EXTINF:-1, FilmBOX premium
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41597
+#EXTINF:-1,NickJr
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41598
+#EXTINF:-1, DigiSport 4
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41602
+#EXTINF:-1,DigiWorld
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41605
+#EXTINF:-1,DigiLife
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41606
+#EXTINF:-1,DigiAnimalWorld
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41607
+#EXTINF:-1,Utv
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41611
+#EXTINF:-1,HappyHd
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41615
+#EXTINF:-1,ZUtv
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41616
+#EXTINF:-1,TNT
+http://live.yimp.cc:7779/pWVYIr2sBv/TpmnD4lemh/41619
 #EXTINF:-1,HBO
 http://mag.mtbox.hitv.one/GXJRFt6857/sxoDyY567/14604
 #EXTINF:-1,+HBO GO LIVE ROMANIA
