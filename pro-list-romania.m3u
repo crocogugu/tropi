@@ -1,0 +1,603 @@
+#EXTM3U
+#EXTINF:0,+Bine ai venit!"
+http://preview.editmysite.com/uploads/1/3/6/6/136672409/welcome-iptv.
+#EXTINF:0,+24mix Teleshoping"
+http://185.2.83.94:25461/live/nou/nou/7.m3u8
+#EXTINF:0,+TVR 1 +
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
+#EXTINF:0,+TVR 2 +" 
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:0,+TVR 3 +"
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+#EXTINF:0,+TVR I Premium"
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:0,+TVR MD Premium"
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+#EXTINF:0,+Antena1"
+https://ivm.antenaplay.ro/live/a1/playlist.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Antena3
+https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?free=1&
+#EXTINF:0,+AntenaStars HD" 
+https://ivm.antenaplay.ro/live/astars/playlist.m3u8?
+#EXTINF:0,+Happy HD" 
+https://ivm.antenaplay.ro/live/happy/playlist.m3u8?
+#EXTINF:0,+Antena International HD"
+https://ivm.antenaplay.ro/live/ai/playlist.m3u8?
+#EXTINF:0 ,+ZuTV HD"
+https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Antena3 HD
+https://ivm.antenaplay.ro/live/a3/playlist.m3u8
+#EXTINF:0 ,+Protv HD +"
+http://sportbarchik88.com/lba/MDQzMjBkMGU4MDk3NzNhZmYzMDBlOTcyZWEzZjNhNDk=/g1/protv.m3u8?
+#EXTINF:0,+Moldova1" 
+http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:0,+Protv Moldova"
+http://vm1622605.3ssd.had.wf:23073/play/_PROTV_Chisinau_/index.m3u8?token=JgdtgDTGGGk75869njnfhnwsz.m3u8
+#EXTINF:0,+PROX" 
+http://45.142.214.248:11110/sop.ts
+#EXTINF:0,+PRO2" 
+http://45.142.214.248:14040/sop.ts
+#EXTINF:0,+PCINEMA
+http://45.142.214.248:14050/sop.ts
+#EXTINF:0 ,+PInternational HD" 
+http://45.142.214.248:11130/sop.ts
+#EXTINF:0 ,+LookSport 1: 
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?
+#EXTINF:0 ,+LookSport 2: 
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?
+#EXTINF:0 ,+LookSport 2: 
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?
+#EXTINF:0 ,+KanalD TV
+http://109.236.83.117:11030/sop.ts
+#EXTINF:0 ,+Cartoon Network Ro
+http://207.180.248.87:15020/sop.ts
+#EXTINF:0 ,+DuckTV : 
+http://207.180.248.87:15070/sop.ts
+#EXTINF:0 ,+Rtv Moldova
+https://realitatealive.md/chanel/tv/rlive.m3u8
+#EXTINF:0 ,+MuscelTV 
+http://188.27.135.199:8090/hls/musceltv/index.m3u8
+#EXTINF:0 ,+IasiTVlife HD
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:0 ,+Busuioc TV:
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:0 ,+Nationaltv 24: 
+http://109.236.83.117:11100/sop.ts
+#EXTINF:0 ,+Viasat Explore: 
+http://45.67.231.74:16120/sop.ts
+#EXTINF:0 ,+Rapsodia TV
+https://video.fbcm1-1.fna.fbcdn.net/hvideo-vll-frc/_nc_cat-104/v/rqN6xBjA9r20yzqZK-YsD/_nc_ohc-Y1bwYijqG-wAX8pVzGx/live-dash/dash-abr-ibr-audio/4131575990260156.mpd?_nc_eui2=AeHP6m_ZjYFM8R2jcV_hrXcSGBJ4cHVPMwcYEnhwdU8zB-v0uJGb3J895gCSp4Nm9ze3LAwEinHvEdA2jetQhSdS&_nc_rl=AfD2xYA69c7EhfqLDQY&ccb=2-4&ms=m_CN&oh=e6127baeb5826e606fb04f35e7128ef2&oe=60A1F0C4
+#EXTINF:0 ,+Discovery Science: 
+http://51.178.8.231:16040/sop.ts
+#EXTINF:0 ,+Cinemax HD:
+http://5.135.68.246:14080/sop.ts
+#EXTINF:0 ,+TV1000:
+http://51.178.8.229:14070/sop.ts
+#EXTINF:0 ,+TNT SD
+http://51.178.8.229:14200/sop.ts
+#EXTINF:0 ,+LookPlusHD:
+http://185.2.82.97:13100/sop.ts
+#EXTINF:0 ,+B1TV:
+http://stream.adunity.com/b1/b1_640-.m3u8
+#EXTINF:0 ,+Pro2-acasatv:
+http://45.142.214.248:14040/sop.ts
+#EXTINF:0 ,+Discovery Turbo:
+https://itvorigin.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:0 ,+Comedy Central: 
+http://51.178.8.234:14230/sop.ts
+#EXTINF:0 ,+Hbo Go3: 
+http://185.2.82.97:14030/sop.ts
+#EXTINF:0 ,+NationalGeographic: 
+http://62.171.150.53:16110/sop.ts
+#EXTINF:0 ,+IntermediaTV HD
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0 ,+Prox: 
+http://45.142.214.248:11110/sop.ts
+#EXTINF:0 ,+Viasat-History: 
+http://45.67.231.74:16080/sop.ts
+#EXTINF:0 ,+Hbo 1: 
+http://185.2.82.97:14010/sop.ts
+#EXTINF:0 ,+Id InvestigationcDiscovery: 
+http://51.178.8.231:16030/sop.ts
+#EXTINF:0 ,+Prima TV: 
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w721735970.m3u8
+#EXTINF:0 ,+Diva TV:
+http://5.135.68.246:14150/sop.ts
+#EXTINF:0 ,+AMC:
+http://51.178.8.234:14210/sop.ts
+#EXTINF:0 ,+Realitatea TV:
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:0 ,+HBO GO 2:
+http://185.2.82.97:14020/sop.ts
+#EXTINF:0 ,+Film Cafe: 
+http://51.178.8.234:14140/sop.ts
+#EXTINF:0 ,+Film Box HD: 
+http://5.135.68.246:14180/sop.ts
+#EXTINF:0 ,+arcadiatelevision HD
+http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:0 ,+Trinitas TV Youtube HD
+https://www.youtube.com/watch?v=En0YG4sRiL8
+#EXTINF:0 ,+Romania TV
+http://109.236.83.117:12030/sop.ts
+#EXTINF:0 , +TV Etno-No signal
+https://api.mp4.to/static/downloads/d1bf6198f8b448b0a/No_Signal___Bad_TV.m3u8
+#EXTINF:0 , +TV Taraf-No signal
+https://api.mp4.to/static/downloads/d1bf6198f8b448b0a/No_Signal___Bad_TV.m3u8
+#EXTINF:0 , +Profi TV-Teleshoping
+https://e-akamai-fastly.castr.com/edge/live_2d67b110aaa811eb9066cd6f2e0b2b8e/playlist.m3u8
+#EXTINF:0 , +Profit TV
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?wowzatokenendtime=1597376492&wowzatokenhash=OXns57g-Mtp3kOtAppmRTSpTzGMLgghdSigd3Sd9buo=&wowzatokenstarttime=1597333292
+#EXTINF:0 , +A7 TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:0 , +Canal33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+#EXTINF:0 , +UTV HD
+http://82.76.40.76/utvedge/utvlive/playlist.m3u8
+#EXTINF:0 , 1 +Music TV 1080I
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
+#EXTINF:0 , +Speranta TV
+https://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:0 , +HitMusicTV-HD
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0 , +AlephNews
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:0 , +NasaTV-EN
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+#EXTINF:0 , +Nasul ROMANIA
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:0 , +București TV
+http://89.38.8.130:39459
+#EXTINF:0 , +Buzau TV
+http://95.77.16.67:8080/
+#EXTINF:0 , +ALLJAZERA TV EN
+https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+#EXTINF:0 , +TV SUD EST
+http://89.38.8.130:39443/
+#EXTINF:0 , +Est TV
+http://89.38.8.130:39435
+#EXTINF:0 , +BucovinaTV SD
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:0 , +Dotto TV 8K
+https://dotto.edvr.ro/index.m3u8
+#EXTINF:0 , +Kapital TV
+http://84.247.79.238:1935/kapital/kapital/kapital.stream/playlist.m3u8
+#EXTINF:0 , +NovaBrasov/Fagaras TV
+http://86.125.106.40:1935/live/_definst_/nova/playlist.m3u8
+#EXTINF:0 , +Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1528004331_b1600000.m3u8?publisher=83
+#EXTINF:0 , +RadioFX TV
+https://5ab29cc78f681.streamlock.net/justicero/radiofx/playlist.m3u8
+#EXTINF:0 , +KanalD TV
+http://109.236.83.117:11030/sop.ts
+#EXTINF:0 , +Discovery ID ROMANIA
+http://195.123.245.80/3324
+#EXTINF:0 ,+Tv1000 Romania
+http://51.178.8.229:14070/sop.ts
+#EXTINF:0 ,+FilmCafe Romania
+http://51.178.8.234:14140/sop.ts
+#EXTINF:0 ,+Diva Romania
+http://5.135.68.246:14150/sop.ts
+#EXTINF:0 ,+Amc Romania
+http://51.178.8.234:14210/sop.ts
+#EXTINF:0 ,+HBO GO1 ROMANIA
+http://185.2.82.97:14010/sop.ts
+#EXTINF:0 ,+HBO GO2 ROMANIA
+http://185.2.82.97:14020/sop.ts
+#EXTINF:0 ,+HBO GO3 Romania
+http://185.2.82.97:14030/sop.ts
+#EXTINF:0 ,+HISTORY CHANNEL Romania
+http://195.123.245.80/3352
+#EXTINF:0 ,+Axn Romania
+http://185.2.82.97:14100/sop.ts
+#EXTINF:0 ,+Tnt Romania HD
+http://51.178.8.229:14200/sop.ts
+#EXTINF:0 ,+ComedyCentral TV HD
+http://51.178.8.234:14230/sop.ts
+#EXTINF:0 ,+roChannel TV HD
+http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
+#EXTINF:0 ,+DiasporaMedia TV HD
+https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
+#EXTINF:0 ,+France24 EN TV HD
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
+#EXTINF:0 ,+Cartoon Network HD 
+http://207.180.248.87:15020/sop.ts
+#EXTINF:0 ,+Nickelodeon HD 
+http://207.180.248.87:15110/sop.ts
+#EXTINF:0 ,+PartyMix HD 
+http://185.2.83.94:25461/live/nou/nou/8.m3u8
+#EXTINF:0 ,+ValeaPrahovei UHD
+http://89.38.8.130:39437
+#EXTINF:0 ,+DibiTV UHD
+http://82.76.210.127:1935/dibitv/live/playlist.m3u8
+#EXTINF:0 ,+DigiWorld
+http://ip.trboss.net/dindin/sdfsjfujskrez/4520?checkedby:iptvcat.com
+#EXTINF:0 ,+Travel Mix HD 4k
+http://185.2.83.94:25461/live/nou/nou/11.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",+TELEKOM SPORT 3 HD
+http://ip.trboss.net/dindin/sdfsjfujskrez/23962?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",+EuroSport 2 HD
+http://185.2.82.97:13120/sop.ts
+#EXTINF:0 tvg-country="En" tvg-logo="" group-title="Sport",+Discovery HD
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Discovery science
+http://51.178.8.231:16040/sop.ts
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Cinemax 1
+http://5.135.68.246:14080/sop.ts
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Estrada TV/NEWSROMANIA
+http://5.2.152.58:1935/newsromania/myStream/chunklist_w1200361663.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+MireasaTV
+https://ivm.antenaplay.ro/live/mireasa/playlist.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+ViasatExplorer
+http://45.67.231.74:16120/sop.ts
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+DaVinci_34_35 HD
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+DocuBox TV 
+http://45.67.231.74:16270/sop.ts
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+FishingAndHunting TV 
+http://45.67.231.74:16150/sop.ts
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+DigiSport1 HD
+https://zi4ztlo997bfokqp.ezcdn654.net:8443/hls/apibss.m3u8?=NRxs7GORCb9vrLEWqffOWA&e=1621113764
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+SkySport2 HD
+https://zi4ztlo997bfokqp.ezcdn654.net:8443/hls/x11gq4.m3u8?s=9Wcs3X0wypcjnpf6Eq-u4w&e=1621114125
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Antena3
+https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?free=1&
+#EXTINF:0 , +MagicTV HD
+http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
+#EXTINF:0,[RO] ProXtech Kids
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111235
+#EXTINF:0,[RO] Credo tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111234
+#EXTINF:0,[RO] Favorit Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111233
+#EXTINF:0,[RO] Epic Drama HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111232
+#EXTINF:0,[RO] FilmBox Premium
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111231
+#EXTINF:0,[RO] Filmbox Family
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111230
+#EXTINF:0,[RO] Film Box
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111229
+#EXTINF:0,[RO] Bollywood Classic
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111228
+#EXTINF:0,[RO] Bollywood TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111227
+#EXTINF:0,[RO] TV 1000
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111226
+#EXTINF:0,[RO] TeenNick
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111225
+#EXTINF:0,[RO] AMC
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111224
+#EXTINF:0,[RO] Travel MIX HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111223
+#EXTINF:0,[RO] Viasat History
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111222
+#EXTINF:0,[RO] Viasat Explore
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111221
+#EXTINF:0,[RO] BBC Earth
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111220
+#EXTINF:0,[RO] Party Mix
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111219
+#EXTINF:0,[RO] Discovery ID
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111218
+#EXTINF:0,[RO] CBS Reality
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111217
+#EXTINF:0,[RO] E! Entertainment
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111216
+#EXTINF:0,[RO] HDNet Comedy
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111215
+#EXTINF:0,[RO] HDNet Action
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111214
+#EXTINF:0,[RO] HDNet Premiere
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111213
+#EXTINF:0,[RO] Look Sport HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111212
+#EXTINF:0,[RO] Look Plus HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111211
+#EXTINF:0,[RO] Digi 24 FHD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111210
+#EXTINF:0,[RO] AnumeTv Paw Patrol
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111209
+#EXTINF:0,[RO] Jim Jam
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111208
+#EXTINF:0,[RO] Hit music
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111207
+#EXTINF:0,[RO] MTV Hits
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111206
+#EXTINF:0,[RO] U Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111205
+#EXTINF:0,[RO] Zu Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111204
+#EXTINF:0,[RO] MTV Live HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111203
+#EXTINF:0,[RO] Travel MIX
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111202
+#EXTINF:0,[RO] Love Nature
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111201
+#EXTINF:0,[RO] Food Network
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111200
+#EXTINF:0,[RO] Disney Channel
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111199
+#EXTINF:0,[RO] Mooz HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111198
+#EXTINF:0,[RO] Nick Jr
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111197
+#EXTINF:0,[RO] Auto Motor Sport
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111196
+#EXTINF:0,[RO] TVR 3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111195
+#EXTINF:0,[RO] National TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111194
+#EXTINF:0,[RO] B1 Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111193
+#EXTINF:0,[RO] Prima TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111192
+#EXTINF:0,[RO] National 24 Plus
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111191
+#EXTINF:0,[RO] N 24
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111190
+#EXTINF:0,[RO] Realitatea Plus
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111189
+#EXTINF:0,[RO] Crime&Investigation
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111188
+#EXTINF:0,[RO] Romania tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111170
+#EXTINF:0,[RO] Eurosport 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111169
+#EXTINF:0,[RO] Antena STARS
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111168
+#EXTINF:0,[RO] Look Plus
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111167
+#EXTINF:0,[RO] Telekom Sport 4
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111166
+#EXTINF:0,[RO] Telekom Sport 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111165
+#EXTINF:0,[RO] Telekom Sport 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111164
+#EXTINF:0,[RO] Telekom Sport 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111163
+#EXTINF:0,[RO] Digi Life
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111162
+#EXTINF:0,[RO] DIGI Sport 4
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111161
+#EXTINF:0,[RO] ProXtech PREMIRE
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111160
+#EXTINF:0,[RO] ProXtech Comedy
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111159
+#EXTINF:0,[RO] ProXtech SCI-FI
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111158
+#EXTINF:0,[RO] ProXtech Crime
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111157
+#EXTINF:0,[RO] ProXtech Action
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111156
+#EXTINF:0,[RO] DIGI Sport 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111155
+#EXTINF:0,[RO] HDNetRO 4K
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111154
+#EXTINF:0,[RO] Digi 24
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111153
+#EXTINF:0,[RO] Kanal D HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111152
+#EXTINF:0,[RO] Protv International
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111151
+#EXTINF:0,[RO] Skynet Arte Martiale
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/111150
+#EXTINF:-1,[RO]  A7 Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8840
+#EXTINF:-1,[RO]  Actualitatea Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8839
+#EXTINF:-1,[RO]  Alpha media
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8838
+#EXTINF:-1,[RO]  ANTENA 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8837
+#EXTINF:-1,[RO]  ANTENA 3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8836
+#EXTINF:-1,[RO]  AXN BLACK
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8834
+#EXTINF:-1,[RO]  AXN SPIN
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8833
+#EXTINF:-1,[RO]  AXN WHITE
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8832
+#EXTINF:-1,[RO]  Bit Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8831
+#EXTINF:-1,[RO]  CINEMARATON
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8829
+#EXTINF:-1,[RO]  CINEMAX
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8828
+#EXTINF:-1,[RO]  CINEMAX 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8827
+#EXTINF:-1,[RO]  COMEDY CENTRAL
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8826
+#EXTINF:-1,[RO]  COMEDY EST
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8825
+#EXTINF:-1,[RO]  Cromtel tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8824
+#EXTINF:-1,[RO]  DAVINCI
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8822
+#EXTINF:-1,[RO]  DIGI 24 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8821
+#EXTINF:-1,[RO]  DIGI ANIMAL WORLD HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8820
+#EXTINF:-1,[RO]  DIGI ANIMAL WORLD SD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8819
+#EXTINF:-1,[RO]  DIGI LIFE HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8818
+#EXTINF:-1,[RO]  DIGI SPORT 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8817
+#EXTINF:-1,[RO]  Digi Sport 1 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8842
+#EXTINF:-1,[RO]  Digi Sport 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8841
+#EXTINF:-1,[RO]  DIGI SPORT 3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8816
+#EXTINF:-1,[RO]  DIGI WORLD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8815
+#EXTINF:-1,[RO]  DISCOVERY
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8814
+#EXTINF:-1,[RO]  DISNEY JR
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8813
+#EXTINF:-1,[RO]  DIVA
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8812
+#EXTINF:-1,[RO]  E HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8810
+#EXTINF:-1,[RO]  ENTERTAINMENT
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8809
+#EXTINF:-1,[RO]  EUROSPORT
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8808
+#EXTINF:-1,[RO]  FASHION TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8807
+#EXTINF:-1,[RO]  FILMCAFE
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8805
+#EXTINF:-1,[RO]  FILM NOW
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8806
+#EXTINF:-1,[RO]  FISHING & HUNTING
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8804
+#EXTINF:-1,[RO]  HAPPY CHANNEL
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8801
+#EXTINF:-1,[RO]  HBO 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8800
+#EXTINF:-1,[RO]  HBO 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8799
+#EXTINF:-1,[RO]  HBO 3
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8798
+#EXTINF:-1,[RO]  Iasi TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8797
+#EXTINF:-1,[RO]  INEDIT TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8796
+#EXTINF:-1,[RO]  InterMedia Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8794
+#EXTINF:-1,[RO]  KANAL D
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8793
+#EXTINF:-1,[RO]  MINIMAX RO
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8789
+#EXTINF:-1,[RO]  MUSIC CHANNEL RO
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8787
+#EXTINF:-1,[RO]  NASUL
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8786
+#EXTINF:-1,[RO]  NAT GEO WILD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8785
+#EXTINF:-1,[RO]  NAT GEO WILD HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8784
+#EXTINF:-1,[RO]  Nest Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8783
+#EXTINF:-1,[RO]  NICKELODEON
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8781
+#EXTINF:-1,[RO]  NICK TOONS
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8782
+#EXTINF:-1,[RO]  PAPRIKA TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8780
+#EXTINF:-1,[RO]  PRO 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8779
+#EXTINF:-1,[RO]  PRO 2 HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8778
+#EXTINF:-1,[RO]  PRO CINEMA
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8777
+#EXTINF:-1,[RO]  PRO GOLD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8776
+#EXTINF:-1,[RO]  PRO TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8775
+#EXTINF:-1,[RO]  PRO TV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8774
+#EXTINF:-1,[RO]  PRO X
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8773
+#EXTINF:-1,[RO]  PRO X HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8772
+#EXTINF:-1,[RO]  REALITATEA
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8771
+#EXTINF:-1,[RO]  Somax Tv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8770
+#EXTINF:-1,[RO]  TARAF TV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8769
+#EXTINF:-1,[RO]  Tele M
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8767
+#EXTINF:-1,[RO]  Tezaurtv
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8766
+#EXTINF:-1,[RO]  TLC
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8764
+#EXTINF:-1,[RO]  TNT
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8763
+#EXTINF:-1,[RO]  TRAVEL
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8761
+#EXTINF:-1,[RO]  TVR 1
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8759
+#EXTINF:-1,[RO] TVR 2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/5308
+#EXTINF:-1,[RO]  TVR2
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8757
+#EXTINF:-1,[RO]  TVR Iasi
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8758
+#EXTINF:-1,[RO]  UTV
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8756
+#EXTINF:-1,[RO]  UTV HD
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8755
+#EXTINF:-1,[RO]  VH 1 RO
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8754
+#EXTINF:-1,[RO]  VIASAT NATURE
+http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/8753
+#EXTINF:-1,+HBO GO LIVE ROMANIA
+http://185.2.82.97:14010/sop.ts
+#EXTINF:-1,HBO GO 2 LIVE ---//---
+http://185.2.82.97:14020/sop.ts
+#EXTINF:-1,HBO GO 3 LIVE ---//---
+http://185.2.82.97:14030/sop.ts
+#EXTINF:-1,Pro TV HD
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,TV NEAMT
+rtmp://82.208.140.3:12800/live/1
+#EXTINF:-1,VOYO NEWS
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z10bwPn.jpg" group-title="ROMANIA",7TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQ5PkKB.png" group-title="ROMANIA",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="ROMANIA",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Cook and PLay" tvg-logo="https://i.imgur.com/GZABUfW.png" group-title="ROMANIA",Antena Cook and PLay
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-logo="https://i.imgur.com/6R5TLlc.png" group-title="ROMANIA",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="ROMANIA",B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bucovina TV" tvg-logo="https://i.imgur.com/7QHdiTO.png" group-title="ROMANIA",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUNixjy.png" group-title="ROMANIA",CBN Family Romania
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cornea TV" tvg-logo="https://i.imgur.com/cn89fLa.jpg" group-title="ROMANIA",Cornea TV
+http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EST TV" tvg-logo="https://i.imgur.com/tP5cGl1.jpg" group-title="ROMANIA",EST TV
+http://89.38.8.130:39435
+#EXTINF:-1 tvg-id="" tvg-name="H!t Music Channel Romania" tvg-logo="https://i.imgur.com/VDl1q98.png" group-title="ROMANIA",H!t Music Channel Romania
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD 365" tvg-logo="https://i.imgur.com/DYdaxZ6.png" group-title="ROMANIA",HD 365
+https://netstreaming.eu:8080/hls/hd365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Info HD" tvg-logo="https://i.imgur.com/RiZA8Yu.png" group-title="ROMANIA",Info HD
+https://netstreaming.eu:8080/hls/InfoHd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Intermedia TV" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="ROMANIA",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="ROMANIA",Lira TV
+https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="ROMANIA",Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/LJTcfxk.png" group-title="ROMANIA",Nasul TV
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV Brasov" tvg-logo="https://i.imgur.com/DYO1tVZ.png" group-title="ROMANIA",Nova TV Brasov
+http://novapress.ro:1935/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="ROMANIA",Profit
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="ROMANIA",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="ROMANIA",Stars Direct
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="TravelMix" tvg-logo="https://i.imgur.com/MHTJwMo.jpg" group-title="ROMANIA",TravelMix
+http://89.38.8.131:39520
+#EXTINF:-1 tvg-id="" tvg-name="TV SE" tvg-logo="https://i.imgur.com/BoMnP5g.png" group-title="ROMANIA",TV SE
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="" tvg-name="TVPlus Suceava" tvg-logo="https://i.imgur.com/6T7w975.png" group-title="ROMANIA",TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="ROMANIA",TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJkyXtf.png" group-title="ROMANIA",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVSat" tvg-logo="https://i.imgur.com/CkKvogv.jpg" group-title="ROMANIA",TVSat
+http://89.38.8.130:39443
