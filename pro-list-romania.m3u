@@ -121,14 +121,6 @@ http://45.67.231.74:16120/sop.ts
 https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?free=1&
 #EXTINF:0 , +MagicTV HD
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
-#EXTINF:-1,+HBO GO LIVE ROMANIA
-http://185.2.82.97:14010/sop.ts
-#EXTINF:-1,HBO GO 2 LIVE ---//---
-http://185.2.82.97:14020/sop.ts
-#EXTINF:-1,HBO GO 3 LIVE ---//---
-http://185.2.82.97:14030/sop.ts
-#EXTINF:-1,Pro TV HD
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1,TV NEAMT
 rtmp://82.208.140.3:12800/live/1
 #EXTINF:-1,VOYO NEWS
