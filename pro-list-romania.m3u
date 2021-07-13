@@ -27,6 +27,14 @@ https://ivm.antenaplay.ro/live/zutv/playlist.m3u8?
 https://ivm.antenaplay.ro/live/a3/playlist.m3u8
 #EXTINF:0,+Moldova1" 
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1,Digi Sport 1 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
+#EXTINF:-1,Digi Sport 2 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
+#EXTINF:-1,Digi Sport 3 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
+#EXTINF:-1,Digi Sport 4 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
 #EXTINF:0 ,+LookSport 1: 
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?
 #EXTINF:0 ,+LookSport 2: 
