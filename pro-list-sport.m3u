@@ -1,71 +1,691 @@
 #EXTM3U
-#EXTINF:-1,RO | DIGI Sport 1
-http://nomorecable.xyz:80/Direct/919123/15700
-#EXTINF:-1,RO | DIGI Sport 2
-http://nomorecable.xyz:80/Direct/919123/15701
-#EXTINF:-1,RO | DIGI Sport 3
-http://nomorecable.xyz:80/Direct/919123/15702
-#EXTINF:-1,RO | DIGI Sport 4
-http://nomorecable.xyz:80/Direct/919123/15703
-#EXTINF:-1,RO | Digi Sport 1 FHD
-http://nomorecable.xyz:80/Direct/919123/77375
-#EXTINF:-1,RO | Digi Sports 2 FHD
-http://nomorecable.xyz:80/Direct/919123/77376
-#EXTINF:-1,RO | Digi Sports 3 FHD
-http://nomorecable.xyz:80/Direct/919123/77377
-#EXTINF:-1,RO | Digi Sports 4 FHD
-http://nomorecable.xyz:80/Direct/919123/77378
-#EXTINF:-1,RO | Eurosport 1
-http://nomorecable.xyz:80/Direct/919123/15716
-#EXTINF:-1,RO | Eurosport 2
-http://nomorecable.xyz:80/Direct/919123/15717
-#EXTINF:-1,RO | Extreme Sport
-http://nomorecable.xyz:80/Direct/919123/15718
-#EXTINF:-1,RO | Sport
-http://nomorecable.xyz:80/Direct/919123/15756
-#EXTINF:-1,RO | Telekom 1
-http://nomorecable.xyz:80/Direct/919123/15676
-#EXTINF:-1,RO | Telekom 2
-http://nomorecable.xyz:80/Direct/919123/15673
-#EXTINF:-1,RO | Telekom 3
-http://nomorecable.xyz:80/Direct/919123/15674
-#EXTINF:-1,RO | Telekom 4
-http://nomorecable.xyz:80/Direct/919123/15675
-#EXTINF:-1 tvg-id="" tvg-name="Motor TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="ITALY",Motor TV
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://i.imgur.com/5ulOi6s.png" group-title="ITALY",MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="ITALY",My Surf TV
-https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
-https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTVL" tvg-logo="" group-title="ITALY LOCAL",SPORTVL
-https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
-#EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO CAT
-https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO
-https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="ETBD.TV" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos" tvg-name="ETB Deportes",ETB Deportes
-https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
-https://hls-aragontv-events2.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="Deportivos" tvg-name="Aragón Deporte",Aragón Deporte
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:-1,LiveSport 1
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/106
+#EXTINF:-1,LiveSport 2
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/107
+#EXTINF:-1,Arena Sport 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
+#EXTINF:-1,Arena Sport 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
+#EXTINF:-1,Arena Sport 3 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/3
+#EXTINF:-1,Arena Sport 4 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
+#EXTINF:-1,Arena Sport 5 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
+#EXTINF:-1,Arena Sport 6 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/31
+#EXTINF:-1,Arena Sport 1 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/22
+#EXTINF:-1,Arena Sport 2 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/23
+#EXTINF:-1,Arena Sport 3 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/24
+#EXTINF:-1,Arena Sport 4 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/78
+#EXTINF:-1,Arena Sport 5 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/79
+#EXTINF:-1,Arena Sport 1 HD (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/342
+#EXTINF:-1,Sport Klub HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/46
+#EXTINF:-1,Sport Klub 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/4
+#EXTINF:-1,Sport Klub 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
+#EXTINF:-1,Sport Klub 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
+#EXTINF:-1,Sport Klub 4
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/9
+#EXTINF:-1,Sport Klub 5
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/10
+#EXTINF:-1,Sport Klub 6
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/11
+#EXTINF:-1,Sport Klub 7
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/101
+#EXTINF:-1,Sport Klub 8
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/102
+#EXTINF:-1,Sport Klub 9 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/103
+#EXTINF:-1,Sport Klub 10
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/104
+#EXTINF:-1,Sport Klub Start (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/108
+#EXTINF:-1,Planet Sport 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/14
+#EXTINF:-1,Planet Sport 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/15
+#EXTINF:-1,Planet Sport 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/80
+#EXTINF:-1,Planet Sport 4 HD 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/81
+#EXTINF:-1,Planet Sport 5 HD 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/82
+#EXTINF:-1,Digi Sport 1 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
+#EXTINF:-1,Digi Sport 2 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
+#EXTINF:-1,Digi Sport 3 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
+#EXTINF:-1,Digi Sport 4 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
+#EXTINF:-1,HRT 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/29
+#EXTINF:-1,HRT 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/30
+#EXTINF:-1,RTL (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/35
+#EXTINF:-1,NOVA HD (HR)
+http://84.22.107.232:8081/Cor-Net/Nova-HR-HD/mpeg.2ts
+#EXTINF:-1,DOMA TV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/105
+#EXTINF:-1,Sportska TV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/72
+#EXTINF:-1,HNTV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/17
+#EXTINF:-1,Fight Channel (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/47
+#EXTINF:-1,BHT 1 (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/65
+#EXTINF:-1,NOVA (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/74
+#EXTINF:-1,NOVA Sport (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/83
+#EXTINF:-1,RTS 1 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+#EXTINF:-1,RTS 2 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/41
+#EXTINF:-1,NOVA TV (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/71
+#EXTINF:-1,●●●●●●●●●● GERMANY / DE ●●●●●●●●●●
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/344
+#EXTINF:-1,Sky Sport News HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
+#EXTINF:-1,DAZN 1 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/76
+#EXTINF:-1,DAZN 2 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/77
+#EXTINF:-1,Sky Sport Austria HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/131
+#EXTINF:-1,Sky Sport Austria 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/349
+#EXTINF:-1,Sky Sport Austria 2 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/350
+#EXTINF:-1,Sky Sport Austria 3 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/351
+#EXTINF:-1,Sky Sport Austria 4 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/352
+#EXTINF:-1,Sky Sport 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/133
+#EXTINF:-1,Sky Sport 2 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/134
+#EXTINF:-1,Sky Sport 3 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/135
+#EXTINF:-1,Sky Sport 4 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/136
+#EXTINF:-1,Sky Sport 5 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/137
+#EXTINF:-1,Sky Sport 6 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/138
+#EXTINF:-1,Sky Sport 7 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/139
+#EXTINF:-1,Sky Sport 8 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/140
+#EXTINF:-1,Sky Sport 1 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/141
+#EXTINF:-1,Sky Sport 2 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/142
+#EXTINF:-1,Sky Sport 3 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/143
+#EXTINF:-1,Sky Sport 4 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/144
+#EXTINF:-1,Sky Sport 5 Bundesliga HD (DE) • ONLY ON WEEKENDS •  
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/145
+#EXTINF:-1,Sky Sport 6 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/146
+#EXTINF:-1,Sky Sport 7 Bundesliga HD (DE) • ONLY ON WEEKENDS • 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/147
+#EXTINF:-1,Sky Sport 8 Bundesliga HD (DE) • ONLY ON WEEKENDS • 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/148
+#EXTINF:-1,Sky Sport 9 Bundesliga HD (DE) • ONLY ON WEEKENDS •  
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/149
+#EXTINF:-1,Sky Sport X Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/150
+#EXTINF:-1,TRT SPOR FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/112
+#EXTINF:-1,Tivibu Spor 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/109
+#EXTINF:-1,Tivibu Spor 2 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/110
+#EXTINF:-1,Tivibu Spor 3 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/111
+#EXTINF:-1,Sports 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/73
+#EXTINF:-1,Sport 2 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/64
+#EXTINF:-1,Sports 3 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/86
+#EXTINF:-1,Sport 4 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/87
+#EXTINF:-1,Sport 6 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/89
+#EXTINF:-1,Sport 5 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/88
+#EXTINF:-1,Sport 7 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/90
+#EXTINF:-1,Sport 8 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/91
+#EXTINF:-1,Sport 9 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/92
+#EXTINF:-1,Sport 10 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/93
+#EXTINF:-1,Sports 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/94
+#EXTINF:-1,Sports 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/95
+#EXTINF:-1,Sports 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/96
+#EXTINF:-1,Sports 4 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
+#EXTINF:-1,Sports 5 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/98
+#EXTINF:-1,Sports 6 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/99
+#EXTINF:-1,Sports 7 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
+#EXTINF:-1,Sports 8 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/113
+#EXTINF:-1,Sports 9 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/114
+#EXTINF:-1,Sports 10 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/130
+#EXTINF:-1,Sports 1
+http://209.145.58.109:25461/omohaktv/App/19
+#EXTINF:-1,Sports 2
+http://209.145.58.109:25461/omohaktv/App/20
+#EXTINF:-1,Sports 3
+http://209.145.58.109:25461/omohaktv/App/21
+#EXTINF:-1,Sports 4
+http://209.145.58.109:25461/omohaktv/App/22
+#EXTINF:-1,Sports 5
+http://209.145.58.109:25461/omohaktv/App/23
+#EXTINF:-1,Sports 6
+http://209.145.58.109:25461/omohaktv/App/24
+#EXTINF:-1,Sports 7
+http://209.145.58.109:25461/omohaktv/App/25
+#EXTINF:-1,LiveSport 1
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/106
+#EXTINF:-1,LiveSport 2
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/107
+#EXTINF:-1,Arena Sport 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/1
+#EXTINF:-1,Arena Sport 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/2
+#EXTINF:-1,Arena Sport 3 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/3
+#EXTINF:-1,Arena Sport 4 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/8
+#EXTINF:-1,Arena Sport 5 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/20
+#EXTINF:-1,Arena Sport 6 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/31
+#EXTINF:-1,Arena Sport 1 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/22
+#EXTINF:-1,Arena Sport 2 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/23
+#EXTINF:-1,Arena Sport 3 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/24
+#EXTINF:-1,Arena Sport 4 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/78
+#EXTINF:-1,Arena Sport 5 HD (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/79
+#EXTINF:-1,Arena Sport 1 HD (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/342
+#EXTINF:-1,Sport Klub HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/46
+#EXTINF:-1,Sport Klub 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/4
+#EXTINF:-1,Sport Klub 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/159
+#EXTINF:-1,Sport Klub 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/6
+#EXTINF:-1,Sport Klub 4
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/9
+#EXTINF:-1,Sport Klub 5
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/10
+#EXTINF:-1,Sport Klub 6
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/11
+#EXTINF:-1,Sport Klub 7
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/101
+#EXTINF:-1,Sport Klub 8
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/102
+#EXTINF:-1,Sport Klub 9 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/103
+#EXTINF:-1,Sport Klub 10
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/104
+#EXTINF:-1,Sport Klub Start (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/108
+#EXTINF:-1,Planet Sport 1 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/14
+#EXTINF:-1,Planet Sport 2 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/15
+#EXTINF:-1,Planet Sport 3 HD
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/80
+#EXTINF:-1,Planet Sport 4 HD 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/81
+#EXTINF:-1,Planet Sport 5 HD 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/82
+#EXTINF:-1,Digi Sport 1 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/12
+#EXTINF:-1,Digi Sport 2 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/18
+#EXTINF:-1,Digi Sport 3 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/19
+#EXTINF:-1,Digi Sport 4 HD (RO)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/21
+#EXTINF:-1,HRT 1 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/29
+#EXTINF:-1,HRT 2 HD (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/30
+#EXTINF:-1,RTL (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/35
+#EXTINF:-1,NOVA HD (HR)
+http://84.22.107.232:8081/Cor-Net/Nova-HR-HD/mpeg.2ts
+#EXTINF:-1,DOMA TV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/105
+#EXTINF:-1,Sportska TV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/72
+#EXTINF:-1,HNTV (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/17
+#EXTINF:-1,Fight Channel (HR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/47
+#EXTINF:-1,BHT 1 (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/65
+#EXTINF:-1,NOVA (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/74
+#EXTINF:-1,NOVA Sport (BiH)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/83
+#EXTINF:-1,RTS 1 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/40
+#EXTINF:-1,RTS 2 (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/41
+#EXTINF:-1,NOVA TV (SR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/71
+#EXTINF:-1,●●●●●●●●●● GERMANY / DE ●●●●●●●●●●
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/344
+#EXTINF:-1,Sky Sport News HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/132
+#EXTINF:-1,DAZN 1 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/76
+#EXTINF:-1,DAZN 2 Bar HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/77
+#EXTINF:-1,Sky Sport Austria HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/131
+#EXTINF:-1,Sky Sport Austria 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/349
+#EXTINF:-1,Sky Sport Austria 2 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/350
+#EXTINF:-1,Sky Sport Austria 3 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/351
+#EXTINF:-1,Sky Sport Austria 4 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/352
+#EXTINF:-1,Sky Sport 1 HD (DE)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/133
+#EXTINF:-1,Sky Sport 2 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/134
+#EXTINF:-1,Sky Sport 3 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/135
+#EXTINF:-1,Sky Sport 4 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/136
+#EXTINF:-1,Sky Sport 5 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/137
+#EXTINF:-1,Sky Sport 6 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/138
+#EXTINF:-1,Sky Sport 7 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/139
+#EXTINF:-1,Sky Sport 8 HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/140
+#EXTINF:-1,Sky Sport 1 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/141
+#EXTINF:-1,Sky Sport 2 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/142
+#EXTINF:-1,Sky Sport 3 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/143
+#EXTINF:-1,Sky Sport 4 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/144
+#EXTINF:-1,Sky Sport 5 Bundesliga HD (DE) • ONLY ON WEEKENDS •  
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/145
+#EXTINF:-1,Sky Sport 6 Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/146
+#EXTINF:-1,Sky Sport 7 Bundesliga HD (DE) • ONLY ON WEEKENDS • 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/147
+#EXTINF:-1,Sky Sport 8 Bundesliga HD (DE) • ONLY ON WEEKENDS • 
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/148
+#EXTINF:-1,Sky Sport 9 Bundesliga HD (DE) • ONLY ON WEEKENDS •  
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/149
+#EXTINF:-1,Sky Sport X Bundesliga HD (DE) • ONLY ON WEEKENDS •
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/150
+#EXTINF:-1,●●●●●●●●●● TÜRKİYE / TR ●●●●●●●●●●
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/345
+#EXTINF:-1,TRT 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/353
+#EXTINF:-1,TRT SPOR FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/112
+#EXTINF:-1,Tivibu Spor 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/109
+#EXTINF:-1,Tivibu Spor 2 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/110
+#EXTINF:-1,Tivibu Spor 3 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/111
+#EXTINF:-1,Sports 1 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/73
+#EXTINF:-1,Sport 2 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/64
+#EXTINF:-1,Sports 3 FHD (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/86
+#EXTINF:-1,Sport 4 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/87
+#EXTINF:-1,Sport 6 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/89
+#EXTINF:-1,Sport 5 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/88
+#EXTINF:-1,Sport 7 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/90
+#EXTINF:-1,Sport 8 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/91
+#EXTINF:-1,Sport 9 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/92
+#EXTINF:-1,Sport 10 (TR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/93
+#EXTINF:-1,●●●●●●●●●● ARABIC / AR ●●●●●●●●●●
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/348
+#EXTINF:-1,Sports 1 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/94
+#EXTINF:-1,Sports 2 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/95
+#EXTINF:-1,Sports 3 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/96
+#EXTINF:-1,Sports 4 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
+#EXTINF:-1,Sports 5 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/98
+#EXTINF:-1,Sports 6 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/99
+#EXTINF:-1,Sports 7 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/100
+#EXTINF:-1,Sports 8 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/113
+#EXTINF:-1,Sports 9 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/114
+#EXTINF:-1,Sports 10 HD (AR)
+http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/130
+#EXTINF:-1,SuperSport Variety 01
+http://sofadad.co.uk:80/Sarah123/Sarah123/212365
+#EXTINF:-1,SuperSport Variety 02
+http://sofadad.co.uk:80/Sarah123/Sarah123/212366
+#EXTINF:-1,SuperSport Variety 03
+http://sofadad.co.uk:80/Sarah123/Sarah123/212361
+#EXTINF:-1,SuperSport Variety 04
+http://sofadad.co.uk:80/Sarah123/Sarah123/212362
+#EXTINF:-1,SuperSport Premier League
+http://sofadad.co.uk:80/Sarah123/Sarah123/212370
+#EXTINF:-1,SuperSport Football
+http://sofadad.co.uk:80/Sarah123/Sarah123/212363
+#EXTINF:-1,SuperSport Tennis
+http://sofadad.co.uk:80/Sarah123/Sarah123/212356
+#EXTINF:-1,SuperSport Motorsports
+http://sofadad.co.uk:80/Sarah123/Sarah123/212357
+#EXTINF:-1,SuperSport Golf
+http://sofadad.co.uk:80/Sarah123/Sarah123/212358
+#EXTINF:-1,SuperSport Cricket
+http://sofadad.co.uk:80/Sarah123/Sarah123/212359
+#EXTINF:-1,SuperSport Rugby
+http://sofadad.co.uk:80/Sarah123/Sarah123/212360
+#EXTINF:-1,SuperSport Action
+http://sofadad.co.uk:80/Sarah123/Sarah123/212364
+#EXTINF:-1,SuperSport Granstand
+http://sofadad.co.uk:80/Sarah123/Sarah123/212367
+#EXTINF:-1,SuperSport PSL
+http://sofadad.co.uk:80/Sarah123/Sarah123/212368
+#EXTINF:-1,SuperSport La Liga
+http://sofadad.co.uk:80/Sarah123/Sarah123/212369
+#EXTINF:-1,SuperSport Blitz
+http://sofadad.co.uk:80/Sarah123/Sarah123/212371
+#EXTINF:-1,Supersport WWE
+http://sofadad.co.uk:80/Sarah123/Sarah123/185133
+#EXTINF:-1,Astro Super Sports 1
+http://sofadad.co.uk:80/Sarah123/Sarah123/212404
+#EXTINF:-1,Astro Super Sports 2
+http://sofadad.co.uk:80/Sarah123/Sarah123/212403
+#EXTINF:-1,Astro Super Sports 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/212402
+#EXTINF:-1,Astro Super Sports 4
+http://sofadad.co.uk:80/Sarah123/Sarah123/212401
+#EXTINF:-1,Astro Sports
+http://sofadad.co.uk:80/Sarah123/Sarah123/212397
+#EXTINF:-1,Astro Max
+http://sofadad.co.uk:80/Sarah123/Sarah123/212398
+#EXTINF:-1,Astro Arena HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212400
+#EXTINF:-1,Astro Sports
+http://sofadad.co.uk:80/Sarah123/Sarah123/185134
+#EXTINF:-1,Astro Fox Sports 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/212394
+#EXTINF:-1,Astro FOX SPORTS 2
+http://sofadad.co.uk:80/Sarah123/Sarah123/212395
+#EXTINF:-1,Astro Fox Sports HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212396
+#EXTINF:-1,Optus 1 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212383
+#EXTINF:-1,Optus 2 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212382
+#EXTINF:-1,Optus 3 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212381
+#EXTINF:-1,Optus 4  HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212380
+#EXTINF:-1,Optus 5  HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212379
+#EXTINF:-1,Optus 6 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212378
+#EXTINF:-1,Optus 7 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212377
+#EXTINF:-1,Optus 8 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212376
+#EXTINF:-1,Optus 9 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212375
+#EXTINF:-1,Optus 10 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212374
+#EXTINF:-1,Optus 11 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212373
+#EXTINF:-1,Optus 12 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/212372
+#EXTINF:-1,Sports 1 (ENG)
+http://sofadad.co.uk:80/Sarah123/Sarah123/185127
+#EXTINF:-1,Sports 2 (ENG)
+http://sofadad.co.uk:80/Sarah123/Sarah123/82575
+#EXTINF:-1,SPORTS 3 (ENG)
+http://sofadad.co.uk:80/Sarah123/Sarah123/82576
+#EXTINF:-1,Now HK Now Sports 1
+http://sofadad.co.uk:80/Sarah123/Sarah123/185128
+#EXTINF:-1,Now HK Now Sports 2
+http://sofadad.co.uk:80/Sarah123/Sarah123/185129
+#EXTINF:-1,Now HK Now Sports 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/185130
+#EXTINF:-1,Now HK Now Sports 4
+http://sofadad.co.uk:80/Sarah123/Sarah123/185131
+#EXTINF:-1,Now HK Now Sports 5
+http://sofadad.co.uk:80/Sarah123/Sarah123/185132
+#EXTINF:-1,Now HK Premier Sports 1
+http://sofadad.co.uk:80/Sarah123/Sarah123/185126
+#EXTINF:-1,DAZN-CA 01
+http://sofadad.co.uk:80/Sarah123/Sarah123/212355
+#EXTINF:-1,DAZN-CA 02
+http://sofadad.co.uk:80/Sarah123/Sarah123/212354
+#EXTINF:-1,DAZN-CA 03
+http://sofadad.co.uk:80/Sarah123/Sarah123/212353
+#EXTINF:-1,DAZN-CA 04
+http://sofadad.co.uk:80/Sarah123/Sarah123/212352
+#EXTINF:-1,DAZN-CA 05
+http://sofadad.co.uk:80/Sarah123/Sarah123/212351
+#EXTINF:-1,DAZN-CA 06
+http://sofadad.co.uk:80/Sarah123/Sarah123/212350
+#EXTINF:-1,DAZN-CA 07
+http://sofadad.co.uk:80/Sarah123/Sarah123/212349
+#EXTINF:-1,DAZN-CA 08
+http://sofadad.co.uk:80/Sarah123/Sarah123/212348
+#EXTINF:-1,DAZN-CA 09
+http://sofadad.co.uk:80/Sarah123/Sarah123/212347
+#EXTINF:-1,DAZN-CA 10
+http://sofadad.co.uk:80/Sarah123/Sarah123/212346
+#EXTINF:-1,DAZN-CA 11
+http://sofadad.co.uk:80/Sarah123/Sarah123/212345
+#EXTINF:-1,DAZN-CA 12
+http://sofadad.co.uk:80/Sarah123/Sarah123/212344
+#EXTINF:-1,DAZN-CA 13
+http://sofadad.co.uk:80/Sarah123/Sarah123/212343
+#EXTINF:-1,Spark Sports Event 1
+http://sofadad.co.uk:80/Sarah123/Sarah123/212393
+#EXTINF:-1,Spark Sports Event 2
+http://sofadad.co.uk:80/Sarah123/Sarah123/212392
+#EXTINF:-1,Spark Sports Event 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/212391
+#EXTINF:-1,Spark Sports Event 4
+http://sofadad.co.uk:80/Sarah123/Sarah123/212390
+#EXTINF:-1,Spark Sports Event 5
+http://sofadad.co.uk:80/Sarah123/Sarah123/212389
+#EXTINF:-1,Spark Sports Event 6
+http://sofadad.co.uk:80/Sarah123/Sarah123/212388
+#EXTINF:-1,Spark Sports Event 7
+http://sofadad.co.uk:80/Sarah123/Sarah123/212387
+#EXTINF:-1,Spark Sports Event 8
+http://sofadad.co.uk:80/Sarah123/Sarah123/212386
+#EXTINF:-1,Spark Sports Event 9
+http://sofadad.co.uk:80/Sarah123/Sarah123/212385
+#EXTINF:-1,Spark Sports Event 10
+http://sofadad.co.uk:80/Sarah123/Sarah123/212384
+#EXTINF:-1,iFollow | EFL 1
+http://sofadad.co.uk:80/Sarah123/Sarah123/213596
+#EXTINF:-1,iFollow | EFL 2
+http://sofadad.co.uk:80/Sarah123/Sarah123/213595
+#EXTINF:-1,iFollow | EFL 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/213594
+#EXTINF:-1,iFollow | EFL 4
+http://sofadad.co.uk:80/Sarah123/Sarah123/213593
+#EXTINF:-1,iFollow | EFL 5
+http://sofadad.co.uk:80/Sarah123/Sarah123/213592
+#EXTINF:-1,iFollow | EFL 6
+http://sofadad.co.uk:80/Sarah123/Sarah123/213591
+#EXTINF:-1,iFollow | EFL 7
+http://sofadad.co.uk:80/Sarah123/Sarah123/213590
+#EXTINF:-1,iFollow | EFL 8
+http://sofadad.co.uk:80/Sarah123/Sarah123/213589
+#EXTINF:-1,iFollow | EFL 9
+http://sofadad.co.uk:80/Sarah123/Sarah123/213588
+#EXTINF:-1,iFollow | EFL 10
+http://sofadad.co.uk:80/Sarah123/Sarah123/213587
+#EXTINF:-1,iFollow | EFL 11
+http://sofadad.co.uk:80/Sarah123/Sarah123/213586
+#EXTINF:-1,iFollow | EFL 12
+http://sofadad.co.uk:80/Sarah123/Sarah123/213585
+#EXTINF:-1,iFollow | EFL 13
+http://sofadad.co.uk:80/Sarah123/Sarah123/213584
+#EXTINF:-1,iFollow | EFL 14
+http://sofadad.co.uk:80/Sarah123/Sarah123/213583
+#EXTINF:-1,iFollow | EFL 15
+http://sofadad.co.uk:80/Sarah123/Sarah123/213582
+#EXTINF:-1,iFollow | EFL 16
+http://sofadad.co.uk:80/Sarah123/Sarah123/213581
+#EXTINF:-1,iFollow | EFL 17
+http://sofadad.co.uk:80/Sarah123/Sarah123/213580
+#EXTINF:-1,iFollow | EFL 18
+http://sofadad.co.uk:80/Sarah123/Sarah123/213579
+#EXTINF:-1,iFollow | EFL 19
+http://sofadad.co.uk:80/Sarah123/Sarah123/213578
+#EXTINF:-1,iFollow | EFL 20
+http://sofadad.co.uk:80/Sarah123/Sarah123/213577
+#EXTINF:-1,iFollow | EFL 21
+http://sofadad.co.uk:80/Sarah123/Sarah123/213576
+#EXTINF:-1,iFollow | EFL 22
+http://sofadad.co.uk:80/Sarah123/Sarah123/213575
+#EXTINF:-1,iFollow | EFL 23
+http://sofadad.co.uk:80/Sarah123/Sarah123/213574
+#EXTINF:-1,iFollow | EFL 24
+http://sofadad.co.uk:80/Sarah123/Sarah123/213573
+#EXTINF:-1,iFollow | EFL 25
+http://sofadad.co.uk:80/Sarah123/Sarah123/213572
+#EXTINF:-1,iFollow | EFL 26
+http://sofadad.co.uk:80/Sarah123/Sarah123/213571
+#EXTINF:-1,iFollow | EFL 27
+http://sofadad.co.uk:80/Sarah123/Sarah123/213570
+#EXTINF:-1,iFollow | EFL 28
+http://sofadad.co.uk:80/Sarah123/Sarah123/213569
+#EXTINF:-1,iFollow | EFL 29
+http://sofadad.co.uk:80/Sarah123/Sarah123/213568
+#EXTINF:-1,iFollow | EFL 30
+http://sofadad.co.uk:80/Sarah123/Sarah123/213567
+#EXTINF:-1,Sport 1
+http://sofadad.co.uk:80/Sarah123/Sarah123/79673
+#EXTINF:-1,Sport 2
+http://sofadad.co.uk:80/Sarah123/Sarah123/79676
+#EXTINF:-1,Sport 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/79677
+#EXTINF:-1,Sport 4 
+http://sofadad.co.uk:80/Sarah123/Sarah123/79678
+#EXTINF:-1,Sport 5
+http://sofadad.co.uk:80/Sarah123/Sarah123/79679
+#EXTINF:-1,Sport 6
+http://sofadad.co.uk:80/Sarah123/Sarah123/79680
+#EXTINF:-1,Sport 7
+http://sofadad.co.uk:80/Sarah123/Sarah123/79681
+#EXTINF:-1,Sports Premium 1 
+http://sofadad.co.uk:80/Sarah123/Sarah123/79682
+#EXTINF:-1,Sports Premium 2 
+http://sofadad.co.uk:80/Sarah123/Sarah123/79683
+#EXTINF:-1,Sports Premium 3 
+http://sofadad.co.uk:80/Sarah123/Sarah123/79684
+#EXTINF:-1,SPORTS 1 FHD EN
+http://sofadad.co.uk:80/Sarah123/Sarah123/79735
+#EXTINF:-1,SPORTS 2 FHD EN
+http://sofadad.co.uk:80/Sarah123/Sarah123/79736
+#EXTINF:-1,SPORTS 3 FHD EN
+http://sofadad.co.uk:80/Sarah123/Sarah123/79737
+#EXTINF:-1,Sports News 
+http://sofadad.co.uk:80/Sarah123/Sarah123/209168
+#EXTINF:-1,Sports Xtra 1 
+http://sofadad.co.uk:80/Sarah123/Sarah123/209169
+#EXTINF:-1,PDC DARTS (Live Events Only)
+http://sofadad.co.uk:80/Sarah123/Sarah123/184873
+#EXTINF:-1,PDC DARTS 2 LIVE GAMES ONLY
+http://sofadad.co.uk:80/Sarah123/Sarah123/184869
+#EXTINF:-1,WWE NETWORK
+http://sofadad.co.uk:80/Sarah123/Sarah123/76885
+#EXTINF:-1,Rugbypass 1 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/213566
+#EXTINF:-1,Rugbypass 2 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/213565
+#EXTINF:-1,Rugbypass 3 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/213564
+#EXTINF:-1,Rugbypass 4 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/213563
+#EXTINF:-1,Rugbypass 5 HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/213562
+#EXTINF:-1,Rugbypass 6
+http://sofadad.co.uk:80/Sarah123/Sarah123/214690
+#EXTINF:-1,Rugbypass 7
+http://sofadad.co.uk:80/Sarah123/Sarah123/214691
+#EXTINF:-1,Rugbypass 8
+http://sofadad.co.uk:80/Sarah123/Sarah123/214692
+#EXTINF:-1,Rugbypass 9
+http://sofadad.co.uk:80/Sarah123/Sarah123/214693
+#EXTINF:-1,Rugbypass 10
+http://sofadad.co.uk:80/Sarah123/Sarah123/214694
+#EXTINF:-1,Rugbypass 11
+http://sofadad.co.uk:80/Sarah123/Sarah123/214695
+#EXTINF:-1,Rugbypass 12
+http://sofadad.co.uk:80/Sarah123/Sarah123/214696
+#EXTINF:-1,Rugbypass 13
+http://sofadad.co.uk:80/Sarah123/Sarah123/214697
+#EXTINF:-1,Rugbypass 14
+http://sofadad.co.uk:80/Sarah123/Sarah123/214698
+#EXTINF:-1,Rugbypass 15
+http://sofadad.co.uk:80/Sarah123/Sarah123/214699
