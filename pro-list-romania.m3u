@@ -1,4 +1,296 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ Romania [RO] ▬" tvg-logo="https://picon-13398.kxcdn.com/romania.jpg" group-title="Live: Romania",▬ Romania [RO] ▬
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16518
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1 FHD RO" tvg-logo="https://picon-13398.kxcdn.com/tvr1ro.jpg" group-title="Live: Romania",TVR 1 FHD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/15393
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1 RO" tvg-logo="https://picon-13398.kxcdn.com/tvr1ro.jpg" group-title="Live: Romania",TVR 1 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14581
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV HD RO" tvg-logo="https://picon-13398.kxcdn.com/protvro.jpg" group-title="Live: Romania",Pro TV HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/25754
+#EXTINF:-1 tvg-id="ProTV.ro" tvg-name="Pro TV RO" tvg-logo="https://picon-13398.kxcdn.com/protvro.jpg" group-title="Live: Romania",Pro TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14591
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/antenna1ro.jpg" group-title="Live: Romania",Antena 1 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23851
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1 RO" tvg-logo="https://picon-13398.kxcdn.com/antenna1ro.jpg" group-title="Live: Romania",Antena 1 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14636
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="KANAL D RO" tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="Live: Romania",KANAL D RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14601
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2 RO" tvg-logo="https://picon-13398.kxcdn.com/tvr2ro.jpg" group-title="Live: Romania",TVR 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14580
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3 RO" tvg-logo="https://picon-13398.kxcdn.com/tvr3ro.jpg" group-title="Live: Romania",TVR 3 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/15391
+#EXTINF:-1 tvg-id="" tvg-name="TVR International RO" tvg-logo="https://picon-13398.kxcdn.com/tvrintro.jpg" group-title="Live: Romania",TVR International RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/15386
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV International RO" tvg-logo="https://picon-13398.kxcdn.com/protvinternational.jpg" group-title="Live: Romania",Pro TV International RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14589
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV RO" tvg-logo="https://picon-13398.kxcdn.com/primatv.jpg" group-title="Live: Romania",Prima TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14642
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 RO" tvg-logo="https://picon-13398.kxcdn.com/b1ro.jpg" group-title="Live: Romania",B1 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14632
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="Național TV RO" tvg-logo="https://picon-13398.kxcdn.com/nationaltvro.jpg" group-title="Live: Romania",Național TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14595
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24 RO" tvg-logo="https://picon-13398.kxcdn.com/digi24.jpg" group-title="Live: Romania",Digi 24 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14627
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-name="Realitatea TV RO" tvg-logo="https://picon-13398.kxcdn.com/realitatearo.jpg" group-title="Live: Romania",Realitatea TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14641
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="Antena 3 RO" tvg-logo="https://picon-13398.kxcdn.com/antenna3ro.jpg" group-title="Live: Romania",Antena 3 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14637
+#EXTINF:-1 tvg-id="RomaniaTv.ro" tvg-name="Romania TV RO" tvg-logo="https://picon-13398.kxcdn.com/romaniatvro.jpg" group-title="Live: Romania",Romania TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14587
+#EXTINF:-1 tvg-id="National24Plus.ro" tvg-name="National 24 Plus RO" tvg-logo="https://picon-13398.kxcdn.com/national24plusro.jpg" group-title="Live: Romania",National 24 Plus RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30443
+#EXTINF:-1 tvg-id="Pro2.ro" tvg-name="PRO 2 HD RO" tvg-logo="https://picon-13398.kxcdn.com/pro2ro.jpg" group-title="Live: Romania",PRO 2 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32689
+#EXTINF:-1 tvg-id="Pro2.ro" tvg-name="PRO 2 RO" tvg-logo="https://picon-13398.kxcdn.com/pro2ro.jpg" group-title="Live: Romania",PRO 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14635
+#EXTINF:-1 tvg-id="" tvg-name="Pro Gold RO" tvg-logo="https://picon-13398.kxcdn.com/progoldro.jpg" group-title="Live: Romania",Pro Gold RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14648
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars RO" tvg-logo="https://picon-13398.kxcdn.com/antenastarsro.jpg" group-title="Live: Romania",Antena Stars RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14638
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel RO" tvg-logo="https://picon-13398.kxcdn.com/happychannel.jpg" group-title="Live: Romania",Happy Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/13385
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Fine Living RO" tvg-logo="https://picon-13398.kxcdn.com/fineliving.jpg" group-title="Live: Romania",Fine Living RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14645
+#EXTINF:-1 tvg-id="EEntertainment.ro" tvg-name="E! RO" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Romania",E! RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32882
+#EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-name="Cartoon Network RO" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Romania",Cartoon Network RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14631
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel RO" tvg-logo="https://picon-13398.kxcdn.com/disneychannel.jpg" group-title="Live: Romania",Disney Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14614
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior RO" tvg-logo="https://picon-13398.kxcdn.com/disneyjunior.jpg" group-title="Live: Romania",Disney Junior RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14613
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax RO" tvg-logo="https://picon-13398.kxcdn.com/minimax.jpg" group-title="Live: Romania",Minimax RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14644
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon RO" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Romania",Nickelodeon RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32815
+#EXTINF:-1 tvg-id="" tvg-name="NickToons RO" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Romania",NickToons RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32823
+#EXTINF:-1 tvg-id="Boomerang.ro" tvg-name="Boomerang RO" tvg-logo="https://picon-13398.kxcdn.com/boomerang.jpg" group-title="Live: Romania",Boomerang RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/31960
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam RO" tvg-logo="https://picon-13398.kxcdn.com/jimjam.jpg" group-title="Live: Romania",JimJam RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/31961
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV RO" tvg-logo="https://picon-13398.kxcdn.com/ducktv.jpg" group-title="Live: Romania",Duck TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30308
+#EXTINF:-1 tvg-id="AnimalPlanet.ro" tvg-name="Animal Planet HD RO" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Romania",Animal Planet HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30444
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel RO" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Romania",Discovery Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/24904
+#EXTINF:-1 tvg-id="DiscoveryScience.ro" tvg-name="Discovery Science RO" tvg-logo="https://picon-13398.kxcdn.com/discoveryscience.jpg" group-title="Live: Romania",Discovery Science RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/27675
+#EXTINF:-1 tvg-id="HistoryChannel.ro" tvg-name="History RO" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Romania",History RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14603
+#EXTINF:-1 tvg-id="NatGeo.ro" tvg-name="National Geographic RO" tvg-logo="https://picon-13398.kxcdn.com/natgeo.jpg" group-title="Live: Romania",National Geographic RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14596
+#EXTINF:-1 tvg-id="NatGeoWild.ro" tvg-name="National Geographic Wild HD RO" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Romania",National Geographic Wild HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32691
+#EXTINF:-1 tvg-id="NatGeoWild.ro" tvg-name="National Geographic Wild RO" tvg-logo="https://picon-13398.kxcdn.com/natgeowild.jpg" group-title="Live: Romania",National Geographic Wild RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14593
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Digi Life RO" tvg-logo="https://picon-13398.kxcdn.com/digilife.jpg" group-title="Live: Romania",Digi Life RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14624
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="Digi World RO" tvg-logo="https://picon-13398.kxcdn.com/digiworld.jpg" group-title="Live: Romania",Digi World RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14619
+#EXTINF:-1 tvg-id="" tvg-name="DTX FHD RO" tvg-logo="https://picon-13398.kxcdn.com/dtx.jpg" group-title="Live: Romania",DTX FHD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30446
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth RO" tvg-logo="https://picon-13398.kxcdn.com/bbcearth.jpg" group-title="Live: Romania",BBC Earth RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30307
+#EXTINF:-1 tvg-id="TravelChannel.ro" tvg-name="Travel Channel HD RO" tvg-logo="https://picon-13398.kxcdn.com/travelchannelhd.jpg" group-title="Live: Romania",Travel Channel HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/31520
+#EXTINF:-1 tvg-id="TLC.ro" tvg-name="TLC RO" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Romania",TLC RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14616
+#EXTINF:-1 tvg-id="DaVinciLearning.ro" tvg-name="Da Vinci Learning RO" tvg-logo="https://picon-13398.kxcdn.com/davincilearning.jpg" group-title="Live: Romania",Da Vinci Learning RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14628
+#EXTINF:-1 tvg-id="" tvg-name="DocuBox RO" tvg-logo="https://picon-13398.kxcdn.com/docubox.jpg" group-title="Live: Romania",DocuBox RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23947
+#EXTINF:-1 tvg-id="Eurosport1.ro" tvg-name="Eurosport 1 RO" tvg-logo="https://picon-13398.kxcdn.com/eurosport.jpg" group-title="Live: Romania",Eurosport 1 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32884
+#EXTINF:-1 tvg-id="Eurosport1.ro" tvg-name="Eurosport 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Romania",Eurosport 1 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14609
+#EXTINF:-1 tvg-id="Eurosport2.ro" tvg-name="Eurosport 2 RO" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg" group-title="Live: Romania",Eurosport 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14610
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport1.jpg" group-title="Live: Romania",Digi Sport 1 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/20428
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1 RO" tvg-logo="https://picon-13398.kxcdn.com/digisport1.jpg" group-title="Live: Romania",Digi Sport 1 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14623
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport2hd.jpg" group-title="Live: Romania",Digi Sport 2 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/20427
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2 RO" tvg-logo="https://picon-13398.kxcdn.com/digisport2.jpg" group-title="Live: Romania",Digi Sport 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14622
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport3.jpg" group-title="Live: Romania",Digi Sport 3 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14621
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4 HD RO" tvg-logo="https://picon-13398.kxcdn.com/digisport4.jpg" group-title="Live: Romania",Digi Sport 4 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14620
+#EXTINF:-1 tvg-id="TelekomSport1.ro" tvg-name="Telekom Sport 1 HD RO" tvg-logo="https://picon-13398.kxcdn.com/telekomsport1ro.jpg" group-title="Live: Romania",Telekom Sport 1 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16546
+#EXTINF:-1 tvg-id="TelekomSport2.ro" tvg-name="Telekom Sport 2 RO" tvg-logo="https://picon-13398.kxcdn.com/telekomsport2ro.jpg" group-title="Live: Romania",Telekom Sport 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/24226
+#EXTINF:-1 tvg-id="TelekomSport3.ro" tvg-name="Telekom Sport 3 RO" tvg-logo="https://picon-13398.kxcdn.com/telekomsport3ro.jpg" group-title="Live: Romania",Telekom Sport 3 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/24227
+#EXTINF:-1 tvg-id="TelekomSport4.ro" tvg-name="Telekom Sport 4 RO" tvg-logo="https://picon-13398.kxcdn.com/telekomsport4ro.jpg" group-title="Live: Romania",Telekom Sport 4 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/24228
+#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport HD RO" tvg-logo="https://picon-13398.kxcdn.com/looksportro.jpg" group-title="Live: Romania",LookSport HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/27539
+#EXTINF:-1 tvg-id="LookPlus.ro" tvg-name="LookPlus RO" tvg-logo="https://picon-13398.kxcdn.com/lookplusro.jpg" group-title="Live: Romania",LookPlus RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14599
+#EXTINF:-1 tvg-id="" tvg-name="Pro X HD RO" tvg-logo="https://picon-13398.kxcdn.com/proxro.jpg" group-title="Live: Romania",Pro X HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32690
+#EXTINF:-1 tvg-id="" tvg-name="Pro X RO" tvg-logo="https://picon-13398.kxcdn.com/proxro.jpg" group-title="Live: Romania",Pro X RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14640
+#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports Channel RO" tvg-logo="https://picon-13398.kxcdn.com/extremesports.jpg" group-title="Live: Romania",Extreme Sports Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/31962
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO RO" tvg-logo="https://picon-13398.kxcdn.com/hbo.jpg" group-title="Live: Romania",HBO RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14604
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO FHD RO" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: Romania",HBO FHD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/27550
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2 HD RO" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Live: Romania",HBO 2 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32877
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2 RO" tvg-logo="https://picon-13398.kxcdn.com/hbo2.jpg" group-title="Live: Romania",HBO 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16559
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="HBO 3 HD RO" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Live: Romania",HBO 3 HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32878
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="HBO 3 RO" tvg-logo="https://picon-13398.kxcdn.com/hbo3.jpg" group-title="Live: Romania",HBO 3 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14605
+#EXTINF:-1 tvg-id="Cinemax.ro" tvg-name="Cinemax HD RO" tvg-logo="https://picon-13398.kxcdn.com/cinemax.jpg" group-title="Live: Romania",Cinemax HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14629
+#EXTINF:-1 tvg-id="Cinemax2.ro" tvg-name="Cinemax 2 RO" tvg-logo="https://picon-13398.kxcdn.com/cinemax2.jpg" group-title="Live: Romania",Cinemax 2 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16558
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now HD RO" tvg-logo="https://picon-13398.kxcdn.com/filmnowro.jpg" group-title="Live: Romania",Film Now HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/27662
+#EXTINF:-1 tvg-id="AXN.ro" tvg-name="AXN HD RO" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: Romania",AXN HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14634
+#EXTINF:-1 tvg-id="AXNWhite.ro" tvg-name="AXN White RO" tvg-logo="https://picon-13398.kxcdn.com/axnwhite.jpg" group-title="Live: Romania",AXN White RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14660
+#EXTINF:-1 tvg-id="AXNBlack.ro" tvg-name="AXN Black RO" tvg-logo="https://picon-13398.kxcdn.com/axnblack.jpg" group-title="Live: Romania",AXN Black RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14661
+#EXTINF:-1 tvg-id="" tvg-name="AXN Spin RO" tvg-logo="https://picon-13398.kxcdn.com/axnspinhd.jpg" group-title="Live: Romania",AXN Spin RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32879
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="AMC RO" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Live: Romania",AMC RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14647
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="TNT Exclusiv MD" tvg-logo="https://picon-13398.kxcdn.com/tnt.jpg" group-title="Live: Romania",TNT Exclusiv MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32880
+#EXTINF:-1 tvg-id="" tvg-name="CineMaraton HD RO" tvg-logo="https://picon-13398.kxcdn.com/cinemaratonro.jpg" group-title="Live: Romania",CineMaraton HD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30309
+#EXTINF:-1 tvg-id="Filmcafe.ro" tvg-name="Film Cafe RO" tvg-logo="https://picon-13398.kxcdn.com/filmcafe.jpg" group-title="Live: Romania",Film Cafe RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14607
+#EXTINF:-1 tvg-id="DivaUniversal.ro" tvg-name="Diva Universal RO" tvg-logo="https://picon-13398.kxcdn.com/divauniversal.jpg" group-title="Live: Romania",Diva Universal RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14612
+#EXTINF:-1 tvg-id="ParamountChannel.ro" tvg-name="TeenNick RO" tvg-logo="https://picon-13398.kxcdn.com/teennick.jpg" group-title="Live: Romania",TeenNick RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14633
+#EXTINF:-1 tvg-id="TV1000.ro" tvg-name="TV 1000 RO" tvg-logo="https://picon-13398.kxcdn.com/tv1000exyu.jpg" group-title="Live: Romania",TV 1000 RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14582
+#EXTINF:-1 tvg-id="FilmBox.ro" tvg-name="FilmBox RO" tvg-logo="https://picon-13398.kxcdn.com/filmbox.jpg" group-title="Live: Romania",FilmBox RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32886
+#EXTINF:-1 tvg-id="FilmBoxPremium.ro" tvg-name="FilmBox Premium RO" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Live: Romania",FilmBox Premium RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32885
+#EXTINF:-1 tvg-id="BollywoodTV.ro" tvg-name="Bollywood TV RO" tvg-logo="https://picon-13398.kxcdn.com/bollywoodro.jpg" group-title="Live: Romania",Bollywood TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32883
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema RO" tvg-logo="https://picon-13398.kxcdn.com/procinemaro.jpg" group-title="Live: Romania",Pro Cinema RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14590
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central RO" tvg-logo="https://picon-13398.kxcdn.com/comedycenthd.jpg" group-title="Live: Romania",Comedy Central RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32816
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV RO" tvg-logo="https://picon-13398.kxcdn.com/magictv.jpg" group-title="Live: Romania",Magic TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30310
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="U TV RO" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Live: Romania",U TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14579
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV RO" tvg-logo="https://picon-13398.kxcdn.com/kissvro.jpg" group-title="Live: Romania",Kiss TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14600
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-name="ZU TV RO" tvg-logo="https://picon-13398.kxcdn.com/zutv.jpg" group-title="Live: Romania",ZU TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23853
+#EXTINF:-1 tvg-id="" tvg-name="Mooz Dance RO" tvg-logo="https://picon-13398.kxcdn.com/moozdancero.jpg" group-title="Live: Romania",Mooz Dance RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/27674
+#EXTINF:-1 tvg-id="" tvg-name="Mooz RO" tvg-logo="https://picon-13398.kxcdn.com/moozro.jpg" group-title="Live: Romania",Mooz RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/18332
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="1 Music Channel RO" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Live: Romania",1 Music Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14597
+#EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="Taraf TV RO" tvg-logo="https://picon-13398.kxcdn.com/taraftvro.jpg" group-title="Live: Romania",Taraf TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14584
+#EXTINF:-1 tvg-id="" tvg-name="Hora TV RO" tvg-logo="https://picon-13398.kxcdn.com/horatvro.jpg" group-title="Live: Romania",Hora TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/30306
+#EXTINF:-1 tvg-id="Etno.ro" tvg-name="Etno TV RO" tvg-logo="https://picon-13398.kxcdn.com/etnotvro.jpg" group-title="Live: Romania",Etno TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14611
+#EXTINF:-1 tvg-id="Favorit.ro" tvg-name="Favorit TV RO" tvg-logo="https://picon-13398.kxcdn.com/favoritro.jpg" group-title="Live: Romania",Favorit TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14608
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo RO" tvg-logo="https://picon-13398.kxcdn.com/mezzo.jpg" group-title="Live: Romania",Mezzo RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/32881
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now RO" tvg-logo="https://picon-13398.kxcdn.com/filmnowro.jpg" group-title="Live: Romania",Film Now RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14250
+#EXTINF:-1 tvg-id="NickJr.ro" tvg-name="Nick Jr. RO" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Romania",Nick Jr. RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/37671
+#EXTINF:-1 tvg-id="" tvg-name="10 TV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/10tvmd.jpg" group-title="Live: Romania",10 TV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60077
+#EXTINF:-1 tvg-id="" tvg-name="5 Kanal MD" tvg-logo="https://picon-13398.kxcdn.com/5tvmd.jpg" group-title="Live: Romania",5 Kanal MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60078
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV MD" tvg-logo="https://picon-13398.kxcdn.com/Agrotvmoldovamd.jpg" group-title="Live: Romania",Agro TV MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60079
+#EXTINF:-1 tvg-id="" tvg-name="BTV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/BTVMD.jpg" group-title="Live: Romania",BTV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60080
+#EXTINF:-1 tvg-id="" tvg-name="Busuioc TV MD" tvg-logo="https://picon-13398.kxcdn.com/Busuiocmd.jpg" group-title="Live: Romania",Busuioc TV MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60081
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 FHD MD" tvg-logo="https://picon-13398.kxcdn.com/canal2md.jpg" group-title="Live: Romania",Canal 2 FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60082
+#EXTINF:-1 tvg-id="" tvg-name="Canal 3 FHD MD" tvg-logo="https://picon-13398.kxcdn.com/canal3md.jpg" group-title="Live: Romania",Canal 3 FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60083
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D MD" tvg-logo="https://picon-13398.kxcdn.com/kanald.jpg" group-title="Live: Romania",Kanal D MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60084
+#EXTINF:-1 tvg-id="" tvg-name="STS Mega MD" tvg-logo="https://picon-13398.kxcdn.com/stsru.jpg" group-title="Live: Romania",STS Mega MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60085
+#EXTINF:-1 tvg-id="" tvg-name="Gurinel TV HD MD" tvg-logo="https://picon-13398.kxcdn.com/gurineltvmd.jpg" group-title="Live: Romania",Gurinel TV HD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60087
+#EXTINF:-1 tvg-id="" tvg-name="Jurnal TV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/jurnaltvmd.jpg" group-title="Live: Romania",Jurnal TV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60088
+#EXTINF:-1 tvg-id="" tvg-name="Moldova 2 FHD MD" tvg-logo="https://picon-13398.kxcdn.com/moldova2md.jpg" group-title="Live: Romania",Moldova 2 FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60089
+#EXTINF:-1 tvg-id="" tvg-name="Moldova 1 FHD MD" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Live: Romania",Moldova 1 FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60090
+#EXTINF:-1 tvg-id="" tvg-name="Mult Bravo FHD MD" tvg-logo="https://picon-13398.kxcdn.com/multru.jpg" group-title="Live: Romania",Mult Bravo FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60091
+#EXTINF:-1 tvg-id="" tvg-name="N4 MD" tvg-logo="https://picon-13398.kxcdn.com/n4md.jpg" group-title="Live: Romania",N4 MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60092
+#EXTINF:-1 tvg-id="" tvg-name="Noroc TV MD" tvg-logo="https://picon-13398.kxcdn.com/noroctvmd.jpg" group-title="Live: Romania",Noroc TV MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60093
+#EXTINF:-1 tvg-id="" tvg-name="NTS HD MD" tvg-logo="https://picon-13398.kxcdn.com/ntsmd.jpg" group-title="Live: Romania",NTS HD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60094
+#EXTINF:-1 tvg-id="" tvg-name="NTV Moldova MD" tvg-logo="https://picon-13398.kxcdn.com/ntvmoldovamd.jpg" group-title="Live: Romania",NTV Moldova MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60095
+#EXTINF:-1 tvg-id="" tvg-name="Orhei TV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/orheitvmd.jpg" group-title="Live: Romania",Orhei TV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60096
+#EXTINF:-1 tvg-id="" tvg-name="Prime TV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/prime1md.jpg" group-title="Live: Romania",Prime TV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60097
+#EXTINF:-1 tvg-id="" tvg-name="Primul FHD MD" tvg-logo="https://picon-13398.kxcdn.com/primulinmoldovamd.jpg" group-title="Live: Romania",Primul FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60098
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/protvmoldovamd.jpg" group-title="Live: Romania",Pro TV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60099
+#EXTINF:-1 tvg-id="" tvg-name="Publika TV FHD MD" tvg-logo="https://picon-13398.kxcdn.com/publikamd.jpg" group-title="Live: Romania",Publika TV FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60100
+#EXTINF:-1 tvg-id="" tvg-name="Ren Moldova FHD MD" tvg-logo="https://picon-13398.kxcdn.com/renmoldovamd.jpg" group-title="Live: Romania",Ren Moldova FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60101
+#EXTINF:-1 tvg-id="" tvg-name="RTR Moldova FHD MD" tvg-logo="https://picon-13398.kxcdn.com/rtrmoldovamd.jpg" group-title="Live: Romania",RTR Moldova FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60102
+#EXTINF:-1 tvg-id="" tvg-name="Televiziunea Centrala FHD MD" tvg-logo="https://picon-13398.kxcdn.com/televiziuneacentralamd.jpg" group-title="Live: Romania",Televiziunea Centrala FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60103
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 FHD MD" tvg-logo="https://picon-13398.kxcdn.com/tv8md.jpg" group-title="Live: Romania",TV 8 FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60104
+#EXTINF:-1 tvg-id="" tvg-name="TVC 21 MD" tvg-logo="https://picon-13398.kxcdn.com/tvc21md.jpg" group-title="Live: Romania",TVC 21 MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60105
+#EXTINF:-1 tvg-id="" tvg-name="TVR Moldova MD" tvg-logo="ftp://mpicon@ftp.keycdn.com/tvrmoldovamd.jpg" group-title="Live: Romania",TVR Moldova MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60106
+#EXTINF:-1 tvg-id="" tvg-name="Zona M MD" tvg-logo="https://picon-13398.kxcdn.com/zonammd.jpg" group-title="Live: Romania",Zona M MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60107
+#EXTINF:-1 tvg-id="" tvg-name="Vocea Basarabiei FHD MD" tvg-logo="https://picon-13398.kxcdn.com/voceabasarabieimd.jpg" group-title="Live: Romania",Vocea Basarabiei FHD MD
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/60108
+#EXTINF:-1 tvg-id="" tvg-name="Digi Animal World RO" tvg-logo="https://picon-13398.kxcdn.com/digianimalworldro.jpg" group-title="Live: Romania",Digi Animal World RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72656
+#EXTINF:-1 tvg-id="" tvg-name=" H!t Music Channel RO" tvg-logo="https://picon-13398.kxcdn.com/hitmusicchannel.jpg" group-title="Live: Romania", H!t Music Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72657
+#EXTINF:-1 tvg-id="" tvg-name="Travelxp FHD RO" tvg-logo="https://picon-13398.kxcdn.com/travelxphd.jpg" group-title="Live: Romania",Travelxp FHD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72658
+#EXTINF:-1 tvg-id="" tvg-name="Mooz 4K UHD RO" tvg-logo="https://picon-13398.kxcdn.com/mooz4kro.jpg" group-title="Live: Romania",Mooz 4K UHD RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72676
+#EXTINF:-1 tvg-id="" tvg-name="The Fishing & Hunting Channel RO" tvg-logo="https://picon-13398.kxcdn.com/fishingandhunting.jpg" group-title="Live: Romania",The Fishing & Hunting Channel RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72678
+#EXTINF:-1 tvg-id="" tvg-name="TNT RO" tvg-logo="https://picon-13398.kxcdn.com/tnt.jpg" group-title="Live: Romania",TNT RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72683
+#EXTINF:-1 tvg-id="" tvg-name="Speranta TV RO" tvg-logo="https://picon-13398.kxcdn.com/sperantatv.jpg" group-title="Live: Romania",Speranta TV RO
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/72689
 #EXTINF:-1 tvg-id="" tvg-name="⚙️Generaliste⚙️" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/09/romania_glossy_wave_icon_640.png" group-title="✯✯☺Romania Tv☺✯✯",⚙️Generaliste⚙️
 http://nadxxy.com:8008/andrea_stan/andrei2019/33759
 #EXTINF:-1 tvg-id="" tvg-name="VSV INFO FHD" tvg-logo="https://static.wixstatic.com/media/0e2b3e_bbe2bd5b336d4db0a68025aa75604d36~mv2.png" group-title="✯✯☺Romania Tv☺✯✯",VSV INFO FHD
