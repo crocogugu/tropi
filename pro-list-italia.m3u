@@ -1,4 +1,338 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ Italy [IT] ▬" tvg-logo="https://picon-13398.kxcdn.com/italy.jpg" group-title="Live: Italy",▬ Italy [IT] ▬
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16527
+#EXTINF:-1 tvg-id="Alice.it" tvg-name="Alice IT" tvg-logo="https://picon-13398.kxcdn.com/alice.jpg" group-title="Live: Italy",Alice IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8986
+#EXTINF:-1 tvg-id="" tvg-name="MS Motor TV IT" tvg-logo="https://picon-13398.kxcdn.com/msmotortvit.jpg" group-title="Live: Italy",MS Motor TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14210
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing IT" tvg-logo="https://picon-13398.kxcdn.com/boing.jpg" group-title="Live: Italy",Boing IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14182
+#EXTINF:-1 tvg-id="CacciaPesca.it" tvg-name="Caccia HD IT" tvg-logo="https://picon-13398.kxcdn.com/cacciaepesca.jpg" group-title="Live: Italy",Caccia HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8984
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 IT" tvg-logo="https://picon-13398.kxcdn.com/canale5hd.jpg" group-title="Live: Italy",Canale 5 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14209
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5 FHD IT" tvg-logo="https://picon-13398.kxcdn.com/canale5hd.jpg" group-title="Live: Italy",Canale 5 FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1666
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="Cartoon Network IT" tvg-logo="https://picon-13398.kxcdn.com/cartoonnetwork.jpg" group-title="Live: Italy",Cartoon Network IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14176
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito IT" tvg-logo="https://picon-13398.kxcdn.com/cartoonito.jpg" group-title="Live: Italy",Cartoonito IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/7030
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo IT" tvg-logo="https://picon-13398.kxcdn.com/cielo.jpg" group-title="Live: Italy",Cielo IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1671
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX HD IT" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Italy",DMAX HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/5231
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD IT" tvg-logo="https://picon-13398.kxcdn.com/noveit.jpg" group-title="Live: Italy",NOVE HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14174
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel HD IT" tvg-logo="https://picon-13398.kxcdn.com/discoverychannelhd.jpg" group-title="Live: Italy",Discovery Channel HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14171
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD IT" tvg-logo="https://picon-13398.kxcdn.com/discoverysciencehd.jpg" group-title="Live: Italy",Discovery Science HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8980
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="Disney + Film HD IT" tvg-logo="https://picon-13398.kxcdn.com/disneyplus.jpg" group-title="Live: Italy",Disney + Film HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/4377
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="Disney+ Animation IT" tvg-logo="https://picon-13398.kxcdn.com/disneyplus.jpg" group-title="Live: Italy",Disney+ Animation IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/20119
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="Eurosport 1 HD IT" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Italy",Eurosport 1 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14188
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="Eurosport 2 HD IT" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Italy",Eurosport 2 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14156
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX HD IT" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Italy",FOX HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/3713
+#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="Focus IT" tvg-logo="https://picon-13398.kxcdn.com/focus.jpg" group-title="Live: Italy",Focus IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8981
+#EXTINF:-1 tvg-id="FoxCrime.it" tvg-name="FOX Crime HD IT" tvg-logo="https://picon-13398.kxcdn.com/foxcrimehd.jpg" group-title="Live: Italy",FOX Crime HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14163
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee IT" tvg-logo="https://picon-13398.kxcdn.com/frisbee.jpg" group-title="Live: Italy",Frisbee IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/7031
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo FHD IT" tvg-logo="https://picon-13398.kxcdn.com/giallo.jpg" group-title="Live: Italy",Giallo FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/9006
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="Inter Channel IT" tvg-logo="https://picon-13398.kxcdn.com/interchannel.jpg" group-title="Live: Italy",Inter Channel IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14192
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris HD IT" tvg-logo="https://picon-13398.kxcdn.com/iris.jpg" group-title="Live: Italy",Iris HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14157
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 IT" tvg-logo="https://picon-13398.kxcdn.com/italia1.jpg" group-title="Live: Italy",Italia 1 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/5234
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2 IT" tvg-logo="https://picon-13398.kxcdn.com/k2.jpg" group-title="Live: Italy",K2 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14155
+#EXTINF:-1 tvg-id="La5.it" tvg-name="LA 5 IT" tvg-logo="https://picon-13398.kxcdn.com/la5.jpg" group-title="Live: Italy",LA 5 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14189
+#EXTINF:-1 tvg-id="" tvg-name="m2o tv IT" tvg-logo="https://picon-13398.kxcdn.com/m2o.jpg" group-title="Live: Italy",m2o tv IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/9005
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra IT" tvg-logo="https://picon-13398.kxcdn.com/mediasetextra.jpg" group-title="Live: Italy",Mediaset Extra IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14194
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2 IT" tvg-logo="https://picon-13398.kxcdn.com/mediasetitaliadue.jpg" group-title="Live: Italy",Italia 2 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14193
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nick IT" tvg-logo="https://picon-13398.kxcdn.com/nick.jpg" group-title="Live: Italy",Nick IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/20120
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="TGCom 24 IT" tvg-logo="https://picon-13398.kxcdn.com/tgcom24.jpg" group-title="Live: Italy",TGCom 24 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8238
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="National Geographic HD IT" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Italy",National Geographic HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14141
+#EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="Premium Action HD IT" tvg-logo="https://picon-13398.kxcdn.com/premiumactionhdit.jpg" group-title="Live: Italy",Premium Action HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14137
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Premium Cinema 2 Comedy HD IT" tvg-logo="https://picon-13398.kxcdn.com/premiumcinemacomedyit.jpg" group-title="Live: Italy",Premium Cinema 2 Comedy HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/6902
+#EXTINF:-1 tvg-id="PremiumCinemaEnergy.it" tvg-name="Premium Cinema 3 Energy HD IT" tvg-logo="https://picon-13398.kxcdn.com/premiumcinemaenergyit.jpg" group-title="Live: Italy",Premium Cinema 3 Energy HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/6904
+#EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema 1 HD IT" tvg-logo="https://picon-13398.kxcdn.com/premiumcinemahdit.jpg" group-title="Live: Italy",Premium Cinema 1 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14124
+#EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="Premium Crime IT" tvg-logo="https://picon-13398.kxcdn.com/premiumcrimehdit.jpg" group-title="Live: Italy",Premium Crime IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14114
+#EXTINF:-1 tvg-id="PremiumStories.it" tvg-name="Premium Stories HD IT" tvg-logo="https://picon-13398.kxcdn.com/premiumstoriesit.jpg" group-title="Live: Italy",Premium Stories HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14103
+#EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV IT" tvg-logo="https://picon-13398.kxcdn.com/radio105.jpg" group-title="Live: Italy",Radio 105 TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/5240
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4K IT" tvg-logo="https://picon-13398.kxcdn.com/raio4kit.jpg" group-title="Live: Italy",Rai 4K IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/24698
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Rai 1 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rai1hd.jpg" group-title="Live: Italy",Rai 1 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14207
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="Rai 1 IT" tvg-logo="https://picon-13398.kxcdn.com/rai1.jpg" group-title="Live: Italy",Rai 1 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1662
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rai2hd.jpg" group-title="Live: Italy",Rai 2 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14206
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="Rai 2 IT" tvg-logo="https://picon-13398.kxcdn.com/rai2.jpg" group-title="Live: Italy",Rai 2 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1663
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rai3hd.jpg" group-title="Live: Italy",Rai 3 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14205
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 IT" tvg-logo="https://picon-13398.kxcdn.com/rai3.jpg" group-title="Live: Italy",Rai 3 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1664
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rai4hd.jpg" group-title="Live: Italy",Rai 4 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14204
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 IT" tvg-logo="https://picon-13398.kxcdn.com/rai4.jpg" group-title="Live: Italy",Rai 4 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1709
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rai5.jpg" group-title="Live: Italy",Rai 5 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14203
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie HD IT" tvg-logo="https://picon-13398.kxcdn.com/raimovie.jpg" group-title="Live: Italy",Rai Movie HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14100
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie IT" tvg-logo="https://picon-13398.kxcdn.com/raimovie.jpg" group-title="Live: Italy",Rai Movie IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/4108
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rainews24.jpg" group-title="Live: Italy",Rai News 24 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8996
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium HD IT" tvg-logo="https://picon-13398.kxcdn.com/raipremiumhd.jpg" group-title="Live: Italy",Rai Premium HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14098
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola HD IT" tvg-logo="https://picon-13398.kxcdn.com/raiscuola.jpg" group-title="Live: Italy",Rai Scuola HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8998
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="Rai Sport + HD IT" tvg-logo="https://picon-13398.kxcdn.com/raisportplushd.jpg" group-title="Live: Italy",Rai Sport + HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14202
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport IT" tvg-logo="https://picon-13398.kxcdn.com/raisport.jpg" group-title="Live: Italy",Rai Sport IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14201
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo HD IT" tvg-logo="https://picon-13398.kxcdn.com/raiyoyo.jpg" group-title="Live: Italy",Rai Yoyo HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8994
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time HD IT" tvg-logo="https://picon-13398.kxcdn.com/realtimehd.jpg" group-title="Live: Italy",Real Time HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14199
+#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="Rete Quattro IT" tvg-logo="https://picon-13398.kxcdn.com/rete4hd.jpg" group-title="Live: Italy",Rete Quattro IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14200
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="Sky Atlantic HD IT" tvg-logo="https://picon-13398.kxcdn.com/skyatlantichd.jpg" group-title="Live: Italy",Sky Atlantic HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1682
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="Sky Cinema Uno HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemaunoit.jpg" group-title="Live: Italy",Sky Cinema Uno HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/4077
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemadramait.jpg" group-title="Live: Italy",Sky Cinema Drama HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14083
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedyhd.jpg" group-title="Live: Italy",Sky Cinema Comedy HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2011
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Italy",Sky Cinema Family HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2010
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="Sky Sport NBA HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportnbait.jpg" group-title="Live: Italy",Sky Sport NBA HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14069
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="Sky Sport Uno HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportunoit.jpg" group-title="Live: Italy",Sky Sport Uno HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14073
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="Sky Sport 24 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysport24hd.jpg" group-title="Live: Italy",Sky Sport 24 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1686
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="Sky Sport Arena HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportsarenahduk.jpg" group-title="Live: Italy",Sky Sport Arena HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1689
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportf1hd.jpg" group-title="Live: Italy",Sky Sport F1 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1691
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="Sky Sport MotoGP HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportmotogphd.jpg" group-title="Live: Italy",Sky Sport MotoGP HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/3639
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="Sky Uno HD IT" tvg-logo="https://picon-13398.kxcdn.com/skyunohd.jpg" group-title="Live: Italy",Sky Uno HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1681
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SportItalia IT" tvg-logo="https://picon-13398.kxcdn.com/sportitalia.jpg" group-title="Live: Italy",SportItalia IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14120
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="Super Tennis HD IT" tvg-logo="https://picon-13398.kxcdn.com/supertennis.jpg" group-title="Live: Italy",Super Tennis HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/4084
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super! HD IT" tvg-logo="https://picon-13398.kxcdn.com/super.jpg" group-title="Live: Italy",Super! HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14066
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000 IT" tvg-logo="https://picon-13398.kxcdn.com/tv2000.jpg" group-title="Live: Italy",TV2000 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/9002
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime IT" tvg-logo="https://picon-13398.kxcdn.com/topcrime.jpg" group-title="Live: Italy",Top Crime IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8241
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="La 7 d IT" tvg-logo="https://picon-13398.kxcdn.com/la7d.jpg" group-title="Live: Italy",La 7 d IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16568
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La 7 HD IT" tvg-logo="https://picon-13398.kxcdn.com/la7.jpg" group-title="Live: Italy",La 7 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/16567
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV IT" tvg-logo="https://picon-13398.kxcdn.com/milanchannel.jpg" group-title="Live: Italy",Milan TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17244
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="Baby TV IT" tvg-logo="https://picon-13398.kxcdn.com/babytv.jpg" group-title="Live: Italy",Baby TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17330
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="Lazio Style TV IT" tvg-logo="https://picon-13398.kxcdn.com/laziostyleit.jpg" group-title="Live: Italy",Lazio Style TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17332
+#EXTINF:-1 tvg-id="" tvg-name="Radio Freccia HD IT" tvg-logo="https://picon-13398.kxcdn.com/radiofrecciait.jpg" group-title="Live: Italy",Radio Freccia HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17326
+#EXTINF:-1 tvg-id="" tvg-name="Radionorba TV IT" tvg-logo="https://picon-13398.kxcdn.com/radionorba.jpg" group-title="Live: Italy",Radionorba TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17327
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL 102.5 HD IT" tvg-logo="https://picon-13398.kxcdn.com/rtl1025it.jpg" group-title="Live: Italy",RTL 102.5 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17328
+#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="Sky Sport Football HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportfootballit.jpg" group-title="Live: Italy",Sky Sport Football HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/17371
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia HD IT" tvg-logo="https://picon-13398.kxcdn.com/radioitaliatv.jpg" group-title="Live: Italy",Radio Italia HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/18102
+#EXTINF:-1 tvg-id="" tvg-name="Radio Italia Trend HD IT" tvg-logo="https://picon-13398.kxcdn.com/radioitaliatrendit.jpg" group-title="Live: Italy",Radio Italia Trend HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/28335
+#EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="Sky Sport Collection HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysportcollection.jpg" group-title="Live: Italy",Sky Sport Collection HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23265
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend FHD IT" tvg-logo="https://picon-13398.kxcdn.com/motortrendit.jpg" group-title="Live: Italy",Motor Trend FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23275
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.it" tvg-name="Sky Cinema Uno +24 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemaunoit.jpg" group-title="Live: Italy",Sky Cinema Uno +24 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/7011
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="Sky Arte HD IT" tvg-logo="https://picon-13398.kxcdn.com/skyartehd.jpg" group-title="Live: Italy",Sky Arte HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/21544
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia HD IT" tvg-logo="https://picon-13398.kxcdn.com/raistoria.jpg" group-title="Live: Italy",Rai Storia HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23367
+#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="Rete Quattro HD IT" tvg-logo="https://picon-13398.kxcdn.com/rete4hd.jpg" group-title="Live: Italy",Rete Quattro HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23368
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset  FHD IT" tvg-logo="https://picon-13398.kxcdn.com/20mediasetit.jpg" group-title="Live: Italy",20 Mediaset  FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23371
+#EXTINF:-1 tvg-id="SpikeTV.it" tvg-name="Spike Italia HD IT" tvg-logo="https://picon-13398.kxcdn.com/spike.jpg" group-title="Live: Italy",Spike Italia HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23373
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="National Geographic Wild HD IT" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Italy",National Geographic Wild HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23376
+#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="Pesca HD IT" tvg-logo="https://picon-13398.kxcdn.com/pescait.jpg" group-title="Live: Italy",Pesca HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23377
+#EXTINF:-1 tvg-id="" tvg-name="Italian Fishing TV IT" tvg-logo="https://picon-13398.kxcdn.com/italianfishingit.jpg" group-title="Live: Italy",Italian Fishing TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23391
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="Crime + Investigation HD IT" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Italy",Crime + Investigation HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23392
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="History HD IT" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Italy",History HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23397
+#EXTINF:-1 tvg-id="ParamountChannel.it" tvg-name="Paramount Channel IT" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Live: Italy",Paramount Channel IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23398
+#EXTINF:-1 tvg-id="" tvg-name="Unire Sat HD IT" tvg-logo="https://picon-13398.kxcdn.com/uniresat.jpg" group-title="Live: Italy",Unire Sat HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23399
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1 FHD IT" tvg-logo="https://picon-13398.kxcdn.com/italia1hd.jpg" group-title="Live: Italy",Italia 1 FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23939
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium IT" tvg-logo="https://picon-13398.kxcdn.com/raipremium.jpg" group-title="Live: Italy",Rai Premium IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23933
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp HD IT" tvg-logo="https://picon-13398.kxcdn.com/raigulp.jpg" group-title="Live: Italy",Rai Gulp HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23932
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="Sky Cinema Due HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemadueit.jpg" group-title="Live: Italy",Sky Cinema Due HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26904
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemacollectionit.jpg" group-title="Live: Italy",Sky Cinema Collection HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26903
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemaromanceit.jpg" group-title="Live: Italy",Sky Cinema Romance HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26902
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="Sky Cinema Action HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionde.jpg" group-title="Live: Italy",Sky Cinema Action HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26901
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycinemasuspenseit.jpg" group-title="Live: Italy",Sky Cinema Suspense HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26900
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zeta FHD IT" tvg-logo="https://picon-13398.kxcdn.com/radiozetait.jpg" group-title="Live: Italy",Radio Zeta FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/28367
+#EXTINF:-1 tvg-id="" tvg-name="Radio Capital IT" tvg-logo="https://picon-13398.kxcdn.com/radiocapital.jpg" group-title="Live: Italy",Radio Capital IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/5238
+#EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Sky Primafila 1 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 1 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1998
+#EXTINF:-1 tvg-id="Primafila2.it" tvg-name="Sky Primafila 2 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 2 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1999
+#EXTINF:-1 tvg-id="Primafila3.it" tvg-name="Sky Primafila 3 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 3 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2000
+#EXTINF:-1 tvg-id="Primafila4.it" tvg-name="Sky Primafila 4 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 4 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2001
+#EXTINF:-1 tvg-id="Primafila5.it" tvg-name="Sky Primafila 5 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 5 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2002
+#EXTINF:-1 tvg-id="Primafila6.it" tvg-name="Sky Primafila 6 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 6 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2003
+#EXTINF:-1 tvg-id="Primafila7.it" tvg-name="Sky Primafila 7 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 7 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2004
+#EXTINF:-1 tvg-id="Primafila8.it" tvg-name="Sky Primafila 8 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 8 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2005
+#EXTINF:-1 tvg-id="Primafila9.it" tvg-name="Sky Primafila 9 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 9 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2006
+#EXTINF:-1 tvg-id="Primafila10.it" tvg-name="Sky Primafila 10 HD Live IT" tvg-logo="https://picon-13398.kxcdn.com/primafila1hd.jpg" group-title="Live: Italy",Sky Primafila 10 HD Live IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/2007
+#EXTINF:-1 tvg-id="" tvg-name="Sportitalia SoloCalcio HD IT" tvg-logo="https://picon-13398.kxcdn.com/sportitaliasolocalcioit.jpg" group-title="Live: Italy",Sportitalia SoloCalcio HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14131
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Prima HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Prima HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23381
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Thriller HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23382
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Fantastico HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Fantastico HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23383
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Azione HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Azione HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23384
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Commedia HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Commedia HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23385
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Collection HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Collection HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23386
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Horror HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23387
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Avventura HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Avventura HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23388
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Passione HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Passione HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23389
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Storico HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Storico HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23390
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Comico Cult HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Comico Cult HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26905
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Drammatico HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Drammatico HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/27227
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sorriso FHD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Sorriso FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26886
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mitologia IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Mitologia IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26888
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Religion HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Religion HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26889
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Western HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Western HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26890
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animazione HD IT" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Italy",Eagle Cinema Animazione HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/26887
+#EXTINF:-1 tvg-id="" tvg-name="Top Calcio 24 IT" tvg-logo="https://picon-13398.kxcdn.com/topcalcio24ir.jpg" group-title="Live: Italy",Top Calcio 24 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/28203
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycalcio5hd.jpg" group-title="Live: Italy",Sky Sport 5 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8969
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycalcio4hd.jpg" group-title="Live: Italy",Sky Sport 4 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8968
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycalcio3hd.jpg" group-title="Live: Italy",Sky Sport 3 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8967
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycalcio2hd.jpg" group-title="Live: Italy",Sky Sport 2 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1694
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD IT" tvg-logo="https://picon-13398.kxcdn.com/skycalcio1hd.jpg" group-title="Live: Italy",Sky Sport 1 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1693
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysporthd.jpg" group-title="Live: Italy",Sky Sport HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23266
+#EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews IT" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="Live: Italy",Euronews IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/34753
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD IT" tvg-logo="https://picon-13398.kxcdn.com/foodnetworkhd.jpg" group-title="Live: Italy",Food Network HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/51401
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang  IT" tvg-logo="https://picon-13398.kxcdn.com/boomeranghd.jpg" group-title="Live: Italy",Boomerang  IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23403
+#EXTINF:-1 tvg-id="" tvg-name="Cine 34 IT" tvg-logo="ftp://mpicon@ftp.keycdn.com/cine34it.jpg" group-title="Live: Italy",Cine 34 IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/70826
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="Gambero Rosso IT" tvg-logo="https://picon-13398.kxcdn.com/gamberorosso.jpg" group-title="Live: Italy",Gambero Rosso IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/8982
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV 8 HD IT" tvg-logo="https://picon-13398.kxcdn.com/tv8.jpg" group-title="Live: Italy",TV 8 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14179
+#EXTINF:-1 tvg-id="RomaTV.it" tvg-name="Roma TV HD IT" tvg-logo="https://picon-13398.kxcdn.com/romatvit.jpg" group-title="Live: Italy",Roma TV HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/21529
+#EXTINF:-1 tvg-id="" tvg-name="Sky SuperCalcio HD IT" tvg-logo="https://picon-13398.kxcdn.com/skysupercalciohd.jpg" group-title="Live: Italy",Sky SuperCalcio HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/1692
+#EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo IT" tvg-logo="https://picon-13398.kxcdn.com/radiomontecarloit.jpg" group-title="Live: Italy",Radio Monte Carlo IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/73263
+#EXTINF:-1 tvg-id="" tvg-name="Senato TV IT" tvg-logo="https://picon-13398.kxcdn.com/senato.jpg" group-title="Live: Italy",Senato TV IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/73264
+#EXTINF:-1 tvg-id="" tvg-name="Camera dei Deputati IT" tvg-logo="https://picon-13398.kxcdn.com/cameradeideputati.jpg" group-title="Live: Italy",Camera dei Deputati IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/73265
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeA Kids IT" tvg-logo="https://picon-13398.kxcdn.com/deakidsit.jpg" group-title="Live: Italy",DeA Kids IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/14076
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 7 HD IT" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Live Events",DAZN 7 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23363
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 8 HD IT" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Live Events",DAZN 8 HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/23364
+#EXTINF:-1 tvg-id="" tvg-name="Sky Serie FHD IT" tvg-logo="" group-title="Live: Italy",Sky Serie FHD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/87962
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature HD IT" tvg-logo="https://picon-13398.kxcdn.com/skynatureuk.jpg" group-title="Live: Italy",Sky Nature HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/87964
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation HD IT" tvg-logo="" group-title="Live: Italy",Sky Investigation HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/87965
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries HD IT" tvg-logo="https://picon-13398.kxcdn.com/skydocumentariesuk.jpg" group-title="Live: Italy",Sky Documentaries HD IT
+http://85.203.33.88:80/leonardmusaj/4v5Cc192/87963
 #EXTINF:-1 tvg-id="" tvg-name="In Ginocchio da te" tvg-logo="https://www.amazon.fr/images/I/618Q-cu5emL.jpg" group-title="ITALY",In Ginocchio da te
 https://ia601401.us.archive.org/33/items/grepmat.recvor_20210519/grepmat.recvor.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Non son degno di te" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yUwuLLmpL.jpg" group-title="ITALY",Non son degno di te
