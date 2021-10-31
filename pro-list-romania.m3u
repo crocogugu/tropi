@@ -42,8 +42,7 @@ http://televizoro.tk:25461/roforum.net/roforum.net/2958
 #EXTINF:-1,Antena 1 HD
 http://televizoro.tk:25461/roforum.net/roforum.net/5977
 #EXTINF:-1,Antena 3 HD RO
-http://televizoro.tk:25461/roforum.net/roforum.net/5148
-#EXTINF:-1,Antena 3
+http://televizoro.tk:25461/roforum.net/roforum.net/5148#EXTINF:-1,Antena 3
 http://televizoro.tk:25461/roforum.net/roforum.net/5978
 #EXTINF:-1,Antena 3 HD
 http://televizoro.tk:25461/roforum.net/roforum.net/2959
@@ -52,7 +51,7 @@ http://televizoro.tk:25461/roforum.net/roforum.net/5149
 #EXTINF:-1,Antena Stars HD
 http://televizoro.tk:25461/roforum.net/roforum.net/2960
 #EXTINF:-1,Antena Stars
-http://televizoro.tk:25461/roforum.net/roforum.net/5979
+http://televizoro.tk:25461/roforum.net/roforum.net/597
 #EXTINF:-1,PRO 2 HD
 http://televizoro.tk:25461/roforum.net/roforum.net/5982
 #EXTINF:-1,Pro Cinema
@@ -61,7 +60,7 @@ http://televizoro.tk:25461/roforum.net/roforum.net/5983
 http://televizoro.tk:25461/roforum.net/roforum.net/5984
 #EXTINF:-1,Pro TV International
 http://televizoro.tk:25461/roforum.net/roforum.net/5985
-#EXTINF:-1,Prima TV
+#EXTINF:-1,Prima T
 http://televizoro.tk:25461/roforum.net/roforum.net/5986
 #EXTINF:-1,Kanal D
 http://televizoro.tk:25461/roforum.net/roforum.net/5987
@@ -2233,43 +2232,7 @@ http://hitmusic.hu/hitmusic.m3u8
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:0 , +NasaTV-EN
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-#EXTINF:0 , +Nasul ROMANIA
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
-#EXTINF:0 , +București TV
-http://89.38.8.130:39459
-#EXTINF:0 , +Buzau TV
-http://95.77.16.67:8080/
-#EXTINF:0 , +ALLJAZERA TV EN
-https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:0 , +TV SUD EST
-http://89.38.8.130:39443/
-#EXTINF:0 , +Est TV
-http://89.38.8.130:39435
-#EXTINF:0 , +BucovinaTV SD
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:0 , +Dotto TV 8K
-https://dotto.edvr.ro/index.m3u8
-#EXTINF:0 , +NovaBrasov/Fagaras TV
-http://86.125.106.40:1935/live/_definst_/nova/playlist.m3u8
-#EXTINF:0 , +RadioFX TV
-https://5ab29cc78f681.streamlock.net/justicero/radiofx/playlist.m3u8
-#EXTINF:0 , +Discovery ID ROMANIA
-http://195.123.245.80/3324
-#EXTINF:0 ,+HISTORY CHANNEL Romania
-http://195.123.245.80/3352
-#EXTINF:0 ,+Romania TV HD
-http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
-#EXTINF:0 ,+ValeaPrahovei UHD
-http://89.38.8.130:39437
-#EXTINF:0 ,+DibiTV UHD
-http://82.76.210.127:1935/dibitv/live/playlist.m3u8
-#EXTINF:0 tvg-country="En" tvg-logo="" group-title="Sport",+Discovery HD
-http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Discovery science
-http://51.178.8.231:16040/sop.ts
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+Cinemax 1
-http://5.135.68.246:14080/sop.ts
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+MireasaTV
+#EXTINF:0 , +Nasul  tvg-logo="" group-title="Romania",+MireasaTV
 https://ivm.antenaplay.ro/live/mireasa/playlist.m3u8
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Romania",+ViasatExplorer
 http://45.67.231.74:16120/sop.ts
@@ -2314,7 +2277,7 @@ https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="ROMANIA",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/LJTcfxk.png" group-title="ROMANIA",Nasul TV
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Nova TV Brasov" tvg-logo="https://i.imgur.com/DYO1tVZ.png" group-title="ROMANIA",Nova TV Brasov
 http://novapress.ro:1935/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="ROMANIA",Profit
@@ -2335,5 +2298,3 @@ http://85.186.146.34:8080
 https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJkyXtf.png" group-title="ROMANIA",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVSat" tvg-logo="https://i.imgur.com/CkKvogv.jpg" group-title="ROMANIA",TVSat
-http://89.38.8.130:39443
