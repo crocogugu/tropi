@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RO: Acasa TV (call)" tvg-logo="" group-title="RO.Pro",RO: Acasa TV (call)
-http://91.208.206.221:25461/roforum.net/roforum.net/12204
-#EXTINF:-1 tvg-id="" tvg-name="RO:Pro TV (call)" tvg-logo="" group-title="RO.Pro",RO:Pro TV (call)
-http://91.208.206.221:25461/roforum.net/roforum.net/12205
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="|RO| Antena 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/antena1_ro.png" group-title="RO.Pro",|RO| Antena 1 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12578
 #EXTINF:-1 tvg-id="" tvg-name="|RO| Antena Stars 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/antena_stars_ro.png" group-title="RO.Pro",|RO| Antena Stars 4K+
