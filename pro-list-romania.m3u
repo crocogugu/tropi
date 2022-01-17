@@ -1,208 +1,836 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=""tvg-name="|RO| GoldenArrow
-https://goldenarrowschannel.info/stream1.html
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Antena 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/antena1_ro.png" group-title="RO.Pro",|RO| Antena 1 4K+
+#EXTINF:-1,------- Main & Regional -------
+http://91.208.206.221:25461/roforum.net/roforum.net/14670
+#EXTINF:-1,TVR1 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14671
+#EXTINF:-1,TVR1 [B] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14672
+#EXTINF:-1,TVR2 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14673
+#EXTINF:-1,TVR2 [B] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14674
+#EXTINF:-1,TVR3 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14675
+#EXTINF:-1,TVR3 [B] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14676
+#EXTINF:-1,TVR International [TVRi] HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14677
+#EXTINF:-1,Antena 1 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14678
+#EXTINF:-1,Antena 1 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14679
+#EXTINF:-1,Antena 3 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14680
+#EXTINF:-1,Antena 3 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14681
+#EXTINF:-1,Antena Stars HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14682
+#EXTINF:-1,Antena Stars RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14683
+#EXTINF:-1,Pro TV HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14684
+#EXTINF:-1,Pro TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14685
+#EXTINF:-1,Pro TV [B] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14686
+#EXTINF:-1,Pro 2 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14687
+#EXTINF:-1,Pro 2 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14688
+#EXTINF:-1,Pro 2 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14689
+#EXTINF:-1,Pro TV International RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14690
+#EXTINF:-1,Pro Gold RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14691
+#EXTINF:-1,ProTV News RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14692
+#EXTINF:-1,Prima TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14693
+#EXTINF:-1,Kanal D HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14694
+#EXTINF:-1,Kanal D RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14695
+#EXTINF:-1,Kanal D [B] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14696
+#EXTINF:-1,DIGI 24 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14697
+#EXTINF:-1,Digi 24 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14698
+#EXTINF:-1,Digi 24 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14699
+#EXTINF:-1,Realitatea TV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14700
+#EXTINF:-1,Realitatea Plus HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14701
+#EXTINF:-1,Realitatea Plus RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14702
+#EXTINF:-1,N24 VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14703
+#EXTINF:-1,Romania TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14704
+#EXTINF:-1,National TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14705
+#EXTINF:-1,B1 TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14706
+#EXTINF:-1,Intermedia VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14707
+#EXTINF:-1,Canal 33 VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14708
+#EXTINF:-1,Arcadia World FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14709
+#EXTINF:-1,Trinitas VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14710
+#EXTINF:-1,Trinitas RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14711
+#EXTINF:-1,Credo TV HD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14712
+#EXTINF:-1,Credo TV HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14713
+#EXTINF:-1,Alfa & Omega TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14714
+#EXTINF:-1,Speranta TV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14715
+#EXTINF:-1,------- Sports -------
+http://91.208.206.221:25461/roforum.net/roforum.net/14716
+#EXTINF:-1,DIGI Sport 1 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14717
+#EXTINF:-1,Digi Sport 1 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14718
+#EXTINF:-1,DIGI Sport 2 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14719
+#EXTINF:-1,Digi Sport 2 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14720
+#EXTINF:-1,DIGI Sport 3 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14721
+#EXTINF:-1,Digi Sport 3 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14722
+#EXTINF:-1,Digi Sport 4 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14723
+#EXTINF:-1,Telekom Sport 1 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14724
+#EXTINF:-1,Telekom Sport 1 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14725
+#EXTINF:-1,Telekom Sport 2 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14726
+#EXTINF:-1,Telekom Sport 3 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14727
+#EXTINF:-1,Telekom Sport 4 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14728
+#EXTINF:-1,Telekom Sport 5 FHD [Match Time] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14729
+#EXTINF:-1,Eurosport 1 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14730
+#EXTINF:-1,Eurosport 1 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14731
+#EXTINF:-1,Eurosport 2 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14732
+#EXTINF:-1,Eurosport 2 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14733
+#EXTINF:-1,Pro X RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14734
+#EXTINF:-1,Look Sport HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14735
+#EXTINF:-1,Look Sport Plus RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14736
+#EXTINF:-1,------- Movies & Series -------
+http://91.208.206.221:25461/roforum.net/roforum.net/14737
+#EXTINF:-1,HBO HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14738
+#EXTINF:-1,HBO 2 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14739
+#EXTINF:-1,HBO 2 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14740
+#EXTINF:-1,HBO 3 FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14741
+#EXTINF:-1,HBO 3 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14742
+#EXTINF:-1,Cinemax RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14743
+#EXTINF:-1,Cinemax 2 HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14744
+#EXTINF:-1,FightBox VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14745
+#EXTINF:-1,FilmBox RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14746
+#EXTINF:-1,FilmBox Extra FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14747
+#EXTINF:-1,FilmBox Premium VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14748
+#EXTINF:-1,FilmBox Plus VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14749
+#EXTINF:-1,FilmBox Family VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14750
+#EXTINF:-1,Cinemaraton VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14751
+#EXTINF:-1,TV 1000 RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14752
+#EXTINF:-1,Sangeorz TV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14753
+#EXTINF:-1,TNT RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14754
+#EXTINF:-1,AMC VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14755
+#EXTINF:-1,AXN RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14756
+#EXTINF:-1,AXN White RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14757
+#EXTINF:-1,AXN Black VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14758
+#EXTINF:-1,Diva VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14759
+#EXTINF:-1,Pro Cinema RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14760
+#EXTINF:-1,Film Now RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14761
+#EXTINF:-1,Film Now [B] RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14762
+#EXTINF:-1,Film Cafe RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14763
+#EXTINF:-1,Epic Drama FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14764
+#EXTINF:-1,Comedy Central VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14765
+#EXTINF:-1,Happy Channel FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14766
+#EXTINF:-1,Happy Channel RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14767
+#EXTINF:-1,Bollywood VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14768
+#EXTINF:-1,Bollywood Classic TV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14769
+#EXTINF:-1,------- Documentary -------
+http://91.208.206.221:25461/roforum.net/roforum.net/14770
+#EXTINF:-1,Discovery Channel RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14771
+#EXTINF:-1,Discovery Science RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14772
+#EXTINF:-1,Discovery Showcase VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14773
+#EXTINF:-1,Investigation Discovery RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14774
+#EXTINF:-1,Animal Planet FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14775
+#EXTINF:-1,National Geographic FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14776
+#EXTINF:-1,National Geographic RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14777
+#EXTINF:-1,Nat Geo Wild HD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14778
+#EXTINF:-1,Nat Geo Wild RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14779
+#EXTINF:-1,VHistory RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14780
+#EXTINF:-1,Viasat Nature RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14781
+#EXTINF:-1,Viasat Explorer VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14782
+#EXTINF:-1,TLC Balkans HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14783
+#EXTINF:-1,Fine Living VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14784
+#EXTINF:-1,E! Entertainment RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14785
+#EXTINF:-1,Travel Channel HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14786
+#EXTINF:-1,Travel Channel RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14787
+#EXTINF:-1,Da Vinci Learning VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14788
+#EXTINF:-1,DocuBox VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14789
+#EXTINF:-1,DIGI Life HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14790
+#EXTINF:-1,Digi Life RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14791
+#EXTINF:-1,DIGI Animal World HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14792
+#EXTINF:-1,Digi Animal World RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14793
+#EXTINF:-1,DIGI World HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14794
+#EXTINF:-1,Digi World RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14795
+#EXTINF:-1,CBS Reality VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14796
+#EXTINF:-1,Auto Motor Sport VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14797
+#EXTINF:-1,Travel Mix HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14798
+#EXTINF:-1,Travel Mix FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14799
+#EXTINF:-1,TV Paprika RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14800
+#EXTINF:-1,Agro RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14801
+#EXTINF:-1,Fishing & Hunting RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14802
+#EXTINF:-1,Food Network HD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14803
+#EXTINF:-1,Food Network RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14804
+#EXTINF:-1,Extreme Sports Channel VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14805
+#EXTINF:-1,------- Children -------
+http://91.208.206.221:25461/roforum.net/roforum.net/14806
+#EXTINF:-1,Cartoon Network RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14807
+#EXTINF:-1,Boomerang RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14808
+#EXTINF:-1,Duck TV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14809
+#EXTINF:-1,Disney Channel RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14810
+#EXTINF:-1,Disney Junior RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14811
+#EXTINF:-1,Disney Jr VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14812
+#EXTINF:-1,Teen Nick RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14813
+#EXTINF:-1,Nickelodeon RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14814
+#EXTINF:-1,Jim Jam RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14815
+#EXTINF:-1,Minimax VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14816
+#EXTINF:-1,------- Music -------
+http://91.208.206.221:25461/roforum.net/roforum.net/14817
+#EXTINF:-1,CLUB MTV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14818
+#EXTINF:-1,MTV 00s VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14819
+#EXTINF:-1,MTV Live FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14820
+#EXTINF:-1,MTV Hits VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14821
+#EXTINF:-1,MTV 90s VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14822
+#EXTINF:-1,Music Channel RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14823
+#EXTINF:-1,Mooz Dance HD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14824
+#EXTINF:-1,Kiss TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14825
+#EXTINF:-1,UTV HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14826
+#EXTINF:-1,ZU TV FHD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14827
+#EXTINF:-1,ZU TV HD RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14828
+#EXTINF:-1,Inedit TV FHD VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14829
+#EXTINF:-1,Taraf RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14830
+#EXTINF:-1,Favorit TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14831
+#EXTINF:-1,Etno TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14832
+#EXTINF:-1,Tezaur TV VIP RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14833
+#EXTINF:-1,Hora TV RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14834
+#EXTINF:-1,RO: Acasa TV (call)
+http://91.208.206.221:25461/roforum.net/roforum.net/12204
+#EXTINF:-1,RO:Pro TV (call)
+http://91.208.206.221:25461/roforum.net/roforum.net/12205
+#EXTINF:-1,|RO| Antena 1 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12578
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Antena Stars 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/antena_stars_ro.png" group-title="RO.Pro",|RO| Antena Stars 4K+
+#EXTINF:-1,|RO| Antena Stars 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12579
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Antena 3 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/antena3.png" group-title="RO.Pro",|RO| Antena 3 4K+
+#EXTINF:-1,|RO| Antena 3 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12580
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tvr-1-ro.png" group-title="RO.Pro",|RO| TVR 1 4K+
+#EXTINF:-1,|RO| TVR 1 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12581
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 2" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tvr-2-ro.png" group-title="RO.Pro",|RO| TVR 2
+#EXTINF:-1,|RO| TVR 2
 http://91.208.206.221:25461/roforum.net/roforum.net/12582
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 3" tvg-logo="https://cpanel.traveliptv.nl:8443/stream.php?id=15302" group-title="RO.Pro",|RO| TVR 3
+#EXTINF:-1,|RO| TVR 3
 http://91.208.206.221:25461/roforum.net/roforum.net/12583
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR Craiova HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tvr-craiova-ro.png" group-title="RO.Pro",|RO| TVR Craiova HD+
+#EXTINF:-1,|RO| TVR Craiova HD+
 http://91.208.206.221:25461/roforum.net/roforum.net/12584
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR Cluj HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tvr-cluj-ro.png" group-title="RO.Pro",|RO| TVR Cluj HD+
+#EXTINF:-1,|RO| TVR Cluj HD+
 http://91.208.206.221:25461/roforum.net/roforum.net/12585
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 2 4K+" tvg-logo="" group-title="RO.Pro",|RO| Telekom Sport 2 4K+
+#EXTINF:-1,|RO| Telekom Sport 2 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12586
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Filmbox Extra 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/filmbox_extra.png" group-title="RO.Pro",|RO| Filmbox Extra 4K+
+#EXTINF:-1,|RO| Filmbox Extra 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12587
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Cartoon Network" tvg-logo="" group-title="RO.Pro",|RO| Cartoon Network
+#EXTINF:-1,|RO| Cartoon Network
 http://91.208.206.221:25461/roforum.net/roforum.net/12588
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TV Paprika" tvg-logo="http://picon.worldip.nl/satlogo/romania/tv_paprika_ro.png" group-title="RO.Pro",|RO| TV Paprika
+#EXTINF:-1,|RO| TV Paprika
 http://91.208.206.221:25461/roforum.net/roforum.net/12589
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Kanal D 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/kanal_d_ro.png" group-title="RO.Pro",|RO| Kanal D 4K+
+#EXTINF:-1,|RO| Kanal D 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12590
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Zu TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/zu_tv_ro.png" group-title="RO.Pro",|RO| Zu TV 4K+
+#EXTINF:-1,|RO| Zu TV 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12591
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TLC" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/tlc_uk.png" group-title="RO.Pro",|RO| TLC
+#EXTINF:-1,|RO| TLC
 http://91.208.206.221:25461/roforum.net/roforum.net/12592
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Pro TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/pro_tv.png" group-title="RO.Pro",|RO| Pro TV 4K+
+#EXTINF:-1,|RO| Pro TV 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12593
-#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO X 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/pp/pro-x-ro.png" group-title="RO.Pro",|RO| PRO X 4K+
+#EXTINF:-1,|RO| PRO X 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12594
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Pro TV International" tvg-logo="http://picon.worldip.nl/lyngsat/tv/pp/pro-tv-international-ro.png" group-title="RO.Pro",|RO| Pro TV International
+#EXTINF:-1,|RO| Pro TV International
 http://91.208.206.221:25461/roforum.net/roforum.net/12595
-#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO.2" tvg-logo="http://picon.worldip.nl/lyngsat/tv/pp/pro-2-ro.png" group-title="RO.Pro",|RO| PRO.2
+#EXTINF:-1,|RO| PRO.2
 http://91.208.206.221:25461/roforum.net/roforum.net/12596
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Pro Gold" tvg-logo="" group-title="RO.Pro",|RO| Pro Gold
+#EXTINF:-1,|RO| Pro Gold
 http://91.208.206.221:25461/roforum.net/roforum.net/12597
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Pro Cinema" tvg-logo="http://picon.worldip.nl/lyngsat/tv/pp/pro-cinema-ro.png" group-title="RO.Pro",|RO| Pro Cinema
+#EXTINF:-1,|RO| Pro Cinema
 http://91.208.206.221:25461/roforum.net/roforum.net/12598
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Epic Drama" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/epic-drama-se.png" group-title="RO.Pro",|RO| Epic Drama
+#EXTINF:-1,|RO| Epic Drama
 http://91.208.206.221:25461/roforum.net/roforum.net/12599
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Romania TV" tvg-logo="http://picon.worldip.nl/satlogo/romania/roman_tv_ro.png" group-title="RO.Pro",|RO| Romania TV
+#EXTINF:-1,|RO| Romania TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12600
-#EXTINF:-1 tvg-id="" tvg-name="|RO| PrimaTV" tvg-logo="http://picon.worldip.nl/satlogo/romania/prima_tv_ro.png" group-title="RO.Pro",|RO| PrimaTV
+#EXTINF:-1,|RO| PrimaTV
 http://91.208.206.221:25461/roforum.net/roforum.net/12601
-#EXTINF:-1 tvg-id="" tvg-name="|RO| National TV" tvg-logo="" group-title="RO.Pro",|RO| National TV
+#EXTINF:-1,|RO| National TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12602
-#EXTINF:-1 tvg-id="" tvg-name="|RO| AGRO TV" tvg-logo="http://picon.worldip.nl/satlogo/romania/agro_tv_ro.png" group-title="RO.Pro",|RO| AGRO TV
+#EXTINF:-1,|RO| AGRO TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12603
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Realitatea Plus" tvg-logo="http://picon.worldip.nl/satlogo/romania/agro_tv_ro.png" group-title="RO.Pro",|RO| Realitatea Plus
+#EXTINF:-1,|RO| Realitatea Plus
 http://91.208.206.221:25461/roforum.net/roforum.net/12604
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Nickelodeon" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nickelodeon_us.png" group-title="RO.Pro",|RO| Nickelodeon
+#EXTINF:-1,|RO| Nickelodeon
 http://91.208.206.221:25461/roforum.net/roforum.net/12605
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Nick JR" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nickelodeon_junior_fr.png" group-title="RO.Pro",|RO| Nick JR
+#EXTINF:-1,|RO| Nick JR
 http://91.208.206.221:25461/roforum.net/roforum.net/12606
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Minimax" tvg-logo="http://picon.worldip.nl/satlogo/romania/minimax_ro.png" group-title="RO.Pro",|RO| Minimax
+#EXTINF:-1,|RO| Minimax
 http://91.208.206.221:25461/roforum.net/roforum.net/12607
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Disney Junior" tvg-logo="http://picon.worldip.nl/satlogo/romania/disney_junior_us.png" group-title="RO.Pro",|RO| Disney Junior
+#EXTINF:-1,|RO| Disney Junior
 http://91.208.206.221:25461/roforum.net/roforum.net/12608
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Disney Channel" tvg-logo="http://picon.worldip.nl/satlogo/romania/disney_channel_global.png" group-title="RO.Pro",|RO| Disney Channel
+#EXTINF:-1,|RO| Disney Channel
 http://91.208.206.221:25461/roforum.net/roforum.net/12609
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Cartoon network" tvg-logo="http://picon.worldip.nl/satlogo/romania/cartoon_network_global.png" group-title="RO.Pro",|RO| Cartoon network
+#EXTINF:-1,|RO| Cartoon network
 http://91.208.206.221:25461/roforum.net/roforum.net/12610
-#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/hbo_ro.png" group-title="RO.Pro",|RO| HBO 4K+
+#EXTINF:-1,|RO| HBO 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12611
-#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/hbo2_ce.png" group-title="RO.Pro",|RO| HBO 2 4K+
+#EXTINF:-1,|RO| HBO 2 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12612
-#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO 3 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/hh/hbo3_ce.png" group-title="RO.Pro",|RO| HBO 3 4K+
+#EXTINF:-1,|RO| HBO 3 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12613
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/filmbox_premium_cz.png" group-title="RO.Pro",|RO| FILMBOX PREMIUM
+#EXTINF:-1,|RO| FILMBOX PREMIUM
 http://91.208.206.221:25461/roforum.net/roforum.net/12614
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PLUS" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/filmbox_plus_cz.png" group-title="RO.Pro",|RO| FILMBOX PLUS
+#EXTINF:-1,|RO| FILMBOX PLUS
 http://91.208.206.221:25461/roforum.net/roforum.net/12615
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX FAMILY" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/filmbox_family.png" group-title="RO.Pro",|RO| FILMBOX FAMILY
+#EXTINF:-1,|RO| FILMBOX FAMILY
 http://91.208.206.221:25461/roforum.net/roforum.net/12616
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMCAFE" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/film_cafe_hu.png" group-title="RO.Pro",|RO| FILMCAFE
+#EXTINF:-1,|RO| FILMCAFE
 http://91.208.206.221:25461/roforum.net/roforum.net/12617
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMNOW" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/film-now-hu.png" group-title="RO.Pro",|RO| FILMNOW
+#EXTINF:-1,|RO| FILMNOW
 http://91.208.206.221:25461/roforum.net/roforum.net/12618
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Cinemax 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/cinemax_ce.png" group-title="RO.Pro",|RO| Cinemax 4K+
+#EXTINF:-1,|RO| Cinemax 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12619
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Cinemax 2" tvg-logo="http://picon.worldip.nl/lyngsat/tv/cc/cinemax_ce_2.png" group-title="RO.Pro",|RO| Cinemax 2
+#EXTINF:-1,|RO| Cinemax 2
 http://91.208.206.221:25461/roforum.net/roforum.net/12620
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Cinema Raton 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/cc/cinemaraton-ro.png" group-title="RO.Pro",|RO| Cinema Raton 4K+
+#EXTINF:-1,|RO| Cinema Raton 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12621
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Nat Geo Wild 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nat_geo_wild_us.png" group-title="RO.Pro",|RO| Nat Geo Wild 4K+
+#EXTINF:-1,|RO| Nat Geo Wild 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12622
-#EXTINF:-1 tvg-id="" tvg-name="|RO| National Geographic 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nat_geo_us.png" group-title="RO.Pro",|RO| National Geographic 4K+
+#EXTINF:-1,|RO| National Geographic 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12623
-#EXTINF:-1 tvg-id="" tvg-name="|RO| AXN 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/axn_ph.png" group-title="RO.Pro",|RO| AXN 4K+
+#EXTINF:-1,|RO| AXN 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12624
-#EXTINF:-1 tvg-id="" tvg-name="|RO| AXN White" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/axn_white_es.png" group-title="RO.Pro",|RO| AXN White
+#EXTINF:-1,|RO| AXN White
 http://91.208.206.221:25461/roforum.net/roforum.net/12625
-#EXTINF:-1 tvg-id="" tvg-name="|RO| B1" tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/b1-ro.png" group-title="RO.Pro",|RO| B1
+#EXTINF:-1,|RO| B1
 http://91.208.206.221:25461/roforum.net/roforum.net/12626
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/filmbox_cz.png" group-title="RO.Pro",|RO| FILMBOX
+#EXTINF:-1,|RO| FILMBOX
 http://91.208.206.221:25461/roforum.net/roforum.net/12627
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TV1000" tvg-logo="http://picon.worldip.nl/satlogo/romania/viasat_tv1000_balkan.png" group-title="RO.Pro",|RO| TV1000
+#EXTINF:-1,|RO| TV1000
 http://91.208.206.221:25461/roforum.net/roforum.net/12628
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Happy Channel 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/hh/happy_channel_ro.png" group-title="RO.Pro",|RO| Happy Channel 4K+
+#EXTINF:-1,|RO| Happy Channel 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12629
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Music Channel" tvg-logo="http://picon.worldip.nl/satlogo/romania/1music_channel_ro.png" group-title="RO.Pro",|RO| Music Channel
+#EXTINF:-1,|RO| Music Channel
 http://91.208.206.221:25461/roforum.net/roforum.net/12630
-#EXTINF:-1 tvg-id="" tvg-name="|RO| KISS TV" tvg-logo="http://picon.worldip.nl/lyngsat/tv/kk/kiss_tv_ro.png" group-title="RO.Pro",|RO| KISS TV
+#EXTINF:-1,|RO| KISS TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12631
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Taraf TV" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/taraf_tv.png" group-title="RO.Pro",|RO| Taraf TV
+#EXTINF:-1,|RO| Taraf TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12632
-#EXTINF:-1 tvg-id="" tvg-name="|RO| ETNO" tvg-logo="http://picon.worldip.nl/satlogo/romania/etno_tv.png" group-title="RO.Pro",|RO| ETNO
+#EXTINF:-1,|RO| ETNO
 http://91.208.206.221:25461/roforum.net/roforum.net/12633
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FAVORIT" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/favorit_tv_ro.png" group-title="RO.Pro",|RO| FAVORIT
+#EXTINF:-1,|RO| FAVORIT
 http://91.208.206.221:25461/roforum.net/roforum.net/12634
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Look Plus" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ll/lookplus-ro.png" group-title="RO.Pro",|RO| Look Plus
+#EXTINF:-1,|RO| Look Plus
 http://91.208.206.221:25461/roforum.net/roforum.net/12635
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 1 4K+" tvg-logo="" group-title="RO.Pro",|RO| Telekom Sport 1 4K+
+#EXTINF:-1,|RO| Telekom Sport 1 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12636
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 3 4K+" tvg-logo="" group-title="RO.Pro",|RO| Telekom Sport 3 4K+
+#EXTINF:-1,|RO| Telekom Sport 3 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12637
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Telekom Sport 4 4K+" tvg-logo="" group-title="RO.Pro",|RO| Telekom Sport 4 4K+
+#EXTINF:-1,|RO| Telekom Sport 4 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12638
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Sport 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/digi_sport1_ro.png" group-title="RO.Pro",|RO| Digi Sport 1 4K+
+#EXTINF:-1,|RO| Digi Sport 1 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12639
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Sport 2 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/digi_sport2_ro.png" group-title="RO.Pro",|RO| Digi Sport 2 4K+
+#EXTINF:-1,|RO| Digi Sport 2 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12640
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Sport 3 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/digi_sport3_ro.png" group-title="RO.Pro",|RO| Digi Sport 3 4K+
+#EXTINF:-1,|RO| Digi Sport 3 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12641
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Sport 4 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/digi_sport4_ro.png" group-title="RO.Pro",|RO| Digi Sport 4 4K+
+#EXTINF:-1,|RO| Digi Sport 4 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12642
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Eurosport 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eurosport_fr_1.png" group-title="RO.Pro",|RO| Eurosport 1 4K+
+#EXTINF:-1,|RO| Eurosport 1 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12643
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Eurosport 2 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eurosport_fr_2.png" group-title="RO.Pro",|RO| Eurosport 2 4K+
+#EXTINF:-1,|RO| Eurosport 2 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12644
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Fightbox" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/fight_box_hd.png" group-title="RO.Pro",|RO| Fightbox
+#EXTINF:-1,|RO| Fightbox
 http://91.208.206.221:25461/roforum.net/roforum.net/12645
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Look Sport" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ll/looksport-ro.png" group-title="RO.Pro",|RO| Look Sport
+#EXTINF:-1,|RO| Look Sport
 http://91.208.206.221:25461/roforum.net/roforum.net/12646
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Extreme Sport" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/extreme_sports_fr.png" group-title="RO.Pro",|RO| Extreme Sport
+#EXTINF:-1,|RO| Extreme Sport
 http://91.208.206.221:25461/roforum.net/roforum.net/12647
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Viasat Nature 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/vv/viasat_nature.png" group-title="RO.Pro",|RO| Viasat Nature 4K+
+#EXTINF:-1,|RO| Viasat Nature 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12648
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Viasat Explore" tvg-logo="http://picon.worldip.nl/lyngsat/tv/vv/viasat_explore.png" group-title="RO.Pro",|RO| Viasat Explore
+#EXTINF:-1,|RO| Viasat Explore
 http://91.208.206.221:25461/roforum.net/roforum.net/12649
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Viasat History" tvg-logo="http://picon.worldip.nl/lyngsat/tv/vv/viasat_history.png" group-title="RO.Pro",|RO| Viasat History
+#EXTINF:-1,|RO| Viasat History
 http://91.208.206.221:25461/roforum.net/roforum.net/12650
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Discovery channel 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/dd/discovery-channel-uk-us-uk.png" group-title="RO.Pro",|RO| Discovery channel 4K+
+#EXTINF:-1,|RO| Discovery channel 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12651
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Discovery ID" tvg-logo="" group-title="RO.Pro",|RO| Discovery ID
+#EXTINF:-1,|RO| Discovery ID
 http://91.208.206.221:25461/roforum.net/roforum.net/12652
-#EXTINF:-1 tvg-id="" tvg-name="|RO| E! Entertainment 4K" tvg-logo="" group-title="RO.Pro",|RO| E! Entertainment 4K
+#EXTINF:-1,|RO| E! Entertainment 4K
 http://91.208.206.221:25461/roforum.net/roforum.net/12653
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Travel Channel 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/tt/travel_channel_us.png" group-title="RO.Pro",|RO| Travel Channel 4K+
+#EXTINF:-1,|RO| Travel Channel 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12654
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Animal World 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/digi_animal_world_ro.png" group-title="RO.Pro",|RO| Digi Animal World 4K+
+#EXTINF:-1,|RO| Digi Animal World 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12655
-#EXTINF:-1 tvg-id="" tvg-name="|RO| History Romania 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/hh/history_us.png" group-title="RO.Pro",|RO| History Romania 4K+
+#EXTINF:-1,|RO| History Romania 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12656
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi Life 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/digi_life_ro.png" group-title="RO.Pro",|RO| Digi Life 4K+
+#EXTINF:-1,|RO| Digi Life 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12657
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi World 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/digi_world_ro.png" group-title="RO.Pro",|RO| Digi World 4K+
+#EXTINF:-1,|RO| Digi World 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12658
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Digi 24 4K+" tvg-logo="http://picon.worldip.nl/satlogo/romania/digi_24_ro.png" group-title="RO.Pro",|RO| Digi 24 4K+
+#EXTINF:-1,|RO| Digi 24 4K+
 http://91.208.206.221:25461/roforum.net/roforum.net/12659
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Paramount Channel" tvg-logo="http://picon.worldip.nl/satlogo/romania/paramount_channel_us.png" group-title="RO.Pro",|RO| Paramount Channel
+#EXTINF:-1,|RO| Paramount Channel
 http://91.208.206.221:25461/roforum.net/roforum.net/12660
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FOOD network" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/food_network_us.png" group-title="RO.Pro",|RO| FOOD network
+#EXTINF:-1,|RO| FOOD network
 http://91.208.206.221:25461/roforum.net/roforum.net/12661
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Fishing & Hunting" tvg-logo="" group-title="RO.Pro",|RO| Fishing & Hunting
+#EXTINF:-1,|RO| Fishing & Hunting
 http://91.208.206.221:25461/roforum.net/roforum.net/12662
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FINE LIVING" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/fine_living_network_emea.png" group-title="RO.Pro",|RO| FINE LIVING
+#EXTINF:-1,|RO| FINE LIVING
 http://91.208.206.221:25461/roforum.net/roforum.net/12663
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Alfa Omega" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/alfa_omega_tv.png" group-title="RO.Pro",|RO| Alfa Omega
+#EXTINF:-1,|RO| Alfa Omega
 http://91.208.206.221:25461/roforum.net/roforum.net/12664
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Axn Spin" tvg-logo="http://picon.worldip.nl/lyngsat/tv/aa/axn-spin-us.png" group-title="RO.Pro",|RO| Axn Spin
+#EXTINF:-1,|RO| Axn Spin
 http://91.208.206.221:25461/roforum.net/roforum.net/12665
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Bollywood TV" tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/bollywood_tv_ro.png" group-title="RO.Pro",|RO| Bollywood TV
+#EXTINF:-1,|RO| Bollywood TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12666
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Boomerang" tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/boomerang_global.png" group-title="RO.Pro",|RO| Boomerang
+#EXTINF:-1,|RO| Boomerang
 http://91.208.206.221:25461/roforum.net/roforum.net/12667
-#EXTINF:-1 tvg-id="" tvg-name="|RO| CBS Reality" tvg-logo="http://picon.worldip.nl/lyngsat/tv/cc/cbs_reality_eu.png" group-title="RO.Pro",|RO| CBS Reality
+#EXTINF:-1,|RO| CBS Reality
 http://91.208.206.221:25461/roforum.net/roforum.net/12668
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Diva" tvg-logo="http://picon.worldip.nl/satlogo/romania/diva_global.png" group-title="RO.Pro",|RO| Diva
+#EXTINF:-1,|RO| Diva
 http://91.208.206.221:25461/roforum.net/roforum.net/12669
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Hit Music" tvg-logo="http://picon.worldip.nl/satlogo/romania/hit_music_channel.png" group-title="RO.Pro",|RO| Hit Music
+#EXTINF:-1,|RO| Hit Music
 http://91.208.206.221:25461/roforum.net/roforum.net/12670
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Jim Jam" tvg-logo="http://picon.worldip.nl/lyngsat/tv/jj/jim_jam_global.png" group-title="RO.Pro",|RO| Jim Jam
+#EXTINF:-1,|RO| Jim Jam
 http://91.208.206.221:25461/roforum.net/roforum.net/12671
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Profit TV" tvg-logo="http://picon.worldip.nl/lyngsat/tv/pp/profit-tv-ro.png" group-title="RO.Pro",|RO| Profit TV
+#EXTINF:-1,|RO| Profit TV
 http://91.208.206.221:25461/roforum.net/roforum.net/12672
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Telestar 1" tvg-logo="http://picon.worldip.nl/satlogo/romania/telestar_ro_1.png" group-title="RO.Pro",|RO| Telestar 1
+#EXTINF:-1,|RO| Telestar 1
 http://91.208.206.221:25461/roforum.net/roforum.net/12673
-#EXTINF:-1 tvg-id="" tvg-name="|RO| TNT" tvg-logo="http://picon.worldip.nl/satlogo/romania/tnt_us.png" group-title="RO.Pro",|RO| TNT
+#EXTINF:-1,|RO| TNT
 http://91.208.206.221:25461/roforum.net/roforum.net/12674
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Travelmix" tvg-logo="http://picon.worldip.nl/satlogo/romania/travel_mix.png" group-title="RO.Pro",|RO| Travelmix
+#EXTINF:-1,|RO| Travelmix
 http://91.208.206.221:25461/roforum.net/roforum.net/12675
-#EXTINF:-1 tvg-id="" tvg-name="|RO| Trintas" tvg-logo="" group-title="RO.Pro",|RO| Trintas
+#EXTINF:-1,|RO| Trintas
 http://91.208.206.221:25461/roforum.net/roforum.net/12676
-#EXTINF:-1 tvg-id="" tvg-name="|RO| AMC" tvg-logo="http://picon.worldip.nl/satlogo/romania/amc_us.png" group-title="RO.Pro",|RO| AMC
+#EXTINF:-1,|RO| AMC
 http://91.208.206.221:25461/roforum.net/roforum.net/12677
+#EXTINF:-1,Euronews
+http://91.208.206.221:25461/roforum.net/roforum.net/11871
+#EXTINF:-1,beIN Fox Movies HD
+http://91.208.206.221:25461/roforum.net/roforum.net/11872
+#EXTINF:-1,beIN Fatafeat
+http://91.208.206.221:25461/roforum.net/roforum.net/11873
+#EXTINF:-1,beIN FX MOVIES HD
+http://91.208.206.221:25461/roforum.net/roforum.net/11874
+#EXTINF:-1,beIN Groummet
+http://91.208.206.221:25461/roforum.net/roforum.net/11875
+#EXTINF:-1,beIN Junior
+http://91.208.206.221:25461/roforum.net/roforum.net/11876
+#EXTINF:-1,beIN Movies HD2 ACTION
+http://91.208.206.221:25461/roforum.net/roforum.net/11877
+#EXTINF:-1,beIN Movies HD3 DRAMA
+http://91.208.206.221:25461/roforum.net/roforum.net/11878
+#EXTINF:-1,beIN Movies HD4 FAMILY
+http://91.208.206.221:25461/roforum.net/roforum.net/11879
+#EXTINF:-1,beIN Series HD 1
+http://91.208.206.221:25461/roforum.net/roforum.net/11880
+#EXTINF:-1,beIN Outdoor
+http://91.208.206.221:25461/roforum.net/roforum.net/11881
+#EXTINF:-1,BBC World News
+http://91.208.206.221:25461/roforum.net/roforum.net/11882
+#EXTINF:-1,RT News
+http://91.208.206.221:25461/roforum.net/roforum.net/11883
+#EXTINF:-1,RT Documentary
+http://91.208.206.221:25461/roforum.net/roforum.net/11884
+#EXTINF:-1,CNN International Europe
+http://91.208.206.221:25461/roforum.net/roforum.net/11885
+#EXTINF:-1,CCTV-4 Europe
+http://91.208.206.221:25461/roforum.net/roforum.net/11886
+#EXTINF:-1,beIN DTX
+http://91.208.206.221:25461/roforum.net/roforum.net/11887
+#EXTINF:-1,Pro•TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12678
+#EXTINF:-1,DTX-RO
+http://91.208.206.221:25461/roforum.net/roforum.net/14668
+#EXTINF:-1,Рен ТВ MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11920
+#EXTINF:-1,Prime 1 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11921
+#EXTINF:-1,Canal 3 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11922
+#EXTINF:-1,Publika TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11923
+#EXTINF:-1,Moldova 1 HD MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11924
+#EXTINF:-1,Moldova 2
+http://91.208.206.221:25461/roforum.net/roforum.net/11925
+#EXTINF:-1,RTR Moldova
+http://91.208.206.221:25461/roforum.net/roforum.net/11926
+#EXTINF:-1,N4 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11927
+#EXTINF:-1,Orhei TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11928
+#EXTINF:-1,PRIMUL
+http://91.208.206.221:25461/roforum.net/roforum.net/11929
+#EXTINF:-1,Accent TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11930
+#EXTINF:-1,ITV Moldova
+http://91.208.206.221:25461/roforum.net/roforum.net/11931
+#EXTINF:-1,СТС Mega MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11932
+#EXTINF:-1,TVR1 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/11933
+#EXTINF:-1,CANAL 5 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11934
+#EXTINF:-1,RUTV MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11935
+#EXTINF:-1,Noroc TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11936
+#EXTINF:-1,AXIAL TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11937
+#EXTINF:-1,Jurnal TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11938
+#EXTINF:-1,Canal 2 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11939
+#EXTINF:-1,TV8 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11940
+#EXTINF:-1,ProTV Chisinau
+http://91.208.206.221:25461/roforum.net/roforum.net/11941
+#EXTINF:-1,NTV MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11942
+#EXTINF:-1,TVC 21 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11943
+#EXTINF:-1,ТНТ Exclusiv TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11944
+#EXTINF:-1,TVR 1 MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11945
+#EXTINF:-1,10 TV MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11946
+#EXTINF:-1,Minimax MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11947
+#EXTINF:-1,Gurinel TV
+http://91.208.206.221:25461/roforum.net/roforum.net/11948
+#EXTINF:-1,Zona M MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11949
+#EXTINF:-1,UTV MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11950
+#EXTINF:-1,Jurnal TV HD MD
+http://91.208.206.221:25461/roforum.net/roforum.net/11951
+#EXTINF:-1,AMC HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12393
+#EXTINF:-1,AXN Black
+http://91.208.206.221:25461/roforum.net/roforum.net/12394
+#EXTINF:-1,AXN HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12395
+#EXTINF:-1,AXN Spin
+http://91.208.206.221:25461/roforum.net/roforum.net/12396
+#EXTINF:-1,AXN White
+http://91.208.206.221:25461/roforum.net/roforum.net/12397
+#EXTINF:-1,Agro TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12398
+#EXTINF:-1,Alfa Omega
+http://91.208.206.221:25461/roforum.net/roforum.net/12399
+#EXTINF:-1,Antena 1 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12400
+#EXTINF:-1,Antena 3 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12401
+#EXTINF:-1,Antena Stars HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12402
+#EXTINF:-1,B1
+http://91.208.206.221:25461/roforum.net/roforum.net/12403
+#EXTINF:-1,BBC Earth HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12404
+#EXTINF:-1,Bollywood HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12405
+#EXTINF:-1,Boomerang
+http://91.208.206.221:25461/roforum.net/roforum.net/12406
+#EXTINF:-1,CBS Reality
+http://91.208.206.221:25461/roforum.net/roforum.net/12407
+#EXTINF:-1,CINETHRONIX
+http://91.208.206.221:25461/roforum.net/roforum.net/12408
+#EXTINF:-1,Canal 33
+http://91.208.206.221:25461/roforum.net/roforum.net/12409
+#EXTINF:-1,Cartoon Network
+http://91.208.206.221:25461/roforum.net/roforum.net/12410
+#EXTINF:-1,Cinemaraton HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12411
+#EXTINF:-1,Comedy Central
+http://91.208.206.221:25461/roforum.net/roforum.net/12412
+#EXTINF:-1,ComedyEst
+http://91.208.206.221:25461/roforum.net/roforum.net/12413
+#EXTINF:-1,DIGI 24 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12414
+#EXTINF:-1,DIGI ANIMAL WORLD HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12415
+#EXTINF:-1,DIGI Life HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12416
+#EXTINF:-1,DIGI Sport 1 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12417
+#EXTINF:-1,DIGI Sport 2 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12418
+#EXTINF:-1,DIGI Sport 3 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12419
+#EXTINF:-1,DIGI Sport 4 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12420
+#EXTINF:-1,DIGI WORLD HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12421
+#EXTINF:-1,DaVinci
+http://91.208.206.221:25461/roforum.net/roforum.net/12422
+#EXTINF:-1,Discovery HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12423
+#EXTINF:-1,Disney Channel
+http://91.208.206.221:25461/roforum.net/roforum.net/12424
+#EXTINF:-1,Disney Junior
+http://91.208.206.221:25461/roforum.net/roforum.net/12425
+#EXTINF:-1,Diva
+http://91.208.206.221:25461/roforum.net/roforum.net/12426
+#EXTINF:-1,Duck TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12427
+#EXTINF:-1,E! Entertainment HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12428
+#EXTINF:-1,Epic Drama
+http://91.208.206.221:25461/roforum.net/roforum.net/12429
+#EXTINF:-1,Etno
+http://91.208.206.221:25461/roforum.net/roforum.net/12430
+#EXTINF:-1,Eurosport 2 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12431
+#EXTINF:-1,Eurosport HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12432
+#EXTINF:-1,Fashion TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12433
+#EXTINF:-1,Favorit TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12434
+#EXTINF:-1,Fishing and Hunting
+http://91.208.206.221:25461/roforum.net/roforum.net/12435
+#EXTINF:-1,HGTV HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12436
+#EXTINF:-1,HIT MUSIC
+http://91.208.206.221:25461/roforum.net/roforum.net/12437
+#EXTINF:-1,Happy Channel HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12438
+#EXTINF:-1,History HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12439
+#EXTINF:-1,Hora TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12440
+#EXTINF:-1,Inedit TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12441
+#EXTINF:-1,JimJam
+http://91.208.206.221:25461/roforum.net/roforum.net/12442
+#EXTINF:-1,KISS TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12443
+#EXTINF:-1,Kanal D HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12444
+#EXTINF:-1,Kapital TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12445
+#EXTINF:-1,LookPlus
+http://91.208.206.221:25461/roforum.net/roforum.net/12446
+#EXTINF:-1,LookSport
+http://91.208.206.221:25461/roforum.net/roforum.net/12447
+#EXTINF:-1,MAGIC TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12448
+#EXTINF:-1,MEDIKA TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12449
+#EXTINF:-1,MEZZO
+http://91.208.206.221:25461/roforum.net/roforum.net/12450
+#EXTINF:-1,MTV 00s
+http://91.208.206.221:25461/roforum.net/roforum.net/12451
+#EXTINF:-1,MTV Europe
+http://91.208.206.221:25461/roforum.net/roforum.net/12452
+#EXTINF:-1,Minimax
+http://91.208.206.221:25461/roforum.net/roforum.net/12453
+#EXTINF:-1,NCN
+http://91.208.206.221:25461/roforum.net/roforum.net/12454
+#EXTINF:-1,Nasul TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12455
+#EXTINF:-1,Nat Geo HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12456
+#EXTINF:-1,Nat Geo Wild HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12457
+#EXTINF:-1,National 24 Plus
+http://91.208.206.221:25461/roforum.net/roforum.net/12458
+#EXTINF:-1,National TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12459
+#EXTINF:-1,Nick Jr
+http://91.208.206.221:25461/roforum.net/roforum.net/12460
+#EXTINF:-1,Nickelodeon
+http://91.208.206.221:25461/roforum.net/roforum.net/12461
+#EXTINF:-1,Nicktoons
+http://91.208.206.221:25461/roforum.net/roforum.net/12462
+#EXTINF:-1,Orizont TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12463
+#EXTINF:-1,PRIMA TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12464
+#EXTINF:-1,PRO 2 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12465
+#EXTINF:-1,PRO TV HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12466
+#EXTINF:-1,PRO X HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12467
+#EXTINF:-1,Paramount Channel
+http://91.208.206.221:25461/roforum.net/roforum.net/12468
+#EXTINF:-1,Profit Tv
+http://91.208.206.221:25461/roforum.net/roforum.net/12469
+#EXTINF:-1,ROCK TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12470
+#EXTINF:-1,RomaniaTV
+http://91.208.206.221:25461/roforum.net/roforum.net/12471
+#EXTINF:-1,SperantaTV
+http://91.208.206.221:25461/roforum.net/roforum.net/12472
+#EXTINF:-1,TLC
+http://91.208.206.221:25461/roforum.net/roforum.net/12473
+#EXTINF:-1,TNT
+http://91.208.206.221:25461/roforum.net/roforum.net/12474
+#EXTINF:-1,TV1000
+http://91.208.206.221:25461/roforum.net/roforum.net/12475
+#EXTINF:-1,TVR 3
+http://91.208.206.221:25461/roforum.net/roforum.net/12476
+#EXTINF:-1,TVR1 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12477
+#EXTINF:-1,TVR2 HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12478
+#EXTINF:-1,TVSudEst
+http://91.208.206.221:25461/roforum.net/roforum.net/12479
+#EXTINF:-1,Taraf TV
+http://91.208.206.221:25461/roforum.net/roforum.net/12480
+#EXTINF:-1,Telestar1
+http://91.208.206.221:25461/roforum.net/roforum.net/12481
+#EXTINF:-1,Travel Channel HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12482
+#EXTINF:-1,Travel Mix
+http://91.208.206.221:25461/roforum.net/roforum.net/12483
+#EXTINF:-1,Trinitas
+http://91.208.206.221:25461/roforum.net/roforum.net/12484
+#EXTINF:-1,UTV HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12485
+#EXTINF:-1,VH1
+http://91.208.206.221:25461/roforum.net/roforum.net/12486
+#EXTINF:-1,Viasat Explore HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12487
+#EXTINF:-1,Viasat History HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12488
+#EXTINF:-1,Viasat Nature HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12489
+#EXTINF:-1,ZU TV HD
+http://91.208.206.221:25461/roforum.net/roforum.net/12490
 #EXTINF:29,TVR 1 HD
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8
 #EXTINF:30,TVR 2 HD
