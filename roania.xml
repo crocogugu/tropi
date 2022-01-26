@@ -1,0 +1,1694 @@
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.1 -- Jan van Straaten" site="antenaplay.ro/live/">
+<channels>
+<channel update="i" site="antenaplay.ro" site_id="antena1" xmltv_id="Antena1">Antena1</channel>
+<channel update="i" site="antenaplay.ro" site_id="antena-stars" xmltv_id="Antena Stars">Antena Stars</channel>
+<channel update="i" site="antenaplay.ro" site_id="antena3" xmltv_id="Antena3">Antena3</channel>
+<channel update="i" site="antenaplay.ro" site_id="happy-channel" xmltv_id="Happy Channel">Happy Channel</channel>
+<channel update="i" site="antenaplay.ro" site_id="zu-tv" xmltv_id="Zu Tv">Zu Tv</channel>
+<channel update="i" site="antenaplay.ro" site_id="antena-monden" xmltv_id="Antena Monden">Antena Monden</channel>
+<channel update="i" site="antenaplay.ro" site_id="comedy-play" xmltv_id="Comedy Play">Comedy Play</channel>
+<channel update="i" site="antenaplay.ro" site_id="cookplay" xmltv_id="Cookplay">Cookplay</channel>
+<channel update="i" site="antenaplay.ro" site_id="antena-international" xmltv_id="Antena International">Antena International</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" site="cinemagia.ro">
+<channels>
+<channel update="i" site="cinemagia.ro" site_id="pro-tv" xmltv_id="PRO TV">PRO TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-1" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-1" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="prima-tv" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="kanal-d" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="cinemagia.ro" site_id="national-tv" xmltv_id="National TV">National TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="b1-tv" xmltv_id="B1 TV">B1 TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-2" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="6tv" xmltv_id="6TV">6TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="agro-tv" xmltv_id="Agro TV">Agro TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="alfa-omega-tv" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-1-hd" xmltv_id="Antena 1 HD">Antena 1 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-international" xmltv_id="Antena International">Antena International</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-international-hd" xmltv_id="Antena International HD">Antena International HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-stars" xmltv_id="Antena Stars">Antena Stars</channel>
+<channel update="i" site="cinemagia.ro" site_id="bucuresti-tv" xmltv_id="Bucuresti TV">Bucuresti TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="credo-tv" xmltv_id="Credo TV">Credo TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="est-tv" xmltv_id="Est TV">Est TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="ida-tv" xmltv_id="IDA TV">IDA TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="inedit-tv" xmltv_id="Inedit TV">Inedit TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="litoral-tv" xmltv_id="Litoral TV">Litoral TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="look-sport" xmltv_id="LOOK SPORT">LOOK SPORT</channel>
+<channel update="i" site="cinemagia.ro" site_id="nasul-tv" xmltv_id="Nasul TV">Nasul TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="neptun-tv" xmltv_id="Neptun TV">Neptun TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="orizont-tv" xmltv_id="Orizont TV">Orizont TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="protv-international" xmltv_id="PRO TV INTERNATIONAL">PRO TV INTERNATIONAL</channel>
+<channel update="i" site="cinemagia.ro" site_id="publika" xmltv_id="Publika">Publika</channel>
+<channel update="i" site="cinemagia.ro" site_id="speranta-tv" xmltv_id="Speranta TV">Speranta TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="topshop-tv" xmltv_id="TopShop TV">TopShop TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="trinitas-tv" xmltv_id="Trinitas TV">Trinitas TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="tv-city-hd" xmltv_id="TV City HD">TV City HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="tv-sudest" xmltv_id="TV SudEst">TV SudEst</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvh" xmltv_id="TVH">TVH</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-3" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-cluj" xmltv_id="TVR Cluj">TVR Cluj</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-craiova" xmltv_id="TVR Craiova">TVR Craiova</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-iasi" xmltv_id="TVR Ia?i">TVR Ia?i</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-international" xmltv_id="TVR International">TVR International</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-moldova" xmltv_id="TVR Moldova">TVR Moldova</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-targu-mures" xmltv_id="TVR Târgu Mure?">TVR Târgu Mure?</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-timisoara" xmltv_id="TVR Timi?oara">TVR Timi?oara</channel>
+<channel update="i" site="cinemagia.ro" site_id="valea-prahovei-tv" xmltv_id="Valea Prahovei TV">Valea Prahovei TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="vtv" xmltv_id="VTV">VTV</channel>
+<channel update="i" site="cinemagia.ro" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="antena-3-hd" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+<channel update="i" site="cinemagia.ro" site_id="cgtn" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="cinemagia.ro" site_id="cnn" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-24" xmltv_id="Digi 24">Digi 24</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-24-hd" xmltv_id="Digi 24 HD">Digi 24 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+<channel update="i" site="cinemagia.ro" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+<channel update="i" site="cinemagia.ro" site_id="kabel-1" xmltv_id="Kabel 1">Kabel 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="look-plus" xmltv_id="LOOK PLUS">LOOK PLUS</channel>
+<channel update="i" site="cinemagia.ro" site_id="luxe-tv" xmltv_id="LUXE TV">LUXE TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="national-24-plus" xmltv_id="National 24 Plus">National 24 Plus</channel>
+<channel update="i" site="cinemagia.ro" site_id="profit-ro" xmltv_id="Profit.ro">Profit.ro</channel>
+<channel update="i" site="cinemagia.ro" site_id="rai-3" xmltv_id="Rai 3">Rai 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="realitatea-tv" xmltv_id="Realitatea TV">Realitatea TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="romania-tv" xmltv_id="România TV">România TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="rt-hd" xmltv_id="RT HD">RT HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
+<channel update="i" site="cinemagia.ro" site_id="the-medical-channel" xmltv_id="The Medical Channel">The Medical Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="welt" xmltv_id="Welt">Welt</channel>
+<channel update="i" site="cinemagia.ro" site_id="auto-motor-und-sport-channel" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-4k" xmltv_id="Digi 4K">Digi 4K</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-1" xmltv_id="Digi Sport 1">Digi Sport 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-2" xmltv_id="Digi Sport 2">Digi Sport 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-3" xmltv_id="Digi Sport 3">Digi Sport 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-4" xmltv_id="Digi Sport 4">Digi Sport 4</channel>
+<channel update="i" site="cinemagia.ro" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="extreme-sports-channel" xmltv_id="Extreme Sports">Extreme Sports</channel>
+<channel update="i" site="cinemagia.ro" site_id="motors-tv" xmltv_id="Motors TV">Motors TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-x" xmltv_id="PRO X">PRO X</channel>
+<channel update="i" site="cinemagia.ro" site_id="telekom-sport-1" xmltv_id="Telekom Sport 1">Telekom Sport 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="telekom-sport-2" xmltv_id="Telekom Sport 2">Telekom Sport 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="telekom-sport-3" xmltv_id="Telekom Sport 3">Telekom Sport 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="telekom-sport-4" xmltv_id="Telekom Sport 4">Telekom Sport 4</channel>
+<channel update="i" site="cinemagia.ro" site_id="hbo" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="cinemagia.ro" site_id="hbo-2" xmltv_id="HBO 2">HBO 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-cinema" xmltv_id="PRO CINEMA">PRO CINEMA</channel>
+<channel update="i" site="cinemagia.ro" site_id="amc" xmltv_id="AMC">AMC</channel>
+<channel update="i" site="cinemagia.ro" site_id="axn" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="cinemagia.ro" site_id="axn-black" xmltv_id="AXN Black">AXN Black</channel>
+<channel update="i" site="cinemagia.ro" site_id="axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
+<channel update="i" site="cinemagia.ro" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+<channel update="i" site="cinemagia.ro" site_id="bollywood-classic" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+<channel update="i" site="cinemagia.ro" site_id="bollywood-film" xmltv_id="Bollywood FILM">Bollywood FILM</channel>
+<channel update="i" site="cinemagia.ro" site_id="bollywood-hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="bollywood-tv" xmltv_id="Bollywood TV">Bollywood TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="cinemaraton" xmltv_id="Cinemaraton">Cinemaraton</channel>
+<channel update="i" site="cinemagia.ro" site_id="cinemax" xmltv_id="CineMAX">CineMAX</channel>
+<channel update="i" site="cinemagia.ro" site_id="cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+<channel update="i" site="cinemagia.ro" site_id="cool-tv" xmltv_id="Cool TV">Cool TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="diva" xmltv_id="Diva">Diva</channel>
+<channel update="i" site="cinemagia.ro" site_id="duna" xmltv_id="Duna">Duna</channel>
+<channel update="i" site="cinemagia.ro" site_id="epic-drama" xmltv_id="Epic Drama">Epic Drama</channel>
+<channel update="i" site="cinemagia.ro" site_id="film-plus" xmltv_id="Film +">Film +</channel>
+<channel update="i" site="cinemagia.ro" site_id="film-now" xmltv_id="Film Now">Film Now</channel>
+<channel update="i" site="cinemagia.ro" site_id="filmbox" xmltv_id="Filmbox">Filmbox</channel>
+<channel update="i" site="cinemagia.ro" site_id="filmbox-family" xmltv_id="FilmBox Family">FilmBox Family</channel>
+<channel update="i" site="cinemagia.ro" site_id="filmbox-plus" xmltv_id="Filmbox Plus">Filmbox Plus</channel>
+<channel update="i" site="cinemagia.ro" site_id="filmbox-premium" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+<channel update="i" site="cinemagia.ro" site_id="film-cafe" xmltv_id="FILMCAFE">FILMCAFE</channel>
+<channel update="i" site="cinemagia.ro" site_id="happy-channel" xmltv_id="Happy Channel">Happy Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="happy-channel-hd" xmltv_id="Happy Channel HD">Happy Channel HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="hbo-3" xmltv_id="HBO 3">HBO 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="paramount-channel" xmltv_id="Paramount Channel">Paramount Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-2" xmltv_id="PRO 2">PRO 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-gold" xmltv_id="PRO GOLD">PRO GOLD</channel>
+<channel update="i" site="cinemagia.ro" site_id="tnt" xmltv_id="TNT">TNT</channel>
+<channel update="i" site="cinemagia.ro" site_id="tv1000" xmltv_id="TV1000">TV1000</channel>
+<channel update="i" site="cinemagia.ro" site_id="3sat" xmltv_id="3sat">3sat</channel>
+<channel update="i" site="cinemagia.ro" site_id="ard" xmltv_id="ARD">ARD</channel>
+<channel update="i" site="cinemagia.ro" site_id="arte" xmltv_id="arte">arte</channel>
+<channel update="i" site="cinemagia.ro" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
+<channel update="i" site="cinemagia.ro" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+<channel update="i" site="cinemagia.ro" site_id="deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+<channel update="i" site="cinemagia.ro" site_id="erdely-tv" xmltv_id="Erdely TV">Erdely TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="fine-living" xmltv_id="Fine Living">Fine Living</channel>
+<channel update="i" site="cinemagia.ro" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
+<channel update="i" site="cinemagia.ro" site_id="france-2" xmltv_id="France 2">France 2</channel>
+<channel update="i" site="cinemagia.ro" site_id="france-24-en" xmltv_id="France 24 En">France 24 En</channel>
+<channel update="i" site="cinemagia.ro" site_id="france-24-fr" xmltv_id="France 24 Fr">France 24 Fr</channel>
+<channel update="i" site="cinemagia.ro" site_id="france-3" xmltv_id="France 3">France 3</channel>
+<channel update="i" site="cinemagia.ro" site_id="france-5" xmltv_id="France 5">France 5</channel>
+<channel update="i" site="cinemagia.ro" site_id="ginx" xmltv_id="Ginx">Ginx</channel>
+<channel update="i" site="cinemagia.ro" site_id="kika" xmltv_id="KIKA">KIKA</channel>
+<channel update="i" site="cinemagia.ro" site_id="m1" xmltv_id="M1">M1</channel>
+<channel update="i" site="cinemagia.ro" site_id="m2" xmltv_id="M2">M2</channel>
+<channel update="i" site="cinemagia.ro" site_id="mediaset-italia" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+<channel update="i" site="cinemagia.ro" site_id="n-tv" xmltv_id="N-TV">N-TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="phoenix" xmltv_id="PHOENIX">PHOENIX</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-7" xmltv_id="Pro 7">Pro 7</channel>
+<channel update="i" site="cinemagia.ro" site_id="rai-due" xmltv_id="Rai Due">Rai Due</channel>
+<channel update="i" site="cinemagia.ro" site_id="rai-uno" xmltv_id="Rai Uno">Rai Uno</channel>
+<channel update="i" site="cinemagia.ro" site_id="rtl" xmltv_id="RTL">RTL</channel>
+<channel update="i" site="cinemagia.ro" site_id="rtl-ii" xmltv_id="RTL II">RTL II</channel>
+<channel update="i" site="cinemagia.ro" site_id="rtl-ii-hu" xmltv_id="RTL II (Hu)">RTL II (Hu)</channel>
+<channel update="i" site="cinemagia.ro" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
+<channel update="i" site="cinemagia.ro" site_id="rtl-plus" xmltv_id="RTL+">RTL+</channel>
+<channel update="i" site="cinemagia.ro" site_id="sat-1" xmltv_id="Sat 1">Sat 1</channel>
+<channel update="i" site="cinemagia.ro" site_id="super-rtl" xmltv_id="Super RTL">Super RTL</channel>
+<channel update="i" site="cinemagia.ro" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="tv-paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="cinemagia.ro" site_id="tv5" xmltv_id="TV5">TV5</channel>
+<channel update="i" site="cinemagia.ro" site_id="tve" xmltv_id="TVE">TVE</channel>
+<channel update="i" site="cinemagia.ro" site_id="vox" xmltv_id="VOX">VOX</channel>
+<channel update="i" site="cinemagia.ro" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+<channel update="i" site="cinemagia.ro" site_id="zdf-info" xmltv_id="ZDF info">ZDF info</channel>
+<channel update="i" site="cinemagia.ro" site_id="zdf-kultur" xmltv_id="ZDF kultur">ZDF kultur</channel>
+<channel update="i" site="cinemagia.ro" site_id="zdf-neo" xmltv_id="ZDF neo">ZDF neo</channel>
+<channel update="i" site="cinemagia.ro" site_id="balkanika-tv" xmltv_id="Balkanika TV">Balkanika TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="etno-tv" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="favorit" xmltv_id="Favorit">Favorit</channel>
+<channel update="i" site="cinemagia.ro" site_id="hit-music-channel" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="kiss-tv" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="magic-tv" xmltv_id="Magic TV">Magic TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+<channel update="i" site="cinemagia.ro" site_id="mooz-dance" xmltv_id="Mooz Dance">Mooz Dance</channel>
+<channel update="i" site="cinemagia.ro" site_id="mooz-dance-hd" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="mooz-hd" xmltv_id="Mooz HD">Mooz HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="mooz-hits" xmltv_id="Mooz Hits">Mooz Hits</channel>
+<channel update="i" site="cinemagia.ro" site_id="mooz-ro" xmltv_id="Mooz Ro">Mooz Ro</channel>
+<channel update="i" site="cinemagia.ro" site_id="mtv-dance" xmltv_id="MTV Dance">MTV Dance</channel>
+<channel update="i" site="cinemagia.ro" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+<channel update="i" site="cinemagia.ro" site_id="mtv-rocks" xmltv_id="MTV Rocks">MTV Rocks</channel>
+<channel update="i" site="cinemagia.ro" site_id="mtv-romania" xmltv_id="MTV Romania">MTV Romania</channel>
+<channel update="i" site="cinemagia.ro" site_id="music-channel" xmltv_id="Music Channel">Music Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="muzsika-tv" xmltv_id="Muzsika TV">Muzsika TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="rock-tv" xmltv_id="Rock TV">Rock TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="stingray-brava-hd" xmltv_id="Stingray Brava HD">Stingray Brava HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="stingray-djazz" xmltv_id="Stingray Djazz">Stingray Djazz</channel>
+<channel update="i" site="cinemagia.ro" site_id="taraf-tv" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="trace-tv" xmltv_id="Trace TV">Trace TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="utv" xmltv_id="UTV">UTV</channel>
+<channel update="i" site="cinemagia.ro" site_id="vh1" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="cinemagia.ro" site_id="vh1-classic" xmltv_id="VH1 Classic">VH1 Classic</channel>
+<channel update="i" site="cinemagia.ro" site_id="zu-tv" xmltv_id="ZU TV">ZU TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="zu-tv-hd" xmltv_id="ZU TV HD">ZU TV HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+<channel update="i" site="cinemagia.ro" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
+<channel update="i" site="cinemagia.ro" site_id="crime-investigation-network" xmltv_id="Crime & Investigation Network">Crime & Investigation Network</channel>
+<channel update="i" site="cinemagia.ro" site_id="davinci-learning" xmltv_id="DaVinci Learning">DaVinci Learning</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-animal-world" xmltv_id="Digi Animal World">Digi Animal World</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-life" xmltv_id="Digi Life">Digi Life</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-world" xmltv_id="Digi World">Digi World</channel>
+<channel update="i" site="cinemagia.ro" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+<channel update="i" site="cinemagia.ro" site_id="doq" xmltv_id="DOQ">DOQ</channel>
+<channel update="i" site="cinemagia.ro" site_id="history" xmltv_id="History">History</channel>
+<channel update="i" site="cinemagia.ro" site_id="id-investigation-discovery" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+<channel update="i" site="cinemagia.ro" site_id="m4-sport" xmltv_id="M4 Sport">M4 Sport</channel>
+<channel update="i" site="cinemagia.ro" site_id="medika-tv" xmltv_id="Medika TV">Medika TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+<channel update="i" site="cinemagia.ro" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="cinemagia.ro" site_id="the-fishing-and-hunting-channel" xmltv_id="The Fishing & Hunting Channel">The Fishing & Hunting Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="the-museum-channel-hd" xmltv_id="The Museum Channel HD">The Museum Channel HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="tlc" xmltv_id="TLC">TLC</channel>
+<channel update="i" site="cinemagia.ro" site_id="travel-mix" xmltv_id="Travel Mix">Travel Mix</channel>
+<channel update="i" site="cinemagia.ro" site_id="viasat-explorer" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+<channel update="i" site="cinemagia.ro" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="cinemagia.ro" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="cinemagia.ro" site_id="babytv" xmltv_id="BabyTV">BabyTV</channel>
+<channel update="i" site="cinemagia.ro" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="cinemagia.ro" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="cinemagia.ro" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="cinemagia.ro" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="cinemagia.ro" site_id="duck-tv" xmltv_id="Duck TV">Duck TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="jimjam" xmltv_id="Jimjam">Jimjam</channel>
+<channel update="i" site="cinemagia.ro" site_id="megamax" xmltv_id="Megamax">Megamax</channel>
+<channel update="i" site="cinemagia.ro" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="cinemagia.ro" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+<channel update="i" site="cinemagia.ro" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-tv-hd" xmltv_id="PRO TV HD">PRO TV HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="hbo-2-hd" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="auto-motor-und-sport-channel-hd" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="bbc-world-news-hd" xmltv_id="BBC World News HD">BBC World News HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="cinemax-2-hd" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="cinemax-hd" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-animal-world-hd" xmltv_id="Digi Animal World HD">Digi Animal World HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-life-hd" xmltv_id="Digi Life HD">Digi Life HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-1-hd" xmltv_id="Digi Sport 1 HD">Digi Sport 1 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-2-hd" xmltv_id="Digi Sport 2 HD">Digi Sport 2 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-sport-3-hd" xmltv_id="Digi Sport 3 HD">Digi Sport 3 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="digi-world-hd" xmltv_id="Digi World HD">Digi World HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="discovery-science-hd" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="discovery-showcase-hd" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="discovery-turbo-xtra-hd" xmltv_id="Discovery Turbo Xtra HD">Discovery Turbo Xtra HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="docu-box-hd" xmltv_id="DocuBox HD">DocuBox HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="duck-tv-hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="e-entertainment-hd" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="erox-hd" xmltv_id="Erox HD">Erox HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="eurosport-1-hd" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="eurosport-2-hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="fashion-box-hd" xmltv_id="Fashion Box HD">Fashion Box HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="fashion-television" xmltv_id="Fashion Television">Fashion Television</channel>
+<channel update="i" site="cinemagia.ro" site_id="fashion-tv-hd" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="fight-box-hd" xmltv_id="Fight Box HD">Fight Box HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="film-now-hd" xmltv_id="Film Now HD">Film Now HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="fuel-tv-hd" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="fun-box" xmltv_id="Fun Box">Fun Box</channel>
+<channel update="i" site="cinemagia.ro" site_id="hbo-3-hd" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="history-hd" xmltv_id="History HD">History HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="iconcerts-hd" xmltv_id="iConcerts HD">iConcerts HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="id-xtra-hd" xmltv_id="ID Investigation Discovery HD">ID Investigation Discovery HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="kanal-d-hd" xmltv_id="Kanal D HD">Kanal D HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="look-plus-hd" xmltv_id="LOOK PLUS HD">LOOK PLUS HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="look-sport-hd" xmltv_id="LOOK SPORT HD">LOOK SPORT HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="mezzo-live-hd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="motorvision-hd" xmltv_id="Motorvision HD">Motorvision HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="myzen-hd" xmltv_id="MyZen HD">MyZen HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-2-hd" xmltv_id="PRO 2 HD">PRO 2 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="pro-x-hd" xmltv_id="PRO X HD">PRO X HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="rtl-klub-hd" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="telekom-sport-1-hd" xmltv_id="Telekom Sport 1 HD">Telekom Sport 1 HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="the-fishing-and-hunting-channel-hd" xmltv_id="The Fishing & Hunting Channel HD">The Fishing & Hunting Channel HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="trace-sport-stars" xmltv_id="TRACE Sport Stars HD">TRACE Sport Stars HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="trace-tropical-hd" xmltv_id="Trace Tropical HD">Trace Tropical HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="tvr-hd" xmltv_id="TVR HD">TVR HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="utv-hd" xmltv_id="UTV HD">UTV HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="viasat-nature-history-hd" xmltv_id="Viasat Nature/History HD">Viasat Nature/History HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+<channel update="i" site="cinemagia.ro" site_id="brazzers-tv-europe" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+<channel update="i" site="cinemagia.ro" site_id="dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="free-x-tv" xmltv_id="Free X TV">Free X TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="free-x-tv2" xmltv_id="Free-X Tv2">Free-X Tv2</channel>
+<channel update="i" site="cinemagia.ro" site_id="hustler-hd" xmltv_id="Hustler HD">Hustler HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="playboy-tv" xmltv_id="Playboy TV">Playboy TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="private-tv" xmltv_id="Private TV">Private TV</channel>
+<channel update="i" site="cinemagia.ro" site_id="redlight-hd" xmltv_id="Redlight HD">Redlight HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="superone-hd" xmltv_id="SuperOne HD">SuperOne HD</channel>
+<channel update="i" site="cinemagia.ro" site_id="x-dream-tv" xmltv_id="X-Dream TV">X-Dream TV</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="cinemagia.ro">
+<channels>
+<channel update="i" site="cinemagia.ro.E" site_id="3sat" xmltv_id="3sat">3sat</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="6tv" xmltv_id="6TV">6TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="agro-tv" xmltv_id="Agro TV">Agro TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="aleph-news" xmltv_id="Aleph News">Aleph News</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="alfa-omega-tv" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="amc" xmltv_id="AMC">AMC</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="amc-hd" xmltv_id="AMC HD">AMC HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-1" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-1-hd" xmltv_id="Antena 1 HD">Antena 1 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-3-hd" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-international" xmltv_id="Antena International">Antena International</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-international-hd" xmltv_id="Antena International HD">Antena International HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-stars" xmltv_id="Antena Stars">Antena Stars</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="antena-stars-hd" xmltv_id="Antena Stars HD">Antena Stars HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="arcadia-tv" xmltv_id="Arcadia TV">Arcadia TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="ard" xmltv_id="ARD">ARD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="arte" xmltv_id="arte">arte</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="auto-motor-und-sport-channel" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="auto-motor-und-sport-channel-hd" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="axn" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="axn-black" xmltv_id="AXN Black">AXN Black</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="b1-tv" xmltv_id="B1 TV">B1 TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="babytv" xmltv_id="BabyTV">BabyTV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="balkanika-tv" xmltv_id="Balkanika TV">Balkanika TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bbc-world-news-hd" xmltv_id="BBC World News HD">BBC World News HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bollywood-classic" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bollywood-film" xmltv_id="Bollywood FILM">Bollywood FILM</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bollywood-hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bollywood-tv" xmltv_id="Bollywood TV">Bollywood TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="brazzers-tv-europe" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="bucuresti-tv" xmltv_id="Bucuresti TV">Bucuresti TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cgtn" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cinemaraton" xmltv_id="Cinemaraton">Cinemaraton</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cinemax" xmltv_id="CineMAX">CineMAX</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cinemax-2-hd" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cinemax-hd" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cinethronix" xmltv_id="Cinethronix">Cinethronix</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="club-mtv" xmltv_id="Club MTV">Club MTV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cnn" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="cool-tv" xmltv_id="Cool TV">Cool TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="credo-tv" xmltv_id="Credo TV">Credo TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="crime-investigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="davinci-learning" xmltv_id="DaVinci Learning">DaVinci Learning</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-24" xmltv_id="Digi 24">Digi 24</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-24-hd" xmltv_id="Digi 24 HD">Digi 24 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-4k" xmltv_id="Digi 4K">Digi 4K</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-animal-world" xmltv_id="Digi Animal World">Digi Animal World</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-animal-world-hd" xmltv_id="Digi Animal World HD">Digi Animal World HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-life" xmltv_id="Digi Life">Digi Life</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-life-hd" xmltv_id="Digi Life HD">Digi Life HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-1" xmltv_id="Digi Sport 1">Digi Sport 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-1-hd" xmltv_id="Digi Sport 1 HD">Digi Sport 1 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-2" xmltv_id="Digi Sport 2">Digi Sport 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-2-hd" xmltv_id="Digi Sport 2 HD">Digi Sport 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-3" xmltv_id="Digi Sport 3">Digi Sport 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-3-hd" xmltv_id="Digi Sport 3 HD">Digi Sport 3 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-sport-4" xmltv_id="Digi Sport 4">Digi Sport 4</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-world" xmltv_id="Digi World">Digi World</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="digi-world-hd" xmltv_id="Digi World HD">Digi World HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="discovery-science-hd" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="discovery-showcase-hd" xmltv_id="Discovery Showcase HD">Discovery Showcase HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="discovery-turbo-xtra-hd" xmltv_id="Discovery Turbo Xtra HD">Discovery Turbo Xtra HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="diva" xmltv_id="Diva">Diva</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="docu-box-hd" xmltv_id="DocuBox HD">DocuBox HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="duck-tv" xmltv_id="Duck TV">Duck TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="duck-tv-hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="duna" xmltv_id="Duna">Duna</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="e-entertainment-hd" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="epic-drama" xmltv_id="Epic Drama">Epic Drama</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="erdely-tv" xmltv_id="Erdely TV">Erdely TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="erox-hd" xmltv_id="Erox HD">Erox HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="est-tv" xmltv_id="Est TV">Est TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="etno-tv" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="eurosport-1-hd" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="eurosport-2-hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="eurosport-4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="extreme-sports-channel" xmltv_id="Extreme Sports">Extreme Sports</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fashion-box-hd" xmltv_id="Fashion Box HD">Fashion Box HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fashion-television" xmltv_id="Fashion Television">Fashion Television</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fashion-tv" xmltv_id="Fashion TV">Fashion TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fashion-tv-hd" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="favorit" xmltv_id="Favorit">Favorit</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fight-box-hd" xmltv_id="Fight Box HD">Fight Box HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="film-plus" xmltv_id="Film +">Film +</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="film-now" xmltv_id="Film Now">Film Now</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="film-now-hd" xmltv_id="Film Now HD">Film Now HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="filmbox" xmltv_id="Filmbox">Filmbox</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="filmbox-arthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="filmbox-family" xmltv_id="FilmBox Family">FilmBox Family</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="filmbox-premium" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="filmbox-stars" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="film-cafe" xmltv_id="FILMCAFE">FILMCAFE</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fine-living" xmltv_id="Fine Living">Fine Living</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="food-network-hd" xmltv_id="Food Network HD">Food Network HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="france-2" xmltv_id="France 2">France 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="france-24" xmltv_id="France 24">France 24</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="france-24-en" xmltv_id="France 24 En">France 24 En</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="france-3" xmltv_id="France 3">France 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="france-5" xmltv_id="France 5">France 5</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fuel-tv-hd" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="fun-box" xmltv_id="Fun Box">Fun Box</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="ginx" xmltv_id="Ginx">Ginx</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hit-music-channel" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="happy-channel" xmltv_id="Happy Channel">Happy Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="happy-channel-hd" xmltv_id="Happy Channel HD">Happy Channel HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hbo" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hbo-2" xmltv_id="HBO 2">HBO 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hbo-2-hd" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hbo-3" xmltv_id="HBO 3">HBO 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hbo-3-hd" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="history" xmltv_id="History">History</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="history-hd" xmltv_id="History HD">History HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hustler-hd" xmltv_id="Hustler HD">Hustler HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="iconcerts-hd" xmltv_id="iConcerts HD">iConcerts HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="id-investigation-discovery" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="id-xtra-hd" xmltv_id="ID Investigation Discovery HD">ID Investigation Discovery HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="ida-tv" xmltv_id="IDA TV">IDA TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="inedit-tv" xmltv_id="Inedit TV">Inedit TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="jimjam" xmltv_id="Jimjam">Jimjam</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="kabel-1" xmltv_id="Kabel 1">Kabel 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="kanal-d" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="kanal-d-hd" xmltv_id="Kanal D HD">Kanal D HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="kika" xmltv_id="KIKA">KIKA</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="kiss-tv" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="litoral-tv" xmltv_id="Litoral TV">Litoral TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport" xmltv_id="LOOK SPORT">LOOK SPORT</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-plus" xmltv_id="LOOK SPORT +">LOOK SPORT +</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-plus-hd" xmltv_id="LOOK SPORT + HD">LOOK SPORT + HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-2" xmltv_id="LOOK SPORT 2">LOOK SPORT 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-2-hd" xmltv_id="LOOK SPORT 2 HD">LOOK SPORT 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-3" xmltv_id="LOOK SPORT 3">LOOK SPORT 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-3-hd" xmltv_id="LOOK SPORT 3 HD">LOOK SPORT 3 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="look-sport-hd" xmltv_id="LOOK SPORT HD">LOOK SPORT HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="luxe-tv" xmltv_id="LUXE TV">LUXE TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="m1" xmltv_id="M1">M1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="m2" xmltv_id="M2">M2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="m4-sport" xmltv_id="M4 Sport">M4 Sport</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="magic-tv" xmltv_id="Magic TV">Magic TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="magic-tv-hd" xmltv_id="Magic TV HD">Magic TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mediaset-italia" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="medika-tv" xmltv_id="Medika TV">Medika TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mezzo-live-hd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mooz-dance" xmltv_id="Mooz Dance">Mooz Dance</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mooz-dance-hd" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mooz-hd" xmltv_id="Mooz HD">Mooz HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mooz-hits" xmltv_id="Mooz Hits">Mooz Hits</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mooz-ro" xmltv_id="Mooz Ro">Mooz Ro</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="motorvision-hd" xmltv_id="Motorvision HD">Motorvision HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mtv-80s" xmltv_id="MTV 80's">MTV 80's</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mtv-90s" xmltv_id="MTV 90's">MTV 90's</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mtv-europe" xmltv_id="MTV Europe">MTV Europe</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="museum-hd" xmltv_id="Museum HD">Museum HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="music-channel" xmltv_id="Music Channel">Music Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="muzsika-tv" xmltv_id="Muzsika TV">Muzsika TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="myzen-hd" xmltv_id="MyZen HD">MyZen HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="n-tv" xmltv_id="N-TV">N-TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nasul-tv" xmltv_id="Nasul TV">Nasul TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nat-geo-people" xmltv_id="Nat Geo People">Nat Geo People</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nat-geo-people-hd" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nat-geo-wild-hd" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="national-24-plus" xmltv_id="National 24 Plus">National 24 Plus</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="national-tv" xmltv_id="National TV">National TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="neptun-tv" xmltv_id="Neptun TV">Neptun TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="orizont-tv" xmltv_id="Orizont TV">Orizont TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="paramount-channel" xmltv_id="Paramount Channel">Paramount Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="phoenix" xmltv_id="PHOENIX">PHOENIX</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="playboy-tv" xmltv_id="Playboy TV">Playboy TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="prima-tv" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="prima-tv-hd" xmltv_id="Prima TV HD">Prima TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="private-tv" xmltv_id="Private TV">Private TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-2" xmltv_id="PRO 2">PRO 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-2-hd" xmltv_id="PRO 2 HD">PRO 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-7" xmltv_id="Pro 7">Pro 7</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-cinema" xmltv_id="PRO CINEMA">PRO CINEMA</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-gold" xmltv_id="PRO GOLD">PRO GOLD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-tv" xmltv_id="PRO TV">PRO TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-tv-hd" xmltv_id="PRO TV HD">PRO TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="protv-international" xmltv_id="PRO TV INTERNATIONAL">PRO TV INTERNATIONAL</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-x" xmltv_id="PRO X">PRO X</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="pro-x-hd" xmltv_id="PRO X HD">PRO X HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="profit-ro" xmltv_id="Profit.ro">Profit.ro</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="publika" xmltv_id="Publika">Publika</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rai-1" xmltv_id="Rai 1">Rai 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rai-2" xmltv_id="Rai 2">Rai 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rai-3" xmltv_id="Rai 3">Rai 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="realitatea-plus" xmltv_id="Realitatea Plus">Realitatea Plus</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="redlight-hd" xmltv_id="Redlight HD">Redlight HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rock-tv" xmltv_id="Rock TV">Rock TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rock-tv-hd" xmltv_id="Rock TV HD">Rock TV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="romania-tv" xmltv_id="România TV">România TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rt-hd" xmltv_id="RT HD">RT HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rtl" xmltv_id="RTL">RTL</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rtl-ii" xmltv_id="RTL II">RTL II</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rtl-ii-hu" xmltv_id="RTL II (Hu)">RTL II (Hu)</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rtl-klub-hd" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="rtl-plus" xmltv_id="RTL+">RTL+</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="sat-1" xmltv_id="Sat 1">Sat 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="speranta-tv" xmltv_id="Speranta TV">Speranta TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="sport-extra" xmltv_id="Sport Extra">Sport Extra</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="sport-extra-hd" xmltv_id="Sport Extra HD">Sport Extra HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="stingray-classica" xmltv_id="Stingray Classica">Stingray Classica</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="stingray-djazz" xmltv_id="Stingray Djazz">Stingray Djazz</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="super-rtl" xmltv_id="Super RTL">Super RTL</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="superone-hd" xmltv_id="SuperOne HD">SuperOne HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="taraf-tv" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tdc" xmltv_id="TDC">TDC</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-1" xmltv_id="Telekom Sport 1">Telekom Sport 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-1-hd" xmltv_id="Telekom Sport 1 HD">Telekom Sport 1 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-2" xmltv_id="Telekom Sport 2">Telekom Sport 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-3" xmltv_id="Telekom Sport 3">Telekom Sport 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="telekom-sport-4" xmltv_id="Telekom Sport 4">Telekom Sport 4</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="the-fishing-and-hunting-channel" xmltv_id="The Fishing & Hunting Channel">The Fishing & Hunting Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="the-fishing-and-hunting-channel-hd" xmltv_id="The Fishing & Hunting Channel HD">The Fishing & Hunting Channel HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tlc" xmltv_id="TLC">TLC</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tnt" xmltv_id="TNT">TNT</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tnt-hd" xmltv_id="TNT HD">TNT HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="trace-caribbean" xmltv_id="Trace Caribbean">Trace Caribbean</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="trace-sport-stars" xmltv_id="TRACE Sport Stars HD">TRACE Sport Stars HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="travel-mix" xmltv_id="Travel Mix">Travel Mix</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="trinitas-tv" xmltv_id="Trinitas TV">Trinitas TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tv-city-hd" xmltv_id="TV City HD">TV City HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tv-paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tv-sudest" xmltv_id="TV SudEst">TV SudEst</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tv1000" xmltv_id="TV1000">TV1000</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tv1000-russian-kino" xmltv_id="TV1000 Russian Kino">TV1000 Russian Kino</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tv5" xmltv_id="TV5">TV5</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tve" xmltv_id="TVE">TVE</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-1" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-1-hd" xmltv_id="TVR 1 HD">TVR 1 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-2" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-2-hd" xmltv_id="TVR 2 HD">TVR 2 HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-3" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-cluj" xmltv_id="TVR Cluj">TVR Cluj</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-craiova" xmltv_id="TVR Craiova">TVR Craiova</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-iasi" xmltv_id="TVR Ia?i">TVR Ia?i</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-international" xmltv_id="TVR International">TVR International</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-moldova" xmltv_id="TVR Moldova">TVR Moldova</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-targu-mures" xmltv_id="TVR Târgu Mure?">TVR Târgu Mure?</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="tvr-timisoara" xmltv_id="TVR Timi?oara">TVR Timi?oara</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="utv" xmltv_id="UTV">UTV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="utv-hd" xmltv_id="UTV HD">UTV HD</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="valea-prahovei-tv" xmltv_id="Valea Prahovei TV">Valea Prahovei TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="vh1" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="vox" xmltv_id="VOX">VOX</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="vtv" xmltv_id="VTV">VTV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="welt" xmltv_id="Welt">Welt</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="zdf-info" xmltv_id="ZDF info">ZDF info</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="zdf-kultur" xmltv_id="ZDF kultur">ZDF kultur</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="zdf-neo" xmltv_id="ZDF neo">ZDF neo</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="zu-tv" xmltv_id="ZU TV">ZU TV</channel>
+<channel update="i" site="cinemagia.ro.E" site_id="zu-tv-hd" xmltv_id="ZU TV HD">ZU TV HD</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" site="digiromania.ro.com">
+<channels>
+<channel update="i" site="digiromania.ro" site_id="6" xmltv_id="Acasa TV">Acasa TV</channel>
+<channel update="i" site="digiromania.ro" site_id="4" xmltv_id="Antena1">Antena1</channel>
+<channel update="i" site="digiromania.ro" site_id="38" xmltv_id="Antena3">Antena3</channel>
+<channel update="i" site="digiromania.ro" site_id="16" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="digiromania.ro" site_id="10" xmltv_id="B1TV">B1TV</channel>
+<channel update="i" site="digiromania.ro" site_id="35" xmltv_id="Cinemax">Cinemax</channel>
+<channel update="i" site="digiromania.ro" site_id="921" xmltv_id="Digi Animal World">Digi Animal World</channel>
+<channel update="i" site="digiromania.ro" site_id="490" xmltv_id="Digi Film">Digi Film</channel>
+<channel update="i" site="digiromania.ro" site_id="914" xmltv_id="Digi Life">Digi Life</channel>
+<channel update="i" site="digiromania.ro" site_id="155" xmltv_id="Digi Premium">Digi Premium</channel>
+<channel update="i" site="digiromania.ro" site_id="449" xmltv_id="Digi Sport 1">Digi Sport 1</channel>
+<channel update="i" site="digiromania.ro" site_id="450" xmltv_id="Digi Sport 2">Digi Sport 2</channel>
+<channel update="i" site="digiromania.ro" site_id="338" xmltv_id="Digi Sport 3">Digi Sport 3</channel>
+<channel update="i" site="digiromania.ro" site_id="913" xmltv_id="Digi World">Digi World</channel>
+<channel update="i" site="digiromania.ro" site_id="904" xmltv_id="Digi24">Digi24</channel>
+<channel update="i" site="digiromania.ro" site_id="25" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="digiromania.ro" site_id="19" xmltv_id="Eurosport">Eurosport</channel>
+<channel update="i" site="digiromania.ro" site_id="462" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="digiromania.ro" site_id="463" xmltv_id="Favorit">Favorit</channel>
+<channel update="i" site="digiromania.ro" site_id="14" xmltv_id="Hallmark">Hallmark</channel>
+<channel update="i" site="digiromania.ro" site_id="34" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="digiromania.ro" site_id="323" xmltv_id="HBO Comedy">HBO Comedy</channel>
+<channel update="i" site="digiromania.ro" site_id="20" xmltv_id="Jetix">Jetix</channel>
+<channel update="i" site="digiromania.ro" site_id="322" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="digiromania.ro" site_id="45" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="digiromania.ro" site_id="21" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="digiromania.ro" site_id="465" xmltv_id="Movies 24">Movies 24</channel>
+<channel update="i" site="digiromania.ro" site_id="23" xmltv_id="MTV Romania">MTV Romania</channel>
+<channel update="i" site="digiromania.ro" site_id="12" xmltv_id="National 24 Plus">National 24 Plus</channel>
+<channel update="i" site="digiromania.ro" site_id="29" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="digiromania.ro" site_id="448" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+<channel update="i" site="digiromania.ro" site_id="11" xmltv_id="National TV">National TV</channel>
+<channel update="i" site="digiromania.ro" site_id="13" xmltv_id="OTV">OTV</channel>
+<channel update="i" site="digiromania.ro" site_id="8" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="digiromania.ro" site_id="44" xmltv_id="Private Spice">Private Spice</channel>
+<channel update="i" site="digiromania.ro" site_id="5" xmltv_id="PRO TV">PRO TV</channel>
+<channel update="i" site="digiromania.ro" site_id="7" xmltv_id="PRO TV International">PRO TV International</channel>
+<channel update="i" site="digiromania.ro" site_id="15" xmltv_id="ProCinema">ProCinema</channel>
+<channel update="i" site="digiromania.ro" site_id="9" xmltv_id="REALITATEA TV">REALITATEA TV</channel>
+<channel update="i" site="digiromania.ro" site_id="17" xmltv_id="Romantica">Romantica</channel>
+<channel update="i" site="digiromania.ro" site_id="18" xmltv_id="Sport&period;ro">Sport&period;ro</channel>
+<channel update="i" site="digiromania.ro" site_id="469" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="digiromania.ro" site_id="472" xmltv_id="TV Neptun">TV Neptun</channel>
+<channel update="i" site="digiromania.ro" site_id="321" xmltv_id="TV1000">TV1000</channel>
+<channel update="i" site="digiromania.ro" site_id="1" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="digiromania.ro" site_id="2" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="digiromania.ro" site_id="3" xmltv_id="TVR Cultural">TVR Cultural</channel>
+<channel update="i" site="digiromania.ro" site_id="22" xmltv_id="U TV">U TV</channel>
+<channel update="i" site="digiromania.ro" site_id="447" xmltv_id="Universal Channel">Universal Channel</channel>
+<channel update="i" site="digiromania.ro" site_id="24" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="digiromania.ro" site_id="36" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+<channel update="i" site="digiromania.ro" site_id="37" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="digiromania.ro" site_id="30" xmltv_id="Zone Reality">Zone Reality</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.5.0 -- Jan van Straaten" site="orange.ro">
+<channels>
+<channel update="i" site="orange.ro" site_id="Diva" xmltv_id="Diva">Diva</channel>
+<channel update="i" site="orange.ro" site_id="Kanal D" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="orange.ro" site_id="Antena 3" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="orange.ro" site_id="Romania TV" xmltv_id="Romania TV">Romania TV</channel>
+<channel update="i" site="orange.ro" site_id="Realitatea Plus" xmltv_id="Realitatea Plus">Realitatea Plus</channel>
+<channel update="i" site="orange.ro" site_id="Prima TV HD" xmltv_id="Prima TV HD">Prima TV HD</channel>
+<channel update="i" site="orange.ro" site_id="B1 TV" xmltv_id="B1 TV">B1 TV</channel>
+<channel update="i" site="orange.ro" site_id="National TV" xmltv_id="National TV">National TV</channel>
+<channel update="i" site="orange.ro" site_id="PRO TV HD" xmltv_id="PRO TV HD">PRO TV HD</channel>
+<channel update="i" site="orange.ro" site_id="PRO X HD" xmltv_id="PRO X HD">PRO X HD</channel>
+<channel update="i" site="orange.ro" site_id="PRO CINEMA HD" xmltv_id="PRO CINEMA HD">PRO CINEMA HD</channel>
+<channel update="i" site="orange.ro" site_id="PRO 2 HD" xmltv_id="PRO 2 HD">PRO 2 HD</channel>
+<channel update="i" site="orange.ro" site_id="PRO GOLD HD" xmltv_id="PRO GOLD HD">PRO GOLD HD</channel>
+<channel update="i" site="orange.ro" site_id="PRO TV INTERNATIONAL" xmltv_id="PRO TV INTERNATIONAL">PRO TV INTERNATIONAL</channel>
+<channel update="i" site="orange.ro" site_id="Look Sport HD" xmltv_id="Look Sport HD">Look Sport HD</channel>
+<channel update="i" site="orange.ro" site_id="Look Sport 2 HD" xmltv_id="Look Sport 2 HD">Look Sport 2 HD</channel>
+<channel update="i" site="orange.ro" site_id="Look Sport 3 HD" xmltv_id="Look Sport 3 HD">Look Sport 3 HD</channel>
+<channel update="i" site="orange.ro" site_id="Cinemaraton HD" xmltv_id="Cinemaraton HD">Cinemaraton HD</channel>
+<channel update="i" site="orange.ro" site_id="Aleph News" xmltv_id="Aleph News">Aleph News</channel>
+<channel update="i" site="orange.ro" site_id="Metropola HD" xmltv_id="Metropola HD">Metropola HD</channel>
+<channel update="i" site="orange.ro" site_id="A 7 TV HD" xmltv_id="A 7 TV HD">A 7 TV HD</channel>
+<channel update="i" site="orange.ro" site_id="Canal 33" xmltv_id="Canal 33">Canal 33</channel>
+<channel update="i" site="orange.ro" site_id="Euronews" xmltv_id="Euronews">Euronews</channel>
+<channel update="i" site="orange.ro" site_id="DW" xmltv_id="DW">DW</channel>
+<channel update="i" site="orange.ro" site_id="France 24" xmltv_id="France 24">France 24</channel>
+<channel update="i" site="orange.ro" site_id="TV 5" xmltv_id="TV 5">TV 5</channel>
+<channel update="i" site="orange.ro" site_id="Favorit" xmltv_id="Favorit">Favorit</channel>
+<channel update="i" site="orange.ro" site_id="Antena 1" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="orange.ro" site_id="VTV" xmltv_id="VTV">VTV</channel>
+<channel update="i" site="orange.ro" site_id="Orange Info" xmltv_id="Orange Info">Orange Info</channel>
+<channel update="i" site="orange.ro" site_id="TVR 1" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="orange.ro" site_id="TVR 2" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="orange.ro" site_id="TVR 3" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="orange.ro" site_id="TVR International" xmltv_id="TVR International">TVR International</channel>
+<channel update="i" site="orange.ro" site_id="Profit.ro" xmltv_id="Profit.ro">Profit.ro</channel>
+<channel update="i" site="orange.ro" site_id="Bucuresti TV HD" xmltv_id="Bucuresti TV HD">Bucuresti TV HD</channel>
+<channel update="i" site="orange.ro" site_id="Kapital TV" xmltv_id="Kapital TV">Kapital TV</channel>
+<channel update="i" site="orange.ro" site_id="N24 Plus" xmltv_id="N24 Plus">N24 Plus</channel>
+<channel update="i" site="orange.ro" site_id="Nasul TV" xmltv_id="Nasul TV">Nasul TV</channel>
+<channel update="i" site="orange.ro" site_id="NCN TV" xmltv_id="NCN TV">NCN TV</channel>
+<channel update="i" site="orange.ro" site_id="Eurosport HD" xmltv_id="Eurosport HD">Eurosport HD</channel>
+<channel update="i" site="orange.ro" site_id="Eurosport 2 HD" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+<channel update="i" site="orange.ro" site_id="Telekom Sport 3" xmltv_id="Telekom Sport 3">Telekom Sport 3</channel>
+<channel update="i" site="orange.ro" site_id="Telekom Sport 4" xmltv_id="Telekom Sport 4">Telekom Sport 4</channel>
+<channel update="i" site="orange.ro" site_id="Disney Channel" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="orange.ro" site_id="Disney Junior" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="orange.ro" site_id="Nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="orange.ro" site_id="Duck TV" xmltv_id="Duck TV">Duck TV</channel>
+<channel update="i" site="orange.ro" site_id="MiniMax" xmltv_id="MiniMax">MiniMax</channel>
+<channel update="i" site="orange.ro" site_id="Jimjam" xmltv_id="Jimjam">Jimjam</channel>
+<channel update="i" site="orange.ro" site_id="Nick JR" xmltv_id="Nick JR">Nick JR</channel>
+<channel update="i" site="orange.ro" site_id="Nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+<channel update="i" site="orange.ro" site_id="Cartoon Network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="orange.ro" site_id="Boomerang" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="orange.ro" site_id="CNN" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="orange.ro" site_id="CGTN" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="orange.ro" site_id="Animal Planet HD" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+<channel update="i" site="orange.ro" site_id="BBC Earth" xmltv_id="BBC Earth">BBC Earth</channel>
+<channel update="i" site="orange.ro" site_id="Discovery Channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="orange.ro" site_id="BBC World News HD" xmltv_id="BBC World News HD">BBC World News HD</channel>
+<channel update="i" site="orange.ro" site_id="Investigation Discovery" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+<channel update="i" site="orange.ro" site_id="Viasat History" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="orange.ro" site_id="Viasat Nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="orange.ro" site_id="Viasat Explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+<channel update="i" site="orange.ro" site_id="Travel Mix" xmltv_id="Travel Mix">Travel Mix</channel>
+<channel update="i" site="orange.ro" site_id="DocuBox HD" xmltv_id="DocuBox HD">DocuBox HD</channel>
+<channel update="i" site="orange.ro" site_id="Crime and Investigation" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+<channel update="i" site="orange.ro" site_id="History Channel HD" xmltv_id="History Channel HD">History Channel HD</channel>
+<channel update="i" site="orange.ro" site_id="Cinethronix" xmltv_id="Cinethronix">Cinethronix</channel>
+<channel update="i" site="orange.ro" site_id="CBS Reality" xmltv_id="CBS Reality">CBS Reality</channel>
+<channel update="i" site="orange.ro" site_id="Museum HD" xmltv_id="Museum HD">Museum HD</channel>
+<channel update="i" site="orange.ro" site_id="Love Nature" xmltv_id="Love Nature">Love Nature</channel>
+<channel update="i" site="orange.ro" site_id="History Channel" xmltv_id="History Channel">History Channel</channel>
+<channel update="i" site="orange.ro" site_id="AXN HD" xmltv_id="AXN HD">AXN HD</channel>
+<channel update="i" site="orange.ro" site_id="AXN" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="orange.ro" site_id="AXN SPIN" xmltv_id="AXN SPIN">AXN SPIN</channel>
+<channel update="i" site="orange.ro" site_id="AXN BLACK" xmltv_id="AXN BLACK">AXN BLACK</channel>
+<channel update="i" site="orange.ro" site_id="AXN WHITE" xmltv_id="AXN WHITE">AXN WHITE</channel>
+<channel update="i" site="orange.ro" site_id="Epic Drama" xmltv_id="Epic Drama">Epic Drama</channel>
+<channel update="i" site="orange.ro" site_id="FilmBox Extra HD" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+<channel update="i" site="orange.ro" site_id="Filmbox" xmltv_id="Filmbox">Filmbox</channel>
+<channel update="i" site="orange.ro" site_id="HBO HD" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="orange.ro" site_id="HBO 2 HD" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+<channel update="i" site="orange.ro" site_id="HBO 3 HD" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+<channel update="i" site="orange.ro" site_id="Cinemax HD" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="orange.ro" site_id="Cinemax 2 HD" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="orange.ro" site_id="TV1000" xmltv_id="TV1000">TV1000</channel>
+<channel update="i" site="orange.ro" site_id="AMC HD" xmltv_id="AMC HD">AMC HD</channel>
+<channel update="i" site="orange.ro" site_id="Comedy Central" xmltv_id="Comedy Central">Comedy Central</channel>
+<channel update="i" site="orange.ro" site_id="Bollywood HD" xmltv_id="Bollywood HD">Bollywood HD</channel>
+<channel update="i" site="orange.ro" site_id="Film Cafe" xmltv_id="Film Cafe">Film Cafe</channel>
+<channel update="i" site="orange.ro" site_id="Bollywood TV" xmltv_id="Bollywood TV">Bollywood TV</channel>
+<channel update="i" site="orange.ro" site_id="Bollywood Classic" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+<channel update="i" site="orange.ro" site_id="TCM TNT" xmltv_id="TCM TNT">TCM TNT</channel>
+<channel update="i" site="orange.ro" site_id="E! Entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+<channel update="i" site="orange.ro" site_id="TV Paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="orange.ro" site_id="Travel Channel" xmltv_id="Travel Channel">Travel Channel</channel>
+<channel update="i" site="orange.ro" site_id="City TV HD" xmltv_id="City TV HD">City TV HD</channel>
+<channel update="i" site="orange.ro" site_id="MyZen HD" xmltv_id="MyZen HD">MyZen HD</channel>
+<channel update="i" site="orange.ro" site_id="Fashionbox HD" xmltv_id="Fashionbox HD">Fashionbox HD</channel>
+<channel update="i" site="orange.ro" site_id="Fashion TV" xmltv_id="Fashion TV">Fashion TV</channel>
+<channel update="i" site="orange.ro" site_id="Fashion TV HD" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+<channel update="i" site="orange.ro" site_id="The Fishing and Hunting Channel" xmltv_id="The Fishing and Hunting Channel">The Fishing and Hunting Channel</channel>
+<channel update="i" site="orange.ro" site_id="TLC" xmltv_id="TLC">TLC</channel>
+<channel update="i" site="orange.ro" site_id="Outdoor HD" xmltv_id="Outdoor HD">Outdoor HD</channel>
+<channel update="i" site="orange.ro" site_id="Trinitas TV" xmltv_id="Trinitas TV">Trinitas TV</channel>
+<channel update="i" site="orange.ro" site_id="Speranta TV" xmltv_id="Speranta TV">Speranta TV</channel>
+<channel update="i" site="orange.ro" site_id="Alfa Omega TV" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+<channel update="i" site="orange.ro" site_id="Credo TV" xmltv_id="Credo TV">Credo TV</channel>
+<channel update="i" site="orange.ro" site_id="Orizont TV" xmltv_id="Orizont TV">Orizont TV</channel>
+<channel update="i" site="orange.ro" site_id="Telestar" xmltv_id="Telestar">Telestar</channel>
+<channel update="i" site="orange.ro" site_id="Extreme Sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
+<channel update="i" site="orange.ro" site_id="FightBox HD" xmltv_id="FightBox HD">FightBox HD</channel>
+<channel update="i" site="orange.ro" site_id="Motorvision HD" xmltv_id="Motorvision HD">Motorvision HD</channel>
+<channel update="i" site="orange.ro" site_id="Trace Sport Stars HD" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+<channel update="i" site="orange.ro" site_id="Mezzo Live HD" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+<channel update="i" site="orange.ro" site_id="Mezzo" xmltv_id="Mezzo">Mezzo</channel>
+<channel update="i" site="orange.ro" site_id="Trace Caribbean HD" xmltv_id="Trace Caribbean HD">Trace Caribbean HD</channel>
+<channel update="i" site="orange.ro" site_id="Trace Urban HD" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+<channel update="i" site="orange.ro" site_id="Kiss TV" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="orange.ro" site_id="Etno TV" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="orange.ro" site_id="Taraf TV" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="orange.ro" site_id="Balkanika" xmltv_id="Balkanika">Balkanika</channel>
+<channel update="i" site="orange.ro" site_id="MTV Europe" xmltv_id="MTV Europe">MTV Europe</channel>
+<channel update="i" site="orange.ro" site_id="MTV Live HD" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="orange.ro" site_id="Magic TV" xmltv_id="Magic TV">Magic TV</channel>
+<channel update="i" site="orange.ro" site_id="Rock TV" xmltv_id="Rock TV">Rock TV</channel>
+<channel update="i" site="orange.ro" site_id="MTV 90¿s" xmltv_id="MTV 90¿s">MTV 90¿s</channel>
+<channel update="i" site="orange.ro" site_id="VH1" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="orange.ro" site_id="MTV 80's" xmltv_id="MTV 80's">MTV 80's</channel>
+<channel update="i" site="orange.ro" site_id="Hit Music Channel" xmltv_id="Hit Music Channel">Hit Music Channel</channel>
+<channel update="i" site="orange.ro" site_id="Mooz Dance HD" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+<channel update="i" site="orange.ro" site_id="Mooz HD" xmltv_id="Mooz HD">Mooz HD</channel>
+<channel update="i" site="orange.ro" site_id="Mooz Hits" xmltv_id="Mooz Hits">Mooz Hits</channel>
+<channel update="i" site="orange.ro" site_id="Mooz Ro" xmltv_id="Mooz Ro">Mooz Ro</channel>
+<channel update="i" site="orange.ro" site_id="iConcerts HD" xmltv_id="iConcerts HD">iConcerts HD</channel>
+<channel update="i" site="orange.ro" site_id="Inedit TV" xmltv_id="Inedit TV">Inedit TV</channel>
+<channel update="i" site="orange.ro" site_id="Agro TV" xmltv_id="Agro TV">Agro TV</channel>
+<channel update="i" site="orange.ro" site_id="Antena Stars" xmltv_id="Antena Stars">Antena Stars</channel>
+<channel update="i" site="orange.ro" site_id="Happy Channel" xmltv_id="Happy Channel">Happy Channel</channel>
+<channel update="i" site="orange.ro" site_id="ZU TV" xmltv_id="ZU TV">ZU TV</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V1.56.27 -- Jan van Straaten" site="port.ro">
+<channels>
+<channel update="i" site="port.ro" site_id="10001" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="port.ro" site_id="10007" xmltv_id="PRO TV">PRO TV</channel>
+<channel update="i" site="port.ro" site_id="10121" xmltv_id="HBO 3">HBO 3</channel>
+<channel update="i" site="port.ro" site_id="10017" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="port.ro" site_id="10002" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="port.ro" site_id="10005" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="port.ro" site_id="10097" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="port.ro" site_id="10004" xmltv_id="Acas? TV">Acas? TV</channel>
+<channel update="i" site="port.ro" site_id="10031" xmltv_id="Na?ional TV">Na?ional TV</channel>
+<channel update="i" site="port.ro" site_id="10167" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="port.ro" site_id="10047" xmltv_id="PRO TV Interna?ional">PRO TV Interna?ional</channel>
+<channel update="i" site="port.ro" site_id="10015" xmltv_id="TVR Interna?ional">TVR Interna?ional</channel>
+<channel update="i" site="port.ro" site_id="10119" xmltv_id="Antena Stars">Antena Stars</channel>
+<channel update="i" site="port.ro" site_id="10134" xmltv_id="Speran?a TV">Speran?a TV</channel>
+<channel update="i" site="port.ro" site_id="10137" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+<channel update="i" site="port.ro" site_id="10145" xmltv_id="Trinitas TV">Trinitas TV</channel>
+<channel update="i" site="port.ro" site_id="10048" xmltv_id="Na?ional 24 Plus">Na?ional 24 Plus</channel>
+<channel update="i" site="port.ro" site_id="10223" xmltv_id="Credo TV">Credo TV</channel>
+<channel update="i" site="port.ro" site_id="10151" xmltv_id="Neptun TV">Neptun TV</channel>
+<channel update="i" site="port.ro" site_id="10252" xmltv_id="LOOK TV">LOOK TV</channel>
+<channel update="i" site="port.ro" site_id="10253" xmltv_id="Acas? GOLD">Acas? GOLD</channel>
+<channel update="i" site="port.ro" site_id="10256" xmltv_id="Na?ul TV">Na?ul TV</channel>
+<channel update="i" site="port.ro" site_id="10304" xmltv_id="Agro TV">Agro TV</channel>
+<channel update="i" site="port.ro" site_id="10217" xmltv_id="LOOK PLUS">LOOK PLUS</channel>
+<channel update="i" site="port.ro" site_id="10029" xmltv_id="TVH">TVH</channel>
+<channel update="i" site="port.ro" site_id="10386" xmltv_id="Orange Info">Orange Info</channel>
+<channel update="i" site="port.ro" site_id="10019" xmltv_id="Realitatea TV">Realitatea TV</channel>
+<channel update="i" site="port.ro" site_id="10055" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="port.ro" site_id="10022" xmltv_id="B1">B1</channel>
+<channel update="i" site="port.ro" site_id="10100" xmltv_id="BBC World News">BBC World News</channel>
+<channel update="i" site="port.ro" site_id="10115" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="port.ro" site_id="10113" xmltv_id="EuroNews">EuroNews</channel>
+<channel update="i" site="port.ro" site_id="10282" xmltv_id="Digi 24">Digi 24</channel>
+<channel update="i" site="port.ro" site_id="10195" xmltv_id="Bloomberg TV">Bloomberg TV</channel>
+<channel update="i" site="port.ro" site_id="10205" xmltv_id="Russia Today">Russia Today</channel>
+<channel update="i" site="port.ro" site_id="10138" xmltv_id="CCTV News">CCTV News</channel>
+<channel update="i" site="port.ro" site_id="10245" xmltv_id="România TV">România TV</channel>
+<channel update="i" site="port.ro" site_id="10078" xmltv_id="Fashion TV">Fashion TV</channel>
+<channel update="i" site="port.ro" site_id="10063" xmltv_id="Happy Channel">Happy Channel</channel>
+<channel update="i" site="port.ro" site_id="10086" xmltv_id="Travel Channel">Travel Channel</channel>
+<channel update="i" site="port.ro" site_id="10099" xmltv_id="Fine Living">Fine Living</channel>
+<channel update="i" site="port.ro" site_id="10156" xmltv_id="GINX eSports TV">GINX eSports TV</channel>
+<channel update="i" site="port.ro" site_id="10175" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="port.ro" site_id="10177" xmltv_id="E!Entertainment">E!Entertainment</channel>
+<channel update="i" site="port.ro" site_id="10202" xmltv_id="Top Shop TV">Top Shop TV</channel>
+<channel update="i" site="port.ro" site_id="10222" xmltv_id="DoQ România">DoQ România</channel>
+<channel update="i" site="port.ro" site_id="10224" xmltv_id="TLC">TLC</channel>
+<channel update="i" site="port.ro" site_id="10231" xmltv_id="Travel Mix">Travel Mix</channel>
+<channel update="i" site="port.ro" site_id="10262" xmltv_id="Digi Life">Digi Life</channel>
+<channel update="i" site="port.ro" site_id="10234" xmltv_id="High TV 3D">High TV 3D</channel>
+<channel update="i" site="port.ro" site_id="10351" xmltv_id="Fashion ONE">Fashion ONE</channel>
+<channel update="i" site="port.ro" site_id="10372" xmltv_id="IDA TV">IDA TV</channel>
+<channel update="i" site="port.ro" site_id="10027" xmltv_id="DIVA">DIVA</channel>
+<channel update="i" site="port.ro" site_id="10003" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="port.ro" site_id="10387" xmltv_id="HBO 2">HBO 2</channel>
+<channel update="i" site="port.ro" site_id="10033" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="port.ro" site_id="10072" xmltv_id="AXN Black">AXN Black</channel>
+<channel update="i" site="port.ro" site_id="10073" xmltv_id="AXN White">AXN White</channel>
+<channel update="i" site="port.ro" site_id="10298" xmltv_id="AXN Spin">AXN Spin</channel>
+<channel update="i" site="port.ro" site_id="10036" xmltv_id="Pro Cinema">Pro Cinema</channel>
+<channel update="i" site="port.ro" site_id="10042" xmltv_id="Cinemax">Cinemax</channel>
+<channel update="i" site="port.ro" site_id="10083" xmltv_id="Cinemax 2">Cinemax 2</channel>
+<channel update="i" site="port.ro" site_id="10054" xmltv_id="TNT">TNT</channel>
+<channel update="i" site="port.ro" site_id="10060" xmltv_id="TV 1000">TV 1000</channel>
+<channel update="i" site="port.ro" site_id="10092" xmltv_id="AMC">AMC</channel>
+<channel update="i" site="port.ro" site_id="10227" xmltv_id="Digi Film">Digi Film</channel>
+<channel update="i" site="port.ro" site_id="10236" xmltv_id="FilmBox">FilmBox</channel>
+<channel update="i" site="port.ro" site_id="10237" xmltv_id="FilmBox Plus">FilmBox Plus</channel>
+<channel update="i" site="port.ro" site_id="10238" xmltv_id="FilmBox Family">FilmBox Family</channel>
+<channel update="i" site="port.ro" site_id="10246" xmltv_id="Bollywood Film">Bollywood Film</channel>
+<channel update="i" site="port.ro" site_id="10248" xmltv_id="Bollywood Clasic">Bollywood Clasic</channel>
+<channel update="i" site="port.ro" site_id="10247" xmltv_id="Bollywood TV">Bollywood TV</channel>
+<channel update="i" site="port.ro" site_id="10051" xmltv_id="Filmcafe">Filmcafe</channel>
+<channel update="i" site="port.ro" site_id="10270" xmltv_id="Comedy Central Extra">Comedy Central Extra</channel>
+<channel update="i" site="port.ro" site_id="10271" xmltv_id="ShortsTV">ShortsTV</channel>
+<channel update="i" site="port.ro" site_id="10264" xmltv_id="Sundance">Sundance</channel>
+<channel update="i" site="port.ro" site_id="10349" xmltv_id="Paramount Channel">Paramount Channel</channel>
+<channel update="i" site="port.ro" site_id="10353" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+<channel update="i" site="port.ro" site_id="10018" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="port.ro" site_id="10023" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="port.ro" site_id="10053" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="port.ro" site_id="10081" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="port.ro" site_id="10110" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="port.ro" site_id="10354" xmltv_id="Nick Jr.">Nick Jr.</channel>
+<channel update="i" site="port.ro" site_id="10123" xmltv_id="Baby TV">Baby TV</channel>
+<channel update="i" site="port.ro" site_id="10130" xmltv_id="Duck TV">Duck TV</channel>
+<channel update="i" site="port.ro" site_id="10142" xmltv_id="JimJam">JimJam</channel>
+<channel update="i" site="port.ro" site_id="10263" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="port.ro" site_id="10268" xmltv_id="Megamax">Megamax</channel>
+<channel update="i" site="port.ro" site_id="10095" xmltv_id="Digi 24 Timi?oara">Digi 24 Timi?oara</channel>
+<channel update="i" site="port.ro" site_id="10214" xmltv_id="Valea Prahovei TV">Valea Prahovei TV</channel>
+<channel update="i" site="port.ro" site_id="10215" xmltv_id="Erdély TV">Erdély TV</channel>
+<channel update="i" site="port.ro" site_id="10153" xmltv_id="TVR Cluj">TVR Cluj</channel>
+<channel update="i" site="port.ro" site_id="10154" xmltv_id="TVR Ia?i">TVR Ia?i</channel>
+<channel update="i" site="port.ro" site_id="10219" xmltv_id="TVR Craiova">TVR Craiova</channel>
+<channel update="i" site="port.ro" site_id="10220" xmltv_id="TVR Timi?oara">TVR Timi?oara</channel>
+<channel update="i" site="port.ro" site_id="10221" xmltv_id="TVR Târgu-Mure?">TVR Târgu-Mure?</channel>
+<channel update="i" site="port.ro" site_id="10228" xmltv_id="Antena 1 Ploie?ti">Antena 1 Ploie?ti</channel>
+<channel update="i" site="port.ro" site_id="10229" xmltv_id="WYL TV">WYL TV</channel>
+<channel update="i" site="port.ro" site_id="10232" xmltv_id="Kapital TV">Kapital TV</channel>
+<channel update="i" site="port.ro" site_id="10241" xmltv_id="Prahova TV">Prahova TV</channel>
+<channel update="i" site="port.ro" site_id="10243" xmltv_id="Columna TV">Columna TV</channel>
+<channel update="i" site="port.ro" site_id="10250" xmltv_id="TV Sud Est">TV Sud Est</channel>
+<channel update="i" site="port.ro" site_id="10258" xmltv_id="TV City">TV City</channel>
+<channel update="i" site="port.ro" site_id="10305" xmltv_id="Digi 24 Oradea">Digi 24 Oradea</channel>
+<channel update="i" site="port.ro" site_id="10308" xmltv_id="Digi 24 Craiova">Digi 24 Craiova</channel>
+<channel update="i" site="port.ro" site_id="10309" xmltv_id="Digi 24 Constan?a">Digi 24 Constan?a</channel>
+<channel update="i" site="port.ro" site_id="10310" xmltv_id="Digi 24 Ia?i">Digi 24 Ia?i</channel>
+<channel update="i" site="port.ro" site_id="10329" xmltv_id="MDI TV">MDI TV</channel>
+<channel update="i" site="port.ro" site_id="10341" xmltv_id="PLOIE?TI TV">PLOIE?TI TV</channel>
+<channel update="i" site="port.ro" site_id="10352" xmltv_id="Top All TV">Top All TV</channel>
+<channel update="i" site="port.ro" site_id="10380" xmltv_id="RTV Gala?i">RTV Gala?i</channel>
+<channel update="i" site="port.ro" site_id="10385" xmltv_id="Media TV">Media TV</channel>
+<channel update="i" site="port.ro" site_id="10026" xmltv_id="MTV România">MTV România</channel>
+<channel update="i" site="port.ro" site_id="10070" xmltv_id="MTV Dance">MTV Dance</channel>
+<channel update="i" site="port.ro" site_id="10057" xmltv_id="MTV Hits">MTV Hits</channel>
+<channel update="i" site="port.ro" site_id="10056" xmltv_id="MTV Rocks">MTV Rocks</channel>
+<channel update="i" site="port.ro" site_id="10008" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="port.ro" site_id="10030" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="port.ro" site_id="10058" xmltv_id="VH1 Classic">VH1 Classic</channel>
+<channel update="i" site="port.ro" site_id="10038" xmltv_id="Mezzo TV">Mezzo TV</channel>
+<channel update="i" site="port.ro" site_id="10139" xmltv_id="Classical Music">Classical Music</channel>
+<channel update="i" site="port.ro" site_id="10071" xmltv_id="Favorit TV">Favorit TV</channel>
+<channel update="i" site="port.ro" site_id="10074" xmltv_id="TRACE Urban">TRACE Urban</channel>
+<channel update="i" site="port.ro" site_id="10096" xmltv_id="U TV">U TV</channel>
+<channel update="i" site="port.ro" site_id="10037" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="port.ro" site_id="10158" xmltv_id="Music Channel">Music Channel</channel>
+<channel update="i" site="port.ro" site_id="10187" xmltv_id="Balkanika Music Television">Balkanika Music Television</channel>
+<channel update="i" site="port.ro" site_id="10274" xmltv_id="Mooz Ro">Mooz Ro</channel>
+<channel update="i" site="port.ro" site_id="10273" xmltv_id="Mooz Hits">Mooz Hits</channel>
+<channel update="i" site="port.ro" site_id="10275" xmltv_id="Mooz Dance">Mooz Dance</channel>
+<channel update="i" site="port.ro" site_id="10299" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
+<channel update="i" site="port.ro" site_id="10300" xmltv_id="Inedit TV">Inedit TV</channel>
+<channel update="i" site="port.ro" site_id="10307" xmltv_id="Hora TV">Hora TV</channel>
+<channel update="i" site="port.ro" site_id="10331" xmltv_id="iConcerts">iConcerts</channel>
+<channel update="i" site="port.ro" site_id="10337" xmltv_id="ZU TV">ZU TV</channel>
+<channel update="i" site="port.ro" site_id="10369" xmltv_id="DJAZZ TV">DJAZZ TV</channel>
+<channel update="i" site="port.ro" site_id="10028" xmltv_id="Eurosport 1">Eurosport 1</channel>
+<channel update="i" site="port.ro" site_id="10065" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="port.ro" site_id="10032" xmltv_id="Sport.ro">Sport.ro</channel>
+<channel update="i" site="port.ro" site_id="10212" xmltv_id="Dolce Sport 1">Dolce Sport 1</channel>
+<channel update="i" site="port.ro" site_id="10225" xmltv_id="Dolce Sport 2">Dolce Sport 2</channel>
+<channel update="i" site="port.ro" site_id="10082" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+<channel update="i" site="port.ro" site_id="10102" xmltv_id="Nautical Channel">Nautical Channel</channel>
+<channel update="i" site="port.ro" site_id="10111" xmltv_id="Motors TV">Motors TV</channel>
+<channel update="i" site="port.ro" site_id="10198" xmltv_id="Digi Sport 1">Digi Sport 1</channel>
+<channel update="i" site="port.ro" site_id="10199" xmltv_id="Digi Sport 2">Digi Sport 2</channel>
+<channel update="i" site="port.ro" site_id="10240" xmltv_id="Digi Sport 3">Digi Sport 3</channel>
+<channel update="i" site="port.ro" site_id="10204" xmltv_id="Fishing & Hunting Channel">Fishing & Hunting Channel</channel>
+<channel update="i" site="port.ro" site_id="10327" xmltv_id="Dolce Sport 3">Dolce Sport 3</channel>
+<channel update="i" site="port.ro" site_id="10328" xmltv_id="Dolce Sport 4">Dolce Sport 4</channel>
+<channel update="i" site="port.ro" site_id="10392" xmltv_id="Dolce Sport 5">Dolce Sport 5</channel>
+<channel update="i" site="port.ro" site_id="10393" xmltv_id="Dolce Sport 6">Dolce Sport 6</channel>
+<channel update="i" site="port.ro" site_id="10347" xmltv_id="AMS">AMS</channel>
+<channel update="i" site="port.ro" site_id="10381" xmltv_id="Trace Sport Stars">Trace Sport Stars</channel>
+<channel update="i" site="port.ro" site_id="10251" xmltv_id="Digi 24 HD">Digi 24 HD</channel>
+<channel update="i" site="port.ro" site_id="10190" xmltv_id="TVR HD">TVR HD</channel>
+<channel update="i" site="port.ro" site_id="10183" xmltv_id="Discovery HD Showcase">Discovery HD Showcase</channel>
+<channel update="i" site="port.ro" site_id="10197" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+<channel update="i" site="port.ro" site_id="10182" xmltv_id="History HD">History HD</channel>
+<channel update="i" site="port.ro" site_id="10210" xmltv_id="U TV HD">U TV HD</channel>
+<channel update="i" site="port.ro" site_id="10196" xmltv_id="National Geographic HD">National Geographic HD</channel>
+<channel update="i" site="port.ro" site_id="10209" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+<channel update="i" site="port.ro" site_id="10332" xmltv_id="AXN HD">AXN HD</channel>
+<channel update="i" site="port.ro" site_id="10239" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+<channel update="i" site="port.ro" site_id="10266" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+<channel update="i" site="port.ro" site_id="10272" xmltv_id="Mooz HD">Mooz HD</channel>
+<channel update="i" site="port.ro" site_id="10276" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+<channel update="i" site="port.ro" site_id="10277" xmltv_id="Digi Sport 1 HD">Digi Sport 1 HD</channel>
+<channel update="i" site="port.ro" site_id="10279" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="port.ro" site_id="10388" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+<channel update="i" site="port.ro" site_id="10357" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+<channel update="i" site="port.ro" site_id="10278" xmltv_id="Acas? TV HD">Acas? TV HD</channel>
+<channel update="i" site="port.ro" site_id="10280" xmltv_id="PRO TV HD">PRO TV HD</channel>
+<channel update="i" site="port.ro" site_id="10281" xmltv_id="Dolce Sport HD">Dolce Sport HD</channel>
+<channel update="i" site="port.ro" site_id="10283" xmltv_id="Digi World HD">Digi World HD</channel>
+<channel update="i" site="port.ro" site_id="10285" xmltv_id="Sport.ro HD">Sport.ro HD</channel>
+<channel update="i" site="port.ro" site_id="10286" xmltv_id="Digi Film HD">Digi Film HD</channel>
+<channel update="i" site="port.ro" site_id="10287" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+<channel update="i" site="port.ro" site_id="10288" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+<channel update="i" site="port.ro" site_id="10289" xmltv_id="Digi Sport 2 HD">Digi Sport 2 HD</channel>
+<channel update="i" site="port.ro" site_id="10290" xmltv_id="Digi Life HD">Digi Life HD</channel>
+<channel update="i" site="port.ro" site_id="10291" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="port.ro" site_id="10292" xmltv_id="Fishing & Hunting Channel HD">Fishing & Hunting Channel HD</channel>
+<channel update="i" site="port.ro" site_id="10293" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+<channel update="i" site="port.ro" site_id="10295" xmltv_id="E!Entertainment HD">E!Entertainment HD</channel>
+<channel update="i" site="port.ro" site_id="10296" xmltv_id="Sundance HD">Sundance HD</channel>
+<channel update="i" site="port.ro" site_id="10302" xmltv_id="Digi Animal World HD">Digi Animal World HD</channel>
+<channel update="i" site="port.ro" site_id="10303" xmltv_id="Viasat History HD">Viasat History HD</channel>
+<channel update="i" site="port.ro" site_id="10311" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+<channel update="i" site="port.ro" site_id="10324" xmltv_id="Bollywood HD">Bollywood HD</channel>
+<channel update="i" site="port.ro" site_id="10333" xmltv_id="ShortsTV HD">ShortsTV HD</channel>
+<channel update="i" site="port.ro" site_id="10336" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+<channel update="i" site="port.ro" site_id="10101" xmltv_id="Taraf TV HD">Taraf TV HD</channel>
+<channel update="i" site="port.ro" site_id="10043" xmltv_id="Etno TV HD">Etno TV HD</channel>
+<channel update="i" site="port.ro" site_id="10342" xmltv_id="LOOK TV HD">LOOK TV HD</channel>
+<channel update="i" site="port.ro" site_id="10343" xmltv_id="LOOK PLUS HD">LOOK PLUS HD</channel>
+<channel update="i" site="port.ro" site_id="10344" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+<channel update="i" site="port.ro" site_id="10345" xmltv_id="ID Xtra HD">ID Xtra HD</channel>
+<channel update="i" site="port.ro" site_id="10350" xmltv_id="Food Network HD">Food Network HD</channel>
+<channel update="i" site="port.ro" site_id="10356" xmltv_id="Kanal D HD">Kanal D HD</channel>
+<channel update="i" site="port.ro" site_id="10358" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="port.ro" site_id="10359" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="port.ro" site_id="10361" xmltv_id="Dolce Sport 2 HD">Dolce Sport 2 HD</channel>
+<channel update="i" site="port.ro" site_id="10370" xmltv_id="Brava HD">Brava HD</channel>
+<channel update="i" site="port.ro" site_id="10371" xmltv_id="myZen TV HD">myZen TV HD</channel>
+<channel update="i" site="port.ro" site_id="10374" xmltv_id="National Geographic People HD">National Geographic People HD</channel>
+<channel update="i" site="port.ro" site_id="10379" xmltv_id="TRACE Urban HD">TRACE Urban HD</channel>
+<channel update="i" site="port.ro" site_id="10382" xmltv_id="Trace Sport Stars HD">Trace Sport Stars HD</channel>
+<channel update="i" site="port.ro" site_id="10039" xmltv_id="Viasat Explore">Viasat Explore</channel>
+<channel update="i" site="port.ro" site_id="10040" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="port.ro" site_id="10020" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="port.ro" site_id="10021" xmltv_id="Animal Planet">Animal Planet</channel>
+<channel update="i" site="port.ro" site_id="10024" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="port.ro" site_id="10044" xmltv_id="Discovery Science">Discovery Science</channel>
+<channel update="i" site="port.ro" site_id="10050" xmltv_id="CBS Reality">CBS Reality</channel>
+<channel update="i" site="port.ro" site_id="10136" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+<channel update="i" site="port.ro" site_id="10147" xmltv_id="Discovery World">Discovery World</channel>
+<channel update="i" site="port.ro" site_id="10168" xmltv_id="History">History</channel>
+<channel update="i" site="port.ro" site_id="10176" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
+<channel update="i" site="port.ro" site_id="10189" xmltv_id="Investigation Discovery">Investigation Discovery</channel>
+<channel update="i" site="port.ro" site_id="10207" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="port.ro" site_id="10261" xmltv_id="Digi World">Digi World</channel>
+<channel update="i" site="port.ro" site_id="10269" xmltv_id="BBC Earth">BBC Earth</channel>
+<channel update="i" site="port.ro" site_id="10301" xmltv_id="Digi Animal World">Digi Animal World</channel>
+<channel update="i" site="port.ro" site_id="10340" xmltv_id="ID Xtra">ID Xtra</channel>
+<channel update="i" site="port.ro" site_id="10321" xmltv_id="Crime & Investigation">Crime & Investigation</channel>
+<channel update="i" site="port.ro" site_id="10346" xmltv_id="Discovery Turbo Xtra">Discovery Turbo Xtra</channel>
+<channel update="i" site="port.ro" site_id="10373" xmltv_id="National Geographic People">National Geographic People</channel>
+<channel update="i" site="port.ro" site_id="10041" xmltv_id="TV5MONDE">TV5MONDE</channel>
+<channel update="i" site="port.ro" site_id="10064" xmltv_id="Rai 1">Rai 1</channel>
+<channel update="i" site="port.ro" site_id="10107" xmltv_id="TVE">TVE</channel>
+<channel update="i" site="port.ro" site_id="10108" xmltv_id="RTL">RTL</channel>
+<channel update="i" site="port.ro" site_id="10109" xmltv_id="PRO 7">PRO 7</channel>
+<channel update="i" site="port.ro" site_id="10127" xmltv_id="CNBC">CNBC</channel>
+<channel update="i" site="port.ro" site_id="10131" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+<channel update="i" site="port.ro" site_id="10132" xmltv_id="Sat 1">Sat 1</channel>
+<channel update="i" site="port.ro" site_id="10128" xmltv_id="France 24">France 24</channel>
+<channel update="i" site="port.ro" site_id="10129" xmltv_id="France 24_EN">France 24_EN</channel>
+<channel update="i" site="port.ro" site_id="10135" xmltv_id="KBS World">KBS World</channel>
+<channel update="i" site="port.ro" site_id="10184" xmltv_id="France 5">France 5</channel>
+<channel update="i" site="port.ro" site_id="10178" xmltv_id="DoQ HU">DoQ HU</channel>
+<channel update="i" site="port.ro" site_id="10257" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+<channel update="i" site="port.ro" site_id="10297" xmltv_id="RTL II">RTL II</channel>
+<channel update="i" site="port.ro" site_id="10306" xmltv_id="Rai 3">Rai 3</channel>
+<channel update="i" site="port.ro" site_id="10315" xmltv_id="France 2">France 2</channel>
+<channel update="i" site="port.ro" site_id="10316" xmltv_id="Super RTL">Super RTL</channel>
+<channel update="i" site="port.ro" site_id="10319" xmltv_id="France 3">France 3</channel>
+<channel update="i" site="port.ro" site_id="10079" xmltv_id="Brazzers TV">Brazzers TV</channel>
+<channel update="i" site="port.ro" site_id="10087" xmltv_id="Private TV">Private TV</channel>
+<channel update="i" site="port.ro" site_id="10088" xmltv_id="X-Dream TV">X-Dream TV</channel>
+<channel update="i" site="port.ro" site_id="10105" xmltv_id="Hustler TV">Hustler TV</channel>
+<channel update="i" site="port.ro" site_id="10098" xmltv_id="Blue HUSTLER">Blue HUSTLER</channel>
+<channel update="i" site="port.ro" site_id="10114" xmltv_id="Playboy TV">Playboy TV</channel>
+<channel update="i" site="port.ro" site_id="10118" xmltv_id="XXL">XXL</channel>
+<channel update="i" site="port.ro" site_id="10267" xmltv_id="SuperOne">SuperOne</channel>
+<channel update="i" site="port.ro" site_id="10325" xmltv_id="Penthouse HD">Penthouse HD</channel>
+<channel update="i" site="port.ro" site_id="10260" xmltv_id="Penthouse 3D">Penthouse 3D</channel>
+<channel update="i" site="port.ro" site_id="10322" xmltv_id="Dorcel TV">Dorcel TV</channel>
+<channel update="i" site="port.ro" site_id="10335" xmltv_id="Hustler TV HD">Hustler TV HD</channel>
+<channel update="i" site="port.ro" site_id="10355" xmltv_id="Pinko TV">Pinko TV</channel>
+<channel update="i" site="port.ro" site_id="10360" xmltv_id="Redlight HD">Redlight HD</channel>
+<channel update="i" site="port.ro" site_id="10284" xmltv_id="SuperOne HD">SuperOne HD</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus version 1.0.7 Beta -- Jan van Straaten" site="program24.ro">
+<channels>
+<channel update="i" site="program24.ro" site_id="16" xmltv_id="Acasa">Acasa</channel>
+<channel update="i" site="program24.ro" site_id="96" xmltv_id="ActionStar">ActionStar</channel>
+<channel update="i" site="program24.ro" site_id="31" xmltv_id="Animal Planet">Animal Planet</channel>
+<channel update="i" site="program24.ro" site_id="12" xmltv_id="Animax">Animax</channel>
+<channel update="i" site="program24.ro" site_id="2" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="program24.ro" site_id="83" xmltv_id="Antena 2">Antena 2</channel>
+<channel update="i" site="program24.ro" site_id="46" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="program24.ro" site_id="58" xmltv_id="Antena International">Antena International</channel>
+<channel update="i" site="program24.ro" site_id="13" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="program24.ro" site_id="60" xmltv_id="AXN Crime">AXN Crime</channel>
+<channel update="i" site="program24.ro" site_id="59" xmltv_id="AXN SCI-FI">AXN SCI-FI</channel>
+<channel update="i" site="program24.ro" site_id="8" xmltv_id="B1 TV">B1 TV</channel>
+<channel update="i" site="program24.ro" site_id="55" xmltv_id="BBC World">BBC World</channel>
+<channel update="i" site="program24.ro" site_id="106" xmltv_id="Boom Action">Boom Action</channel>
+<channel update="i" site="program24.ro" site_id="107" xmltv_id="Boom Comedy">Boom Comedy</channel>
+<channel update="i" site="program24.ro" site_id="108" xmltv_id="Boom Drama">Boom Drama</channel>
+<channel update="i" site="program24.ro" site_id="111" xmltv_id="Boom Hop!">Boom Hop!</channel>
+<channel update="i" site="program24.ro" site_id="109" xmltv_id="Boom Indian">Boom Indian</channel>
+<channel update="i" site="program24.ro" site_id="110" xmltv_id="Boom Smarty">Boom Smarty</channel>
+<channel update="i" site="program24.ro" site_id="64" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="program24.ro" site_id="63" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="program24.ro" site_id="45" xmltv_id="CineMAX">CineMAX</channel>
+<channel update="i" site="program24.ro" site_id="61" xmltv_id="Cinemax 2">Cinemax 2</channel>
+<channel update="i" site="program24.ro" site_id="98" xmltv_id="CineStar">CineStar</channel>
+<channel update="i" site="program24.ro" site_id="97" xmltv_id="ComedyStar">ComedyStar</channel>
+<channel update="i" site="program24.ro" site_id="116" xmltv_id="Digi Film">Digi Film</channel>
+<channel update="i" site="program24.ro" site_id="125" xmltv_id="Digi Sport">Digi Sport</channel>
+<channel update="i" site="program24.ro" site_id="126" xmltv_id="Digi Sport Plus">Digi Sport Plus</channel>
+<channel update="i" site="program24.ro" site_id="32" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="program24.ro" site_id="104" xmltv_id="Discovery Investigation">Discovery Investigation</channel>
+<channel update="i" site="program24.ro" site_id="38" xmltv_id="Discovery Science">Discovery Science</channel>
+<channel update="i" site="program24.ro" site_id="37" xmltv_id="Discovery Travel and Living">Discovery Travel and Living</channel>
+<channel update="i" site="program24.ro" site_id="89" xmltv_id="Discovery World">Discovery World</channel>
+<channel update="i" site="program24.ro" site_id="17" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="program24.ro" site_id="10" xmltv_id="Diva Universal">Diva Universal</channel>
+<channel update="i" site="program24.ro" site_id="123" xmltv_id="Dolce Sport">Dolce Sport</channel>
+<channel update="i" site="program24.ro" site_id="124" xmltv_id="Dolce Sport 2">Dolce Sport 2</channel>
+<channel update="i" site="program24.ro" site_id="26" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="program24.ro" site_id="53" xmltv_id="Euforia Lifestyle">Euforia Lifestyle</channel>
+<channel update="i" site="program24.ro" site_id="119" xmltv_id="Euronews">Euronews</channel>
+<channel update="i" site="program24.ro" site_id="28" xmltv_id="Eurosport">Eurosport</channel>
+<channel update="i" site="program24.ro" site_id="66" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="program24.ro" site_id="92" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+<channel update="i" site="program24.ro" site_id="69" xmltv_id="Extreme TV">Extreme TV</channel>
+<channel update="i" site="program24.ro" site_id="71" xmltv_id="Fashion TV">Fashion TV</channel>
+<channel update="i" site="program24.ro" site_id="35" xmltv_id="Favorit">Favorit</channel>
+<channel update="i" site="program24.ro" site_id="76" xmltv_id="FLN">FLN</channel>
+<channel update="i" site="program24.ro" site_id="73" xmltv_id="Free-X Tv">Free-X Tv</channel>
+<channel update="i" site="program24.ro" site_id="74" xmltv_id="Free-X Tv2">Free-X Tv2</channel>
+<channel update="i" site="program24.ro" site_id="93" xmltv_id="GSPTv">GSPTv</channel>
+<channel update="i" site="program24.ro" site_id="5" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="program24.ro" site_id="84" xmltv_id="HBO Comedy">HBO Comedy</channel>
+<channel update="i" site="program24.ro" site_id="87" xmltv_id="Jimjam">Jimjam</channel>
+<channel update="i" site="program24.ro" site_id="80" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="program24.ro" site_id="24" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="program24.ro" site_id="27" xmltv_id="Mezzo">Mezzo</channel>
+<channel update="i" site="program24.ro" site_id="85" xmltv_id="MGM">MGM</channel>
+<channel update="i" site="program24.ro" site_id="18" xmltv_id="MiniMax">MiniMax</channel>
+<channel update="i" site="program24.ro" site_id="86" xmltv_id="Movies24">Movies24</channel>
+<channel update="i" site="program24.ro" site_id="39" xmltv_id="MTV 2">MTV 2</channel>
+<channel update="i" site="program24.ro" site_id="41" xmltv_id="MTV Dance">MTV Dance</channel>
+<channel update="i" site="program24.ro" site_id="42" xmltv_id="MTV Hits">MTV Hits</channel>
+<channel update="i" site="program24.ro" site_id="19" xmltv_id="MTV Romania">MTV Romania</channel>
+<channel update="i" site="program24.ro" site_id="94" xmltv_id="Music Channel">Music Channel</channel>
+<channel update="i" site="program24.ro" site_id="20" xmltv_id="N24 Plus">N24 Plus</channel>
+<channel update="i" site="program24.ro" site_id="88" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+<channel update="i" site="program24.ro" site_id="30" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="program24.ro" site_id="11" xmltv_id="National TV">National TV</channel>
+<channel update="i" site="program24.ro" site_id="122" xmltv_id="OTV">OTV</channel>
+<channel update="i" site="program24.ro" site_id="113" xmltv_id="Party TV">Party TV</channel>
+<channel update="i" site="program24.ro" site_id="48" xmltv_id="Playboy TV">Playboy TV</channel>
+<channel update="i" site="program24.ro" site_id="6" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="program24.ro" site_id="49" xmltv_id="Private Spice">Private Spice</channel>
+<channel update="i" site="program24.ro" site_id="15" xmltv_id="PRO Cinema">PRO Cinema</channel>
+<channel update="i" site="program24.ro" site_id="1" xmltv_id="PRO TV">PRO TV</channel>
+<channel update="i" site="program24.ro" site_id="56" xmltv_id="ProTv International">ProTv International</channel>
+<channel update="i" site="program24.ro" site_id="70" xmltv_id="Rai Uno">Rai Uno</channel>
+<channel update="i" site="program24.ro" site_id="21" xmltv_id="Realitatea Tv">Realitatea Tv</channel>
+<channel update="i" site="program24.ro" site_id="62" xmltv_id="Romantica">Romantica</channel>
+<channel update="i" site="program24.ro" site_id="90" xmltv_id="SciFi Channel">SciFi Channel</channel>
+<channel update="i" site="program24.ro" site_id="68" xmltv_id="Sport 1">Sport 1</channel>
+<channel update="i" site="program24.ro" site_id="54" xmltv_id="Sport Klub">Sport Klub</channel>
+<channel update="i" site="program24.ro" site_id="29" xmltv_id="Sport.ro">Sport.ro</channel>
+<channel update="i" site="program24.ro" site_id="114" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="program24.ro" site_id="47" xmltv_id="TCM">TCM</channel>
+<channel update="i" site="program24.ro" site_id="57" xmltv_id="The Money Channel">The Money Channel</channel>
+<channel update="i" site="program24.ro" site_id="115" xmltv_id="TLC">TLC</channel>
+<channel update="i" site="program24.ro" site_id="65" xmltv_id="Trace TV">Trace TV</channel>
+<channel update="i" site="program24.ro" site_id="72" xmltv_id="Travel Channel">Travel Channel</channel>
+<channel update="i" site="program24.ro" site_id="52" xmltv_id="TV 1000">TV 1000</channel>
+<channel update="i" site="program24.ro" site_id="99" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="program24.ro" site_id="23" xmltv_id="TV5 Monde">TV5 Monde</channel>
+<channel update="i" site="program24.ro" site_id="4" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="program24.ro" site_id="7" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="program24.ro" site_id="95" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="program24.ro" site_id="9" xmltv_id="TVR Cultural">TVR Cultural</channel>
+<channel update="i" site="program24.ro" site_id="121" xmltv_id="TVR HD">TVR HD</channel>
+<channel update="i" site="program24.ro" site_id="120" xmltv_id="TVR Info">TVR Info</channel>
+<channel update="i" site="program24.ro" site_id="33" xmltv_id="TVR International">TVR International</channel>
+<channel update="i" site="program24.ro" site_id="34" xmltv_id="TVRM">TVRM</channel>
+<channel update="i" site="program24.ro" site_id="91" xmltv_id="Universal Channel">Universal Channel</channel>
+<channel update="i" site="program24.ro" site_id="117" xmltv_id="UTV">UTV</channel>
+<channel update="i" site="program24.ro" site_id="25" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="program24.ro" site_id="43" xmltv_id="VH1 Classic">VH1 Classic</channel>
+<channel update="i" site="program24.ro" site_id="50" xmltv_id="Viasat Explorer">Viasat Explorer</channel>
+<channel update="i" site="program24.ro" site_id="51" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="program24.ro" site_id="112" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="program24.ro" site_id="75" xmltv_id="X-Dream TV">X-Dream TV</channel>
+<channel update="i" site="program24.ro" site_id="22" xmltv_id="Zone Reality">Zone Reality</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.8.0 -- Jan van Straaten" site="programetv.ro">
+<channels>
+<channel update="i" site="programetv.ro" site_id="24-mix-teleshop" xmltv_id="24 Mix Teleshop">24 Mix Teleshop</channel>
+<channel update="i" site="programetv.ro" site_id="24-mix-teleshop-hd" xmltv_id="24 Mix Teleshop HD">24 Mix Teleshop HD</channel>
+<channel update="i" site="programetv.ro" site_id="3sat" xmltv_id="3sat">3sat</channel>
+<channel update="i" site="programetv.ro" site_id="agro-tv" xmltv_id="Agro TV">Agro TV</channel>
+<channel update="i" site="programetv.ro" site_id="al-jazeera" xmltv_id="Al Jazeera">Al Jazeera</channel>
+<channel update="i" site="programetv.ro" site_id="aleph-news" xmltv_id="Aleph News">Aleph News</channel>
+<channel update="i" site="programetv.ro" site_id="alfa-omega-tv" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+<channel update="i" site="programetv.ro" site_id="amc" xmltv_id="AMC">AMC</channel>
+<channel update="i" site="programetv.ro" site_id="amc-hd" xmltv_id="AMC HD">AMC HD</channel>
+<channel update="i" site="programetv.ro" site_id="animal-planet" xmltv_id="Animal Planet">Animal Planet</channel>
+<channel update="i" site="programetv.ro" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+<channel update="i" site="programetv.ro" site_id="antena-1" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="programetv.ro" site_id="antena-1-hd" xmltv_id="Antena 1 HD">Antena 1 HD</channel>
+<channel update="i" site="programetv.ro" site_id="antena-3" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="programetv.ro" site_id="antena-3-hd" xmltv_id="Antena 3 HD">Antena 3 HD</channel>
+<channel update="i" site="programetv.ro" site_id="antena-international" xmltv_id="Antena International">Antena International</channel>
+<channel update="i" site="programetv.ro" site_id="antena-international-hd" xmltv_id="Antena International HD">Antena International HD</channel>
+<channel update="i" site="programetv.ro" site_id="antena-stars" xmltv_id="Antena Stars">Antena Stars</channel>
+<channel update="i" site="programetv.ro" site_id="antena-stars-hd" xmltv_id="Antena Stars HD">Antena Stars HD</channel>
+<channel update="i" site="programetv.ro" site_id="arcadia-tv" xmltv_id="Arcadia TV">Arcadia TV</channel>
+<channel update="i" site="programetv.ro" site_id="ard" xmltv_id="ARD">ARD</channel>
+<channel update="i" site="programetv.ro" site_id="arte" xmltv_id="arte">arte</channel>
+<channel update="i" site="programetv.ro" site_id="auto-motor-und-sport-channel" xmltv_id="auto motor und sport channel">auto motor und sport channel</channel>
+<channel update="i" site="programetv.ro" site_id="auto-motor-und-sport-channel-hd" xmltv_id="auto motor und sport channel HD">auto motor und sport channel HD</channel>
+<channel update="i" site="programetv.ro" site_id="axn" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="programetv.ro" site_id="axn-black" xmltv_id="AXN Black">AXN Black</channel>
+<channel update="i" site="programetv.ro" site_id="axn-hd" xmltv_id="AXN HD">AXN HD</channel>
+<channel update="i" site="programetv.ro" site_id="axn-spin" xmltv_id="AXN Spin">AXN Spin</channel>
+<channel update="i" site="programetv.ro" site_id="axn-white" xmltv_id="AXN White">AXN White</channel>
+<channel update="i" site="programetv.ro" site_id="b1-tv" xmltv_id="B1 TV">B1 TV</channel>
+<channel update="i" site="programetv.ro" site_id="babytv" xmltv_id="BabyTV">BabyTV</channel>
+<channel update="i" site="programetv.ro" site_id="balkanika-tv" xmltv_id="Balkanika TV">Balkanika TV</channel>
+<channel update="i" site="programetv.ro" site_id="bbc-earth" xmltv_id="BBC Earth">BBC Earth</channel>
+<channel update="i" site="programetv.ro" site_id="bbc-earth-hd" xmltv_id="BBC Earth HD">BBC Earth HD</channel>
+<channel update="i" site="programetv.ro" site_id="bbc-world-news" xmltv_id="BBC World News">BBC World News</channel>
+<channel update="i" site="programetv.ro" site_id="bbc-world-news-hd" xmltv_id="BBC World News HD">BBC World News HD</channel>
+<channel update="i" site="programetv.ro" site_id="bloomberg" xmltv_id="Bloomberg">Bloomberg</channel>
+<channel update="i" site="programetv.ro" site_id="blue-hustler" xmltv_id="Blue Hustler">Blue Hustler</channel>
+<channel update="i" site="programetv.ro" site_id="bollywood-classic" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+<channel update="i" site="programetv.ro" site_id="bollywood-film" xmltv_id="Bollywood FILM">Bollywood FILM</channel>
+<channel update="i" site="programetv.ro" site_id="bollywood-hd" xmltv_id="Bollywood HD">Bollywood HD</channel>
+<channel update="i" site="programetv.ro" site_id="bollywood-tv" xmltv_id="Bollywood TV">Bollywood TV</channel>
+<channel update="i" site="programetv.ro" site_id="boomerang" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="programetv.ro" site_id="brazzers-tv-europe" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+<channel update="i" site="programetv.ro" site_id="bucuresti-tv" xmltv_id="Bucuresti TV">Bucuresti TV</channel>
+<channel update="i" site="programetv.ro" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="programetv.ro" site_id="cbs-reality" xmltv_id="CBS Reality">CBS Reality</channel>
+<channel update="i" site="programetv.ro" site_id="cgtn" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="programetv.ro" site_id="cinemaraton" xmltv_id="Cinemaraton">Cinemaraton</channel>
+<channel update="i" site="programetv.ro" site_id="cinemax" xmltv_id="CineMAX">CineMAX</channel>
+<channel update="i" site="programetv.ro" site_id="cinemax-2" xmltv_id="Cinemax 2">Cinemax 2</channel>
+<channel update="i" site="programetv.ro" site_id="cinemax-2-hd" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="cinemax-hd" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="programetv.ro" site_id="cinethronix" xmltv_id="Cinethronix">Cinethronix</channel>
+<channel update="i" site="programetv.ro" site_id="club-mtv" xmltv_id="Club MTV">Club MTV</channel>
+<channel update="i" site="programetv.ro" site_id="cnn" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="programetv.ro" site_id="comedy-central" xmltv_id="Comedy Central">Comedy Central</channel>
+<channel update="i" site="programetv.ro" site_id="comedy-central-hd" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+<channel update="i" site="programetv.ro" site_id="cool-tv" xmltv_id="Cool TV">Cool TV</channel>
+<channel update="i" site="programetv.ro" site_id="credo-tv" xmltv_id="Credo TV">Credo TV</channel>
+<channel update="i" site="programetv.ro" site_id="crime-investigation" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
+<channel update="i" site="programetv.ro" site_id="davinci-learning" xmltv_id="DaVinci Learning">DaVinci Learning</channel>
+<channel update="i" site="programetv.ro" site_id="deutsche-welle" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+<channel update="i" site="programetv.ro" site_id="digi-24" xmltv_id="Digi 24">Digi 24</channel>
+<channel update="i" site="programetv.ro" site_id="digi-24-hd" xmltv_id="Digi 24 HD">Digi 24 HD</channel>
+<channel update="i" site="programetv.ro" site_id="digi-4k" xmltv_id="Digi 4K">Digi 4K</channel>
+<channel update="i" site="programetv.ro" site_id="digi-animal-world" xmltv_id="Digi Animal World">Digi Animal World</channel>
+<channel update="i" site="programetv.ro" site_id="digi-animal-world-hd" xmltv_id="Digi Animal World HD">Digi Animal World HD</channel>
+<channel update="i" site="programetv.ro" site_id="digi-life" xmltv_id="Digi Life">Digi Life</channel>
+<channel update="i" site="programetv.ro" site_id="digi-life-hd" xmltv_id="Digi Life HD">Digi Life HD</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-1" xmltv_id="Digi Sport 1">Digi Sport 1</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-1-hd" xmltv_id="Digi Sport 1 HD">Digi Sport 1 HD</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-2" xmltv_id="Digi Sport 2">Digi Sport 2</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-2-hd" xmltv_id="Digi Sport 2 HD">Digi Sport 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-3" xmltv_id="Digi Sport 3">Digi Sport 3</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-3-hd" xmltv_id="Digi Sport 3 HD">Digi Sport 3 HD</channel>
+<channel update="i" site="programetv.ro" site_id="digi-sport-4" xmltv_id="Digi Sport 4">Digi Sport 4</channel>
+<channel update="i" site="programetv.ro" site_id="digi-world" xmltv_id="Digi World">Digi World</channel>
+<channel update="i" site="programetv.ro" site_id="digi-world-hd" xmltv_id="Digi World HD">Digi World HD</channel>
+<channel update="i" site="programetv.ro" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="programetv.ro" site_id="discovery-science" xmltv_id="Discovery Science">Discovery Science</channel>
+<channel update="i" site="programetv.ro" site_id="discovery-science-hd" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+<channel update="i" site="programetv.ro" site_id="discovery-turbo-xtra-hd" xmltv_id="Discovery Turbo Xtra HD">Discovery Turbo Xtra HD</channel>
+<channel update="i" site="programetv.ro" site_id="disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="programetv.ro" site_id="disney-junior" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="programetv.ro" site_id="diva" xmltv_id="Diva">Diva</channel>
+<channel update="i" site="programetv.ro" site_id="docu-box-hd" xmltv_id="DocuBox HD">DocuBox HD</channel>
+<channel update="i" site="programetv.ro" site_id="dorcel-tv" xmltv_id="Dorcel TV">Dorcel TV</channel>
+<channel update="i" site="programetv.ro" site_id="duck-tv" xmltv_id="Duck TV">Duck TV</channel>
+<channel update="i" site="programetv.ro" site_id="duck-tv-hd" xmltv_id="Duck TV HD">Duck TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="duna" xmltv_id="Duna">Duna</channel>
+<channel update="i" site="programetv.ro" site_id="duna-world-hd" xmltv_id="Duna World HD">Duna World HD</channel>
+<channel update="i" site="programetv.ro" site_id="e-entertainment" xmltv_id="E! Entertainment">E! Entertainment</channel>
+<channel update="i" site="programetv.ro" site_id="e-entertainment-hd" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+<channel update="i" site="programetv.ro" site_id="emi-tv" xmltv_id="EMI TV">EMI TV</channel>
+<channel update="i" site="programetv.ro" site_id="emi-tv-hd" xmltv_id="EMI TV HD">EMI TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="epic-drama" xmltv_id="Epic Drama">Epic Drama</channel>
+<channel update="i" site="programetv.ro" site_id="erdely-tv" xmltv_id="Erdely TV">Erdely TV</channel>
+<channel update="i" site="programetv.ro" site_id="erox-hd" xmltv_id="Erox HD ">Erox HD </channel>
+<channel update="i" site="programetv.ro" site_id="eroxxx-hd" xmltv_id="Eroxxx HD">Eroxxx HD</channel>
+<channel update="i" site="programetv.ro" site_id="est-tv" xmltv_id="Est TV">Est TV</channel>
+<channel update="i" site="programetv.ro" site_id="etno-tv" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="programetv.ro" site_id="euronews" xmltv_id="Euronews">Euronews</channel>
+<channel update="i" site="programetv.ro" site_id="eurosport-1" xmltv_id="Eurosport 1">Eurosport 1</channel>
+<channel update="i" site="programetv.ro" site_id="eurosport-1-hd" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
+<channel update="i" site="programetv.ro" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="programetv.ro" site_id="eurosport-2-hd" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="eurosport-4k" xmltv_id="Eurosport 4K">Eurosport 4K</channel>
+<channel update="i" site="programetv.ro" site_id="extreme-sports-channel" xmltv_id="Extreme Sports">Extreme Sports</channel>
+<channel update="i" site="programetv.ro" site_id="fashion-box-hd" xmltv_id="Fashion Box HD">Fashion Box HD</channel>
+<channel update="i" site="programetv.ro" site_id="fashion-tv" xmltv_id="Fashion Television">Fashion Television</channel>
+<channel update="i" site="programetv.ro" site_id="fashion-tv-hd" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="favorit" xmltv_id="Favorit">Favorit</channel>
+<channel update="i" site="programetv.ro" site_id="fight-box-hd" xmltv_id="Fight Box HD">Fight Box HD</channel>
+<channel update="i" site="programetv.ro" site_id="film-cafe" xmltv_id="FILMCAFE">FILMCAFE</channel>
+<channel update="i" site="programetv.ro" site_id="film-now" xmltv_id="Film Now">Film Now</channel>
+<channel update="i" site="programetv.ro" site_id="film-now-hd" xmltv_id="Film Now HD">Film Now HD</channel>
+<channel update="i" site="programetv.ro" site_id="film-plus" xmltv_id="Film +">Film +</channel>
+<channel update="i" site="programetv.ro" site_id="film4" xmltv_id="Film4">Film4</channel>
+<channel update="i" site="programetv.ro" site_id="filmbox" xmltv_id="Filmbox">Filmbox</channel>
+<channel update="i" site="programetv.ro" site_id="filmbox-arthouse" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
+<channel update="i" site="programetv.ro" site_id="filmbox-extra-hd" xmltv_id="FilmBox Extra HD">FilmBox Extra HD</channel>
+<channel update="i" site="programetv.ro" site_id="filmbox-family" xmltv_id="FilmBox Family">FilmBox Family</channel>
+<channel update="i" site="programetv.ro" site_id="filmbox-premium" xmltv_id="Filmbox Premium">Filmbox Premium</channel>
+<channel update="i" site="programetv.ro" site_id="filmbox-stars" xmltv_id="Filmbox Stars">Filmbox Stars</channel>
+<channel update="i" site="programetv.ro" site_id="food-network" xmltv_id="Food Network">Food Network</channel>
+<channel update="i" site="programetv.ro" site_id="food-network-hd" xmltv_id="Food Network HD">Food Network HD</channel>
+<channel update="i" site="programetv.ro" site_id="france-2" xmltv_id="France 2">France 2</channel>
+<channel update="i" site="programetv.ro" site_id="france-24" xmltv_id="France 24">France 24</channel>
+<channel update="i" site="programetv.ro" site_id="france-24-en" xmltv_id="France 24 En">France 24 En</channel>
+<channel update="i" site="programetv.ro" site_id="france-3" xmltv_id="France 3">France 3</channel>
+<channel update="i" site="programetv.ro" site_id="france-5" xmltv_id="France 5">France 5</channel>
+<channel update="i" site="programetv.ro" site_id="fuel-tv-hd" xmltv_id="Fuel TV HD">Fuel TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="funbox-uhd" xmltv_id="FunBox UHD">FunBox UHD</channel>
+<channel update="i" site="programetv.ro" site_id="galaxy4" xmltv_id="Galaxy4">Galaxy4</channel>
+<channel update="i" site="programetv.ro" site_id="ginx-esports-tv" xmltv_id="GINX Esports TV">GINX Esports TV</channel>
+<channel update="i" site="programetv.ro" site_id="happy-channel" xmltv_id="Happy Channel">Happy Channel</channel>
+<channel update="i" site="programetv.ro" site_id="happy-channel-hd" xmltv_id="Happy Channel HD">Happy Channel HD</channel>
+<channel update="i" site="programetv.ro" site_id="hbo" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="programetv.ro" site_id="hbo-2" xmltv_id="HBO 2">HBO 2</channel>
+<channel update="i" site="programetv.ro" site_id="hbo-2-hd" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="hbo-3" xmltv_id="HBO 3">HBO 3</channel>
+<channel update="i" site="programetv.ro" site_id="hbo-3-hd" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+<channel update="i" site="programetv.ro" site_id="hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="programetv.ro" site_id="hgtv" xmltv_id="HGTV">HGTV</channel>
+<channel update="i" site="programetv.ro" site_id="history" xmltv_id="History">History</channel>
+<channel update="i" site="programetv.ro" site_id="history-hd" xmltv_id="History HD">History HD</channel>
+<channel update="i" site="programetv.ro" site_id="hit-music-channel" xmltv_id="H!T Music Channel">H!T Music Channel</channel>
+<channel update="i" site="programetv.ro" site_id="hustler-hd" xmltv_id="Hustler HD">Hustler HD</channel>
+<channel update="i" site="programetv.ro" site_id="hustler-tv" xmltv_id="Hustler TV">Hustler TV</channel>
+<channel update="i" site="programetv.ro" site_id="id-investigation-discovery" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
+<channel update="i" site="programetv.ro" site_id="ida-tv" xmltv_id="ID Investigation Discovery HD">ID Investigation Discovery HD</channel>
+<channel update="i" site="programetv.ro" site_id="inedit-tv" xmltv_id="Inedit TV">Inedit TV</channel>
+<channel update="i" site="programetv.ro" site_id="jimjam" xmltv_id="Jimjam">Jimjam</channel>
+<channel update="i" site="programetv.ro" site_id="kabel-1" xmltv_id="Kabel 1">Kabel 1</channel>
+<channel update="i" site="programetv.ro" site_id="kanal-d" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="programetv.ro" site_id="kanal-d-hd" xmltv_id="Kanal D HD">Kanal D HD</channel>
+<channel update="i" site="programetv.ro" site_id="kika" xmltv_id="KIKA">KIKA</channel>
+<channel update="i" site="programetv.ro" site_id="kiss-tv" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="programetv.ro" site_id="litoral-tv" xmltv_id="Litoral TV">Litoral TV</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport" xmltv_id="LOOK SPORT">LOOK SPORT</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-2" xmltv_id="LOOK SPORT 2">LOOK SPORT 2</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-2-hd" xmltv_id="LOOK SPORT 2 HD">LOOK SPORT 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-3" xmltv_id="LOOK SPORT 3">LOOK SPORT 3</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-3-hd" xmltv_id="LOOK SPORT 3 HD">LOOK SPORT 3 HD</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-hd" xmltv_id="LOOK SPORT HD">LOOK SPORT HD</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-plus" xmltv_id="LOOK SPORT +">LOOK SPORT +</channel>
+<channel update="i" site="programetv.ro" site_id="look-sport-plus-hd" xmltv_id="LOOK SPORT + HD">LOOK SPORT + HD</channel>
+<channel update="i" site="programetv.ro" site_id="love-nature" xmltv_id="Love Nature">Love Nature</channel>
+<channel update="i" site="programetv.ro" site_id="luxe-tv" xmltv_id="LUXE TV">LUXE TV</channel>
+<channel update="i" site="programetv.ro" site_id="m1" xmltv_id="M1">M1</channel>
+<channel update="i" site="programetv.ro" site_id="m2" xmltv_id="M2">M2</channel>
+<channel update="i" site="programetv.ro" site_id="m4-sport" xmltv_id="M4 Sport">M4 Sport</channel>
+<channel update="i" site="programetv.ro" site_id="m5-hd" xmltv_id="M5 HD">M5 HD</channel>
+<channel update="i" site="programetv.ro" site_id="magic-tv" xmltv_id="Magic TV">Magic TV</channel>
+<channel update="i" site="programetv.ro" site_id="magic-tv-hd" xmltv_id="Magic TV HD">Magic TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="mediaset-italia" xmltv_id="Mediaset Italia">Mediaset Italia</channel>
+<channel update="i" site="programetv.ro" site_id="medika-tv" xmltv_id="Medika TV">Medika TV</channel>
+<channel update="i" site="programetv.ro" site_id="mezzo" xmltv_id="Mezzo">Mezzo</channel>
+<channel update="i" site="programetv.ro" site_id="mezzo-live-hd" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+<channel update="i" site="programetv.ro" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="programetv.ro" site_id="mooz-dance" xmltv_id="Mooz Dance">Mooz Dance</channel>
+<channel update="i" site="programetv.ro" site_id="mooz-dance-hd" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+<channel update="i" site="programetv.ro" site_id="mooz-hd" xmltv_id="Mooz HD">Mooz HD</channel>
+<channel update="i" site="programetv.ro" site_id="mooz-hits" xmltv_id="Mooz Hits">Mooz Hits</channel>
+<channel update="i" site="programetv.ro" site_id="mooz-ro" xmltv_id="Mooz Ro">Mooz Ro</channel>
+<channel update="i" site="programetv.ro" site_id="motorvision-hd" xmltv_id="Motorvision HD">Motorvision HD</channel>
+<channel update="i" site="programetv.ro" site_id="mtv-80s" xmltv_id="MTV 80s">MTV 80s</channel>
+<channel update="i" site="programetv.ro" site_id="mtv-90s" xmltv_id="MTV 90s">MTV 90s</channel>
+<channel update="i" site="programetv.ro" site_id="mtv-europe" xmltv_id="MTV Europe">MTV Europe</channel>
+<channel update="i" site="programetv.ro" site_id="mtv-hits" xmltv_id="MTV Hits">MTV Hits</channel>
+<channel update="i" site="programetv.ro" site_id="mtv-live-hd" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="programetv.ro" site_id="museum-hd" xmltv_id="Museum HD">Museum HD</channel>
+<channel update="i" site="programetv.ro" site_id="music-channel" xmltv_id="Music Channel">Music Channel</channel>
+<channel update="i" site="programetv.ro" site_id="muzsika-tv" xmltv_id="Muzsika TV">Muzsika TV</channel>
+<channel update="i" site="programetv.ro" site_id="myzen-hd" xmltv_id="MyZen HD">MyZen HD</channel>
+<channel update="i" site="programetv.ro" site_id="n-tv" xmltv_id="N-TV">N-TV</channel>
+<channel update="i" site="programetv.ro" site_id="nasul-tv" xmltv_id="Nasul TV">Nasul TV</channel>
+<channel update="i" site="programetv.ro" site_id="nat-geo-people" xmltv_id="Nat Geo People">Nat Geo People</channel>
+<channel update="i" site="programetv.ro" site_id="nat-geo-people-hd" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+<channel update="i" site="programetv.ro" site_id="national-24-plus" xmltv_id="National 24 Plus">National 24 Plus</channel>
+<channel update="i" site="programetv.ro" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="programetv.ro" site_id="national-geographic-hd" xmltv_id="National Geographic HD">National Geographic HD</channel>
+<channel update="i" site="programetv.ro" site_id="national-geographic-wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+<channel update="i" site="programetv.ro" site_id="national-geographic-wild-hd" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
+<channel update="i" site="programetv.ro" site_id="national-tv" xmltv_id="National TV">National TV</channel>
+<channel update="i" site="programetv.ro" site_id="nautical-channel" xmltv_id="Nautical Channel">Nautical Channel</channel>
+<channel update="i" site="programetv.ro" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
+<channel update="i" site="programetv.ro" site_id="nickelodeon" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="programetv.ro" site_id="nickelodeon-hd" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+<channel update="i" site="programetv.ro" site_id="nicktoons" xmltv_id="Nicktoons">Nicktoons</channel>
+<channel update="i" site="programetv.ro" site_id="orizont-tv" xmltv_id="Orizont TV">Orizont TV</channel>
+<channel update="i" site="programetv.ro" site_id="outdoor-channel" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
+<channel update="i" site="programetv.ro" site_id="party-mix" xmltv_id="Party Mix">Party Mix</channel>
+<channel update="i" site="programetv.ro" site_id="party-mix-hd" xmltv_id="Party Mix HD">Party Mix HD</channel>
+<channel update="i" site="programetv.ro" site_id="phoenix" xmltv_id="PHOENIX">PHOENIX</channel>
+<channel update="i" site="programetv.ro" site_id="playboy-tv" xmltv_id="Playboy TV">Playboy TV</channel>
+<channel update="i" site="programetv.ro" site_id="prima-tv" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="programetv.ro" site_id="prima-tv-hd" xmltv_id="Prima TV HD">Prima TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="private-tv" xmltv_id="Private TV">Private TV</channel>
+<channel update="i" site="programetv.ro" site_id="pro-2" xmltv_id="PRO 2">PRO 2</channel>
+<channel update="i" site="programetv.ro" site_id="pro-2-hd" xmltv_id="PRO 2 HD">PRO 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="pro-7" xmltv_id="Pro 7">Pro 7</channel>
+<channel update="i" site="programetv.ro" site_id="pro-cinema-hd" xmltv_id="PRO CINEMA HD">PRO CINEMA HD</channel>
+<channel update="i" site="programetv.ro" site_id="pro-gold-hd" xmltv_id="PRO GOLD HD">PRO GOLD HD</channel>
+<channel update="i" site="programetv.ro" site_id="pro-tv" xmltv_id="PRO TV">PRO TV</channel>
+<channel update="i" site="programetv.ro" site_id="pro-tv-hd" xmltv_id="PRO TV HD">PRO TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="pro-x" xmltv_id="PRO X">PRO X</channel>
+<channel update="i" site="programetv.ro" site_id="pro-x-hd" xmltv_id="PRO X HD">PRO X HD</channel>
+<channel update="i" site="programetv.ro" site_id="profit-ro" xmltv_id="Profit.ro">Profit.ro</channel>
+<channel update="i" site="programetv.ro" site_id="protv-international" xmltv_id="PRO TV INTERNATIONAL">PRO TV INTERNATIONAL</channel>
+<channel update="i" site="programetv.ro" site_id="publika" xmltv_id="Publika">Publika</channel>
+<channel update="i" site="programetv.ro" site_id="rai-1" xmltv_id="Rai 1">Rai 1</channel>
+<channel update="i" site="programetv.ro" site_id="rai-2" xmltv_id="Rai 2">Rai 2</channel>
+<channel update="i" site="programetv.ro" site_id="rai-3" xmltv_id="Rai 3">Rai 3</channel>
+<channel update="i" site="programetv.ro" site_id="realitatea-plus" xmltv_id="Realitatea Plus">Realitatea Plus</channel>
+<channel update="i" site="programetv.ro" site_id="redlight-hd" xmltv_id="Redlight HD">Redlight HD</channel>
+<channel update="i" site="programetv.ro" site_id="rock-tv" xmltv_id="Rock TV">Rock TV</channel>
+<channel update="i" site="programetv.ro" site_id="rock-tv-hd" xmltv_id="Rock TV HD">Rock TV HD</channel>
+<channel update="i" site="programetv.ro" site_id="romania-tv" xmltv_id="România TV">România TV</channel>
+<channel update="i" site="programetv.ro" site_id="rt-hd" xmltv_id="RT HD">RT HD</channel>
+<channel update="i" site="programetv.ro" site_id="rtl" xmltv_id="RTL">RTL</channel>
+<channel update="i" site="programetv.ro" site_id="rtl-gold" xmltv_id="RTL Gold">RTL Gold</channel>
+<channel update="i" site="programetv.ro" site_id="rtl-ii-hu" xmltv_id="RTL II (Hu)">RTL II (Hu)</channel>
+<channel update="i" site="programetv.ro" site_id="rtl-klub-hd" xmltv_id="RTL Klub HD">RTL Klub HD</channel>
+<channel update="i" site="programetv.ro" site_id="rtl-nitro" xmltv_id="RTL Nitro">RTL Nitro</channel>
+<channel update="i" site="programetv.ro" site_id="rtl-plus" xmltv_id="RTL+">RTL+</channel>
+<channel update="i" site="programetv.ro" site_id="rtl-zwei" xmltv_id="RTL ZWEI">RTL ZWEI</channel>
+<channel update="i" site="programetv.ro" site_id="sat-1" xmltv_id="Sat 1">Sat 1</channel>
+<channel update="i" site="programetv.ro" site_id="sixx" xmltv_id="Sixx">Sixx</channel>
+<channel update="i" site="programetv.ro" site_id="sorozat-plusz" xmltv_id="Sorozat+">Sorozat+</channel>
+<channel update="i" site="programetv.ro" site_id="speranta-tv" xmltv_id="Speranta TV">Speranta TV</channel>
+<channel update="i" site="programetv.ro" site_id="sport-extra" xmltv_id="Sport Extra">Sport Extra</channel>
+<channel update="i" site="programetv.ro" site_id="sport-extra-hd" xmltv_id="Sport Extra HD">Sport Extra HD</channel>
+<channel update="i" site="programetv.ro" site_id="stingray-classica" xmltv_id="Stingray Classica">Stingray Classica</channel>
+<channel update="i" site="programetv.ro" site_id="stingray-djazz" xmltv_id="Stingray Djazz">Stingray Djazz</channel>
+<channel update="i" site="programetv.ro" site_id="stingray-iconcerts-hd" xmltv_id="Stingray iConcerts HD">Stingray iConcerts HD</channel>
+<channel update="i" site="programetv.ro" site_id="story4" xmltv_id="Story4">Story4</channel>
+<channel update="i" site="programetv.ro" site_id="super-rtl" xmltv_id="Super RTL">Super RTL</channel>
+<channel update="i" site="programetv.ro" site_id="superone-hd" xmltv_id="SuperOne HD">SuperOne HD</channel>
+<channel update="i" site="programetv.ro" site_id="taraf-tv" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="programetv.ro" site_id="tdc" xmltv_id="TDC">TDC</channel>
+<channel update="i" site="programetv.ro" site_id="teennick" xmltv_id="TeenNick">TeenNick</channel>
+<channel update="i" site="programetv.ro" site_id="telekom-sport-1" xmltv_id="Telekom Sport 1">Telekom Sport 1</channel>
+<channel update="i" site="programetv.ro" site_id="telekom-sport-1-hd" xmltv_id="Telekom Sport 1 HD">Telekom Sport 1 HD</channel>
+<channel update="i" site="programetv.ro" site_id="telekom-sport-2" xmltv_id="Telekom Sport 2">Telekom Sport 2</channel>
+<channel update="i" site="programetv.ro" site_id="telekom-sport-3" xmltv_id="Telekom Sport 3">Telekom Sport 3</channel>
+<channel update="i" site="programetv.ro" site_id="telekom-sport-4" xmltv_id="Telekom Sport 4">Telekom Sport 4</channel>
+<channel update="i" site="programetv.ro" site_id="the-fishing-and-hunting-channel" xmltv_id="The Fishing & Hunting Channel">The Fishing & Hunting Channel</channel>
+<channel update="i" site="programetv.ro" site_id="the-fishing-and-hunting-channel-hd" xmltv_id="The Fishing & Hunting Channel HD">The Fishing & Hunting Channel HD</channel>
+<channel update="i" site="programetv.ro" site_id="tlc" xmltv_id="TLC">TLC</channel>
+<channel update="i" site="programetv.ro" site_id="tnt" xmltv_id="TNT">TNT</channel>
+<channel update="i" site="programetv.ro" site_id="tnt-hd" xmltv_id="TNT HD">TNT HD</channel>
+<channel update="i" site="programetv.ro" site_id="trace-caribbean" xmltv_id="Trace Caribbean">Trace Caribbean</channel>
+<channel update="i" site="programetv.ro" site_id="trace-sport-stars" xmltv_id="TRACE Sport Stars HD">TRACE Sport Stars HD</channel>
+<channel update="i" site="programetv.ro" site_id="trace-urban-hd" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
+<channel update="i" site="programetv.ro" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+<channel update="i" site="programetv.ro" site_id="travel-channel-hd" xmltv_id="Travel Channel HD">Travel Channel HD</channel>
+<channel update="i" site="programetv.ro" site_id="travel-mix" xmltv_id="Travel Mix">Travel Mix</channel>
+<channel update="i" site="programetv.ro" site_id="trinitas-tv" xmltv_id="Trinitas TV">Trinitas TV</channel>
+<channel update="i" site="programetv.ro" site_id="tv-city-hd" xmltv_id="TV City HD">TV City HD</channel>
+<channel update="i" site="programetv.ro" site_id="tv-paprika" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="programetv.ro" site_id="tv-sudest-national" xmltv_id="TV SudEst National">TV SudEst National</channel>
+<channel update="i" site="programetv.ro" site_id="tv-sudest-regional" xmltv_id="TV SudEst Regional">TV SudEst Regional</channel>
+<channel update="i" site="programetv.ro" site_id="tv1000" xmltv_id="TV1000">TV1000</channel>
+<channel update="i" site="programetv.ro" site_id="tv1000-russian-kino" xmltv_id="TV1000 Russian Kino">TV1000 Russian Kino</channel>
+<channel update="i" site="programetv.ro" site_id="tv4" xmltv_id="TV4">TV4</channel>
+<channel update="i" site="programetv.ro" site_id="tv5-monde-europe" xmltv_id="TV5 Monde Europe">TV5 Monde Europe</channel>
+<channel update="i" site="programetv.ro" site_id="tve" xmltv_id="TVE">TVE</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-1" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-1-hd" xmltv_id="TVR 1 HD">TVR 1 HD</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-2" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-2-hd" xmltv_id="TVR 2 HD">TVR 2 HD</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-3" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-cluj" xmltv_id="TVR Cluj">TVR Cluj</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-craiova" xmltv_id="TVR Craiova">TVR Craiova</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-iasi" xmltv_id="TVR Ia?i">TVR Ia?i</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-international" xmltv_id="TVR International">TVR International</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-moldova" xmltv_id="TVR Moldova">TVR Moldova</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-targu-mures" xmltv_id="TVR Târgu Mure?">TVR Târgu Mure?</channel>
+<channel update="i" site="programetv.ro" site_id="tvr-timisoara" xmltv_id="TVR Timi?oara">TVR Timi?oara</channel>
+<channel update="i" site="programetv.ro" site_id="utv" xmltv_id="UTV">UTV</channel>
+<channel update="i" site="programetv.ro" site_id="utv-hd" xmltv_id="UTV HD">UTV HD</channel>
+<channel update="i" site="programetv.ro" site_id="valea-prahovei-tv" xmltv_id="Valea Prahovei TV">Valea Prahovei TV</channel>
+<channel update="i" site="programetv.ro" site_id="vh1" xmltv_id="VH1">VH1</channel>
+<channel update="i" site="programetv.ro" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
+<channel update="i" site="programetv.ro" site_id="viasat-history" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="programetv.ro" site_id="viasat-nature" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="programetv.ro" site_id="vox" xmltv_id="VOX">VOX</channel>
+<channel update="i" site="programetv.ro" site_id="vtv" xmltv_id="VTV">VTV</channel>
+<channel update="i" site="programetv.ro" site_id="welt" xmltv_id="Welt">Welt</channel>
+<channel update="i" site="programetv.ro" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+<channel update="i" site="programetv.ro" site_id="zdf-info" xmltv_id="ZDF info">ZDF info</channel>
+<channel update="i" site="programetv.ro" site_id="zdf-neo" xmltv_id="ZDF kultur">ZDF kultur</channel>
+<channel update="i" site="programetv.ro" site_id="zu-tv" xmltv_id="ZU TV">ZU TV</channel>
+<channel update="i" site="programetv.ro" site_id="zu-tv-hd" xmltv_id="ZU TV HD">ZU TV HD</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus version 1.0.7 Beta -- Jan van Straaten" site="roportal.ro">
+<channels>
+<channel update="i" site="roportal.ro" site_id="acasa_tv" xmltv_id="Acasa TV">Acasa TV</channel>
+<channel update="i" site="roportal.ro" site_id="alfa_omega" xmltv_id="Alfa Omega">Alfa Omega</channel>
+<channel update="i" site="roportal.ro" site_id="animal_planet" xmltv_id="Animal Planet">Animal Planet</channel>
+<channel update="i" site="roportal.ro" site_id="animax" xmltv_id="Animax">Animax</channel>
+<channel update="i" site="roportal.ro" site_id="antena_1" xmltv_id="Antena 1">Antena 1</channel>
+<channel update="i" site="roportal.ro" site_id="antena_2" xmltv_id="Antena 2">Antena 2</channel>
+<channel update="i" site="roportal.ro" site_id="antena_3" xmltv_id="Antena 3">Antena 3</channel>
+<channel update="i" site="roportal.ro" site_id="axn" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="roportal.ro" site_id="axn_crime" xmltv_id="AXN Crime">AXN Crime</channel>
+<channel update="i" site="roportal.ro" site_id="axn_sci_fi" xmltv_id="AXN SCI FI">AXN SCI FI</channel>
+<channel update="i" site="roportal.ro" site_id="cinemax" xmltv_id="Cinemax">Cinemax</channel>
+<channel update="i" site="roportal.ro" site_id="cinemax2" xmltv_id="Cinemax2">Cinemax2</channel>
+<channel update="i" site="roportal.ro" site_id="discovery_channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
+<channel update="i" site="roportal.ro" site_id="etno" xmltv_id="Etno TV">Etno TV</channel>
+<channel update="i" site="roportal.ro" site_id="euforia" xmltv_id="Euforia">Euforia</channel>
+<channel update="i" site="roportal.ro" site_id="eurosport" xmltv_id="Eurosport">Eurosport</channel>
+<channel update="i" site="roportal.ro" site_id="eurosport2" xmltv_id="Eurosport 2">Eurosport 2</channel>
+<channel update="i" site="roportal.ro" site_id="extreme_sports" xmltv_id="Extreme Sports">Extreme Sports</channel>
+<channel update="i" site="roportal.ro" site_id="gsp_tv" xmltv_id="GSP TV">GSP TV</channel>
+<channel update="i" site="roportal.ro" site_id="hallmark" xmltv_id="Hallmark">Hallmark</channel>
+<channel update="i" site="roportal.ro" site_id="hbo" xmltv_id="HBO">HBO</channel>
+<channel update="i" site="roportal.ro" site_id="hbo_comedy" xmltv_id="HBO Comedy">HBO Comedy</channel>
+<channel update="i" site="roportal.ro" site_id="jim_jam" xmltv_id="Jim Jam">Jim Jam</channel>
+<channel update="i" site="roportal.ro" site_id="kanald" xmltv_id="Kanald">Kanald</channel>
+<channel update="i" site="roportal.ro" site_id="kidsco" xmltv_id="KidsCo">KidsCo</channel>
+<channel update="i" site="roportal.ro" site_id="mgm" xmltv_id="MGM">MGM</channel>
+<channel update="i" site="roportal.ro" site_id="minimax" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="roportal.ro" site_id="moneychannel" xmltv_id="Money Channel">Money Channel</channel>
+<channel update="i" site="roportal.ro" site_id="movies_24" xmltv_id="Movies 24">Movies 24</channel>
+<channel update="i" site="roportal.ro" site_id="mtv" xmltv_id="MTV">MTV</channel>
+<channel update="i" site="roportal.ro" site_id="national_geographic" xmltv_id="National Geographic">National Geographic</channel>
+<channel update="i" site="roportal.ro" site_id="national_geographic_wild" xmltv_id="National Geographic Wild">National Geographic Wild</channel>
+<channel update="i" site="roportal.ro" site_id="prima_tv" xmltv_id="Prima TV">Prima TV</channel>
+<channel update="i" site="roportal.ro" site_id="pro_cinema" xmltv_id="Pro Cinema">Pro Cinema</channel>
+<channel update="i" site="roportal.ro" site_id="protv" xmltv_id="ProTV">ProTV</channel>
+<channel update="i" site="roportal.ro" site_id="realitatea" xmltv_id="Realitatea">Realitatea</channel>
+<channel update="i" site="roportal.ro" site_id="sci_fi_channel" xmltv_id="Sci Fi Channel">Sci Fi Channel</channel>
+<channel update="i" site="roportal.ro" site_id="sport_ro" xmltv_id="Sport.ro">Sport.ro</channel>
+<channel update="i" site="roportal.ro" site_id="sport1" xmltv_id="Sport1">Sport1</channel>
+<channel update="i" site="roportal.ro" site_id="sportklub" xmltv_id="Sportklub">Sportklub</channel>
+<channel update="i" site="roportal.ro" site_id="tvpaprika" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="roportal.ro" site_id="tvr_1" xmltv_id="TVR 1">TVR 1</channel>
+<channel update="i" site="roportal.ro" site_id="tvr_2" xmltv_id="TVR 2">TVR 2</channel>
+<channel update="i" site="roportal.ro" site_id="tvr_3" xmltv_id="TVR 3">TVR 3</channel>
+<channel update="i" site="roportal.ro" site_id="tvr_cultural" xmltv_id="TVR Cultural">TVR Cultural</channel>
+<channel update="i" site="roportal.ro" site_id="tvr_info" xmltv_id="TVR Info">TVR Info</channel>
+<channel update="i" site="roportal.ro" site_id="tvr_international" xmltv_id="TVR International">TVR International</channel>
+<channel update="i" site="roportal.ro" site_id="universal_channel" xmltv_id="Universal Channel">Universal Channel</channel>
+<channel update="i" site="roportal.ro" site_id="zone_club" xmltv_id="Zone Club">Zone Club</channel>
+<channel update="i" site="roportal.ro" site_id="zone_reality" xmltv_id="Zone Reality">Zone Reality</channel>
+</channels>
+</site>
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" site="telekom.ro">
+<channels>
+<channel update="i" site="telekom.ro" site_id="600163##attachments/Tinfo_ott_144_65.png" xmltv_id="Telekom Info">Telekom Info</channel>
+<channel update="i" site="telekom.ro" site_id="600187##data/logos/channels_144x65/TS1HD_IPTV.png" xmltv_id="Telekom Sport 1 HD">Telekom Sport 1 HD</channel>
+<channel update="i" site="telekom.ro" site_id="15327283##data/logos/channels_144x65/TS2HD_IPTV.png" xmltv_id="Telekom Sport 2 HD">Telekom Sport 2 HD</channel>
+<channel update="i" site="telekom.ro" site_id="600175##data/logos/channels_144x65/TS3HD_IPTV.png" xmltv_id="Telekom Sport 3 HD">Telekom Sport 3 HD</channel>
+<channel update="i" site="telekom.ro" site_id="600181##data/logos/channels_144x65/TS4HD_IPTV.png" xmltv_id="Telekom Sport 4 HD">Telekom Sport 4 HD</channel>
+<channel update="i" site="telekom.ro" site_id="600343##data/logos/channels_144x65/mooz_hd.png" xmltv_id="Mooz HD">Mooz HD</channel>
+<channel update="i" site="telekom.ro" site_id="600355##data/logos/channels_144x65/mooz_hits.png" xmltv_id="Mooz Hits">Mooz Hits</channel>
+<channel update="i" site="telekom.ro" site_id="600361##data/logos/channels_144x65/mooz_ro.png" xmltv_id="Mooz Ro">Mooz Ro</channel>
+<channel update="i" site="telekom.ro" site_id="600349##data/logos/channels_144x65/mooz_dance.png" xmltv_id="Mooz Dance HD">Mooz Dance HD</channel>
+<channel update="i" site="telekom.ro" site_id="600451##data/logos/channels_144x65/PROTVHD.png" xmltv_id="PRO TV HD">PRO TV HD</channel>
+<channel update="i" site="telekom.ro" site_id="600313##data/logos/channels_144x65/kanal-d.png" xmltv_id="Kanal D">Kanal D</channel>
+<channel update="i" site="telekom.ro" site_id="600777##data/logos/channels_144x65/national24plus.png" xmltv_id="National 24 Plus">National 24 Plus</channel>
+<channel update="i" site="telekom.ro" site_id="600523##data/logos/channels_144x65/tv5monde.png" xmltv_id="TV5MONDE">TV5MONDE</channel>
+<channel update="i" site="telekom.ro" site_id="600019##data/logos/channels_144x65/PROGOLD.png" xmltv_id="PRO GOLD">PRO GOLD</channel>
+<channel update="i" site="telekom.ro" site_id="599923##data/logos/channels_144x65/PRO2HD.png" xmltv_id="PRO 2 HD">PRO 2 HD</channel>
+<channel update="i" site="telekom.ro" site_id="73173262##data/logos/channels_144x65/Telestar1.png" xmltv_id="TELESTAR">TELESTAR</channel>
+<channel update="i" site="telekom.ro" site_id="600103##data/logos/channels_144x65/credo.png" xmltv_id="Credo TV">Credo TV</channel>
+<channel update="i" site="telekom.ro" site_id="600517##data/logos/channels_144x65/Trinitastv.png" xmltv_id="Trinitas">Trinitas</channel>
+<channel update="i" site="telekom.ro" site_id="600037##data/logos/channels_144x65/alfa_omega.png" xmltv_id="Alfa Omega TV">Alfa Omega TV</channel>
+<channel update="i" site="telekom.ro" site_id="600469##data/logos/channels_144x65/speranta.png" xmltv_id="Speranta TV">Speranta TV</channel>
+<channel update="i" site="telekom.ro" site_id="600771##data/logos/channels_144x65/lookplus_.png" xmltv_id="LookPlusHD">LookPlusHD</channel>
+<channel update="i" site="telekom.ro" site_id="600325##data/logos/channels_144x65/looksport-hd.png" xmltv_id="LookSportHD">LookSportHD</channel>
+<channel update="i" site="telekom.ro" site_id="600031##data/logos/channels_144x65/agrotv.png" xmltv_id="Agro TV">Agro TV</channel>
+<channel update="i" site="telekom.ro" site_id="253204474##data/logos/channels_144x65/profitro_gray.png" xmltv_id="Profit.ro">Profit.ro</channel>
+<channel update="i" site="telekom.ro" site_id="36015933##data/logos/channels_144x65/NickHD.png" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+<channel update="i" site="telekom.ro" site_id="600097##data/logos/channels_144x65/cartoon-network_g.png" xmltv_id="Cartoon Network">Cartoon Network</channel>
+<channel update="i" site="telekom.ro" site_id="600085##data/logos/channels_144x65/Boomerang1.png" xmltv_id="Boomerang">Boomerang</channel>
+<channel update="i" site="telekom.ro" site_id="24529409##data/logos/channels_144x65/Nick_JR.png" xmltv_id="Nick JR">Nick JR</channel>
+<channel update="i" site="telekom.ro" site_id="600157##data/logos/channels_144x65/disney_junior.png" xmltv_id="Disney Junior">Disney Junior</channel>
+<channel update="i" site="telekom.ro" site_id="181669342##data/logos/channels_144x65/Duck14465.png" xmltv_id="Duck TV">Duck TV</channel>
+<channel update="i" site="telekom.ro" site_id="600115##data/logos/channels_144x65/DaVinci_144x65_STB.png" xmltv_id="Da Vinci">Da Vinci</channel>
+<channel update="i" site="telekom.ro" site_id="600151##data/logos/channels_144x65/disney.png" xmltv_id="Disney Channel">Disney Channel</channel>
+<channel update="i" site="telekom.ro" site_id="600415##data/logos/channels_144x65/Nickelodeon.png" xmltv_id="Nickelodeon">Nickelodeon</channel>
+<channel update="i" site="telekom.ro" site_id="272051025##attachments/Nikon_TV.PNG" xmltv_id="Nicktoons">Nicktoons</channel>
+<channel update="i" site="telekom.ro" site_id="278070367##attachments/minimax3Dcolor_144x84px.png" xmltv_id="Minimax">Minimax</channel>
+<channel update="i" site="telekom.ro" site_id="297510371##attachments/Dizi.png" xmltv_id="TDC HD">TDC HD</channel>
+<channel update="i" site="telekom.ro" site_id="600711##data/logos/channels_144x65/comedycentral.png" xmltv_id="Comedy Central">Comedy Central</channel>
+<channel update="i" site="telekom.ro" site_id="600723##data/logos/channels_144x65/DIVA_WHITE.png" xmltv_id="Diva Universal">Diva Universal</channel>
+<channel update="i" site="telekom.ro" site_id="600825##data/logos/channels_144x65/TNTnew.png" xmltv_id="TNT">TNT</channel>
+<channel update="i" site="telekom.ro" site_id="88660975##data/logos/channels_144x65/TNT_HD_metal.png" xmltv_id="TNT HD">TNT HD</channel>
+<channel update="i" site="telekom.ro" site_id="600645##data/logos/channels_144x65/AXN-HD.PNG" xmltv_id="AXN HD">AXN HD</channel>
+<channel update="i" site="telekom.ro" site_id="600651##data/logos/channels_144x65/AXN-SPIN.PNG" xmltv_id="AXN SPIN">AXN SPIN</channel>
+<channel update="i" site="telekom.ro" site_id="600633##data/logos/channels_144x65/AXN.PNG" xmltv_id="AXN">AXN</channel>
+<channel update="i" site="telekom.ro" site_id="600639##data/logos/channels_144x65/AXN-BLACK.PNG" xmltv_id="AXN Black">AXN Black</channel>
+<channel update="i" site="telekom.ro" site_id="600657##data/logos/channels_144x65/AXN-WHITE.PNG" xmltv_id="AXN White">AXN White</channel>
+<channel update="i" site="telekom.ro" site_id="600789##data/logos/channels_144x65/PROCINEMA.png" xmltv_id="PRO CINEMA">PRO CINEMA</channel>
+<channel update="i" site="telekom.ro" site_id="24543717##data/logos/channels_144x65/Paramount.png" xmltv_id="Paramount">Paramount</channel>
+<channel update="i" site="telekom.ro" site_id="600831##data/logos/channels_144x65/tv1000.png" xmltv_id="TV 1000">TV 1000</channel>
+<channel update="i" site="telekom.ro" site_id="600765##attachments/LOGOS-HBO_gri_2.png" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="telekom.ro" site_id="77219810##data/logos/channels_144x65/LOGO_HBO_2_1.png" xmltv_id="HBO 2 HD">HBO 2 HD</channel>
+<channel update="i" site="telekom.ro" site_id="77243893##data/logos/channels_144x65/LOGO_HBO_3_1.png" xmltv_id="HBO 3 HD">HBO 3 HD</channel>
+<channel update="i" site="telekom.ro" site_id="13781428##data/logos/channels_144x65/CNMXHD.png" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="telekom.ro" site_id="194807826##data/logos/channels_144x65/rsz_cmax2_hd_r_mark.png" xmltv_id="Cinemax 2 HD">Cinemax 2 HD</channel>
+<channel update="i" site="telekom.ro" site_id="243642359##data/logos/channels_144x65/epic_logo.png" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+<channel update="i" site="telekom.ro" site_id="304890683##attachments/FilmboxPremiumW.png" xmltv_id="FilmBox Premium">FilmBox Premium</channel>
+<channel update="i" site="telekom.ro" site_id="304890737##attachments/FilmboxBlack.png" xmltv_id="FilmBox Basic">FilmBox Basic</channel>
+<channel update="i" site="telekom.ro" site_id="600681##data/logos/channels_144x65/BOTV.png" xmltv_id="Bollywood TV">Bollywood TV</channel>
+<channel update="i" site="telekom.ro" site_id="600675##data/logos/channels_144x65/BOCL.png" xmltv_id="Bollywood Classic">Bollywood Classic</channel>
+<channel update="i" site="telekom.ro" site_id="36039815##data/logos/channels_144x65/Bollywood-HD.png" xmltv_id="Bollywood HD">Bollywood HD</channel>
+<channel update="i" site="telekom.ro" site_id="323700203##attachments/Logo-Aleph-News_Telekom.png" xmltv_id="Aleph News">Aleph News</channel>
+<channel update="i" site="telekom.ro" site_id="293861338##attachments/logo_Realitatea_PLUS_WIDE.png" xmltv_id="RealitateaPlus">RealitateaPlus</channel>
+<channel update="i" site="telekom.ro" site_id="297509808##attachments/1-10.png" xmltv_id="Euronews HD">Euronews HD</channel>
+<channel update="i" site="telekom.ro" site_id="600801##data/logos/channels_144x65/romania_tv.png" xmltv_id="Romania TV">Romania TV</channel>
+<channel update="i" site="telekom.ro" site_id="600705##data/logos/channels_144x65/CNN-red.png" xmltv_id="CNN">CNN</channel>
+<channel update="i" site="telekom.ro" site_id="88667753##data/logos/channels_144x65/CNNHD-red.png" xmltv_id="CNN HD">CNN HD</channel>
+<channel update="i" site="telekom.ro" site_id="600783##data/logos/channels_144x65/nasul_tv.png" xmltv_id="Nasul TV">Nasul TV</channel>
+<channel update="i" site="telekom.ro" site_id="600837##data/logos/channels_144x65/tv-city.png" xmltv_id="TV CITY">TV CITY</channel>
+<channel update="i" site="telekom.ro" site_id="600687##data/logos/channels_144x65/cgtn1.png" xmltv_id="CGTN">CGTN</channel>
+<channel update="i" site="telekom.ro" site_id="600741##data/logos/channels_144x65/france-24.png" xmltv_id="France 24">France 24</channel>
+<channel update="i" site="telekom.ro" site_id="600717##data/logos/channels_144x65/Deutsche_Welle_logo_2012.png" xmltv_id="Deutsche Welle">Deutsche Welle</channel>
+<channel update="i" site="telekom.ro" site_id="297508986##attachments/looksport2hd.png" xmltv_id="Look Sport 2 HD">Look Sport 2 HD</channel>
+<channel update="i" site="telekom.ro" site_id="297509359##attachments/looksport3hd.png" xmltv_id="Look Sport 3 HD">Look Sport 3 HD</channel>
+<channel update="i" site="telekom.ro" site_id="600475##data/logos/channels_144x65/PROX.png" xmltv_id="PRO X">PRO X</channel>
+<channel update="i" site="telekom.ro" site_id="304890142##attachments/selkj.png" xmltv_id="Sport Extra HD">Sport Extra HD</channel>
+<channel update="i" site="telekom.ro" site_id="297509935##attachments/1-04.png" xmltv_id="Fightbox HD">Fightbox HD</channel>
+<channel update="i" site="telekom.ro" site_id="600493##data/logos/channels_144x65/history_logo.png" xmltv_id="History">History</channel>
+<channel update="i" site="telekom.ro" site_id="297510277##attachments/ng-hd.png" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+<channel update="i" site="telekom.ro" site_id="297509971##attachments/Nat-Geo-Wild-HD.png" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+<channel update="i" site="telekom.ro" site_id="303514863##attachments/NGP.png" xmltv_id="Nat Geo People">Nat Geo People</channel>
+<channel update="i" site="telekom.ro" site_id="600595##attachments/viasat_hist.png" xmltv_id="Viasat History HD">Viasat History HD</channel>
+<channel update="i" site="telekom.ro" site_id="600601##data/logos/channels_144x65/viasat_hist.png" xmltv_id="Viasat History">Viasat History</channel>
+<channel update="i" site="telekom.ro" site_id="600589##data/logos/channels_144x65/viasat_expl.png" xmltv_id="Viasat Explore">Viasat Explore</channel>
+<channel update="i" site="telekom.ro" site_id="600607##data/logos/channels_144x65/viasat_nat.png" xmltv_id="Viasat Nature">Viasat Nature</channel>
+<channel update="i" site="telekom.ro" site_id="600109##data/logos/channels_144x65/ci_new.png" xmltv_id="Crime and Investigation">Crime and Investigation</channel>
+<channel update="i" site="telekom.ro" site_id="297510552##attachments/viasat_expl.png" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+<channel update="i" site="telekom.ro" site_id="297511744##attachments/viasat_nat.png" xmltv_id="Viasat Nature HD">Viasat Nature HD</channel>
+<channel update="i" site="telekom.ro" site_id="297508455##attachments/1-02.png" xmltv_id="DocuboxHD">DocuboxHD</channel>
+<channel update="i" site="telekom.ro" site_id="297511056##attachments/1-12.png" xmltv_id="Travel XP HD">Travel XP HD</channel>
+<channel update="i" site="telekom.ro" site_id="271879541##attachments/TRAVELMIXHD.png" xmltv_id="TRAVEL MIX HD">TRAVEL MIX HD</channel>
+<channel update="i" site="telekom.ro" site_id="600253##data/logos/channels_144x65/fgold.png" xmltv_id="Fashion HD">Fashion HD</channel>
+<channel update="i" site="telekom.ro" site_id="600529##data/logos/channels_144x65/tv_paprika.png" xmltv_id="TV Paprika">TV Paprika</channel>
+<channel update="i" site="telekom.ro" site_id="600259##attachments/fashion.png" xmltv_id="Fashion TV">Fashion TV</channel>
+<channel update="i" site="telekom.ro" site_id="36043008##data/logos/channels_144x65/E!-HD.png" xmltv_id="E!Entertainment HD">E!Entertainment HD</channel>
+<channel update="i" site="telekom.ro" site_id="600373##data/logos/channels_144x65/mtv.png" xmltv_id="MTV Romania">MTV Romania</channel>
+<channel update="i" site="telekom.ro" site_id="600301##data/logos/channels_144x65/IConcerts.png" xmltv_id="iConcerts HD">iConcerts HD</channel>
+<channel update="i" site="telekom.ro" site_id="600577##data/logos/channels_144x65/VH1_new.png" xmltv_id="VH 1">VH 1</channel>
+<channel update="i" site="telekom.ro" site_id="600367##attachments/MTV90s.png" xmltv_id="MTV 90s">MTV 90s</channel>
+<channel update="i" site="telekom.ro" site_id="600583##attachments/MTV80s.png" xmltv_id="MTV 80s">MTV 80s</channel>
+<channel update="i" site="telekom.ro" site_id="600319##data/logos/channels_144x65/kiss_tv.png" xmltv_id="Kiss TV">Kiss TV</channel>
+<channel update="i" site="telekom.ro" site_id="600565##data/logos/channels_144x65/utv.png" xmltv_id="UTV">UTV</channel>
+<channel update="i" site="telekom.ro" site_id="243365364##data/logos/channels_144x65/LogoRock-TV-It-Rocks-pentru-fundal-ALB.png" xmltv_id="Rock TV HD">Rock TV HD</channel>
+<channel update="i" site="telekom.ro" site_id="600217##data/logos/channels_144x65/etno.png" xmltv_id="Etno">Etno</channel>
+<channel update="i" site="telekom.ro" site_id="600487##data/logos/channels_144x65/taraf.png" xmltv_id="Taraf TV">Taraf TV</channel>
+<channel update="i" site="telekom.ro" site_id="600307##data/logos/channels_144x65/inedit_tv.png" xmltv_id="Inedit TV">Inedit TV</channel>
+<channel update="i" site="telekom.ro" site_id="600073##data/logos/channels_144x65/balkanika.png" xmltv_id="Balkanika TV">Balkanika TV</channel>
+<channel update="i" site="telekom.ro" site_id="600289##data/logos/channels_144x65/hit_m_c.png" xmltv_id="Hit Music Channel">Hit Music Channel</channel>
+<channel update="i" site="telekom.ro" site_id="36037957##data/logos/channels_144x65/MTVLiveHD.png" xmltv_id="MTV Live HD">MTV Live HD</channel>
+<channel update="i" site="telekom.ro" site_id="243366234##data/logos/channels_144x65/LOGO-MAGIC-tv-turquoise.png" xmltv_id="Magic TV HD">Magic TV HD</channel>
+<channel update="i" site="telekom.ro" site_id="243370513##data/logos/channels_144x65/Logo_classic.png" xmltv_id="Classica TV HD">Classica TV HD</channel>
+<channel update="i" site="telekom.ro" site_id="35684832##data/logos/channels_144x65/M1.png" xmltv_id="M1">M1</channel>
+<channel update="i" site="telekom.ro" site_id="600199##data/logos/channels_144x65/duna.png" xmltv_id="Duna TV">Duna TV</channel>
+<channel update="i" site="telekom.ro" site_id="600211##data/logos/channels_144x65/ederlytv.png" xmltv_id="Erdely TV">Erdely TV</channel>
+<channel update="i" site="telekom.ro" site_id="49573169##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 7 HD">Telekom Sport 7 HD</channel>
+<channel update="i" site="telekom.ro" site_id="50355174##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 8 HD">Telekom Sport 8 HD</channel>
+<channel update="i" site="telekom.ro" site_id="50361297##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 9 HD">Telekom Sport 9 HD</channel>
+<channel update="i" site="telekom.ro" site_id="50355600##data/logos/channels_144x65/FotbalOnline.png" xmltv_id="Telekom Sport 10 HD">Telekom Sport 10 HD</channel>
+</channels>
+</site>
