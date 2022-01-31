@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RO: ##### ROMANIA #####" tvg-logo="" group-title="|EU| ROMANIA",RO: ##### ROMANIA #####
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262269
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvrinternational.png" group-title="|EU| ROMANIA",RO: TVR INTERNATIONAL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262271
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="RO: TVR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvrhd.png" group-title="|EU| ROMANIA",RO: TVR FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262272
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr.png" group-title="|EU| ROMANIA",RO: TVR UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262273
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="RO: TVR 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr1.png" group-title="|EU| ROMANIA",RO: TVR 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262274
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV NEPTUN" tvg-logo="http://logo.protv.cc/picons-dino/logos/TV-NEPTUN.jpeg" group-title="|EU| ROMANIA",RO: TV NEPTUN
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262275
+#EXTINF:-1 tvg-id="TNT.ro" tvg-name="RO: TNT" tvg-logo="http://logo.protv.cc/picons-dino/logos/TNT.jpg" group-title="|EU| ROMANIA",RO: TNT
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262276
+#EXTINF:-1 tvg-id="" tvg-name="RO: MTV HITS" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvhits.png" group-title="|EU| ROMANIA",RO: MTV HITS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262277
+#EXTINF:-1 tvg-id="" tvg-name="RO: HIT MUSIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/hitmusicro.png" group-title="|EU| ROMANIA",RO: HIT MUSIC
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262278
+#EXTINF:-1 tvg-id="" tvg-name="RO: MTV DANCE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvdance.png" group-title="|EU| ROMANIA",RO: MTV DANCE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262279
+#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="RO: LOOK SPORT" tvg-logo="http://logo.protv.cc/picons-dino/logos/looksport.png" group-title="|EU| ROMANIA",RO: LOOK SPORT
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262280
+#EXTINF:-1 tvg-id="LookPlus.ro" tvg-name="RO: LOOK PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lookplushd.png" group-title="|EU| ROMANIA",RO: LOOK PLUS UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262281
+#EXTINF:-1 tvg-id="LookPlus.ro" tvg-name="RO: LOOK PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/lookplus.png" group-title="|EU| ROMANIA",RO: LOOK PLUS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262282
+#EXTINF:-1 tvg-id="" tvg-name="RO: HISTORY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/historyhd.png" group-title="|EU| ROMANIA",RO: HISTORY UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262283
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="RO: HBO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbo.png" group-title="|EU| ROMANIA",RO: HBO UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262284
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="RO: HBO" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbo.png" group-title="|EU| ROMANIA",RO: HBO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262285
+#EXTINF:-1 tvg-id="" tvg-name="RO: FIGHTBOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/fightbox.png" group-title="|EU| ROMANIA",RO: FIGHTBOX
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262286
+#EXTINF:-1 tvg-id="" tvg-name="RO: DUNA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dunahd.png" group-title="|EU| ROMANIA",RO: DUNA UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262287
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="RO: DIGI SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport2hd.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 2 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262288
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="RO: DIGI SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport1hd.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 1 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262289
+#EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-name="RO: CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/cartoonnetworkro.png" group-title="|EU| ROMANIA",RO: CARTOON NETWORK
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262290
+#EXTINF:-1 tvg-id="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbsreality.png" group-title="|EU| ROMANIA",RO: CBS REALITY
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262291
+#EXTINF:-1 tvg-id="" tvg-name="RO: AUTO MOTOR SPORT" tvg-logo="http://logo.protv.cc/picons-dino/logos/automotorsport.png" group-title="|EU| ROMANIA",RO: AUTO MOTOR SPORT
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262292
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="RO: ANTENA 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena1.png" group-title="|EU| ROMANIA",RO: ANTENA 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262293
+#EXTINF:-1 tvg-id="AnimalPlanet.ro" tvg-name="RO: ANIMAL PLANET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/animalplanethd.png" group-title="|EU| ROMANIA",RO: ANIMAL PLANET UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262294
+#EXTINF:-1 tvg-id="AnimalPlanet.ro" tvg-name="RO: ANIMAL PLANET" tvg-logo="http://logo.protv.cc/picons-dino/logos/animalplanet.png" group-title="|EU| ROMANIA",RO: ANIMAL PLANET
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262295
+#EXTINF:-1 tvg-id="" tvg-name="RO: AGRO TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/agrotv.png" group-title="|EU| ROMANIA",RO: AGRO TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262296
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="RO: ANTENA 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena1hd.png" group-title="|EU| ROMANIA",RO: ANTENA 1 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262297
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="RO: ANTENA 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|EU| ROMANIA",RO: ANTENA 3 FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262298
+#EXTINF:-1 tvg-id="Antena3.ro" tvg-name="RO: ANTENA 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3.png" group-title="|EU| ROMANIA",RO: ANTENA 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262299
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="RO: ANTENA STARS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antenastars.png" group-title="|EU| ROMANIA",RO: ANTENA STARS UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262301
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="RO: ANTENA STARS" tvg-logo="http://logo.protv.cc/picons-dino/logos/antenastars.png" group-title="|EU| ROMANIA",RO: ANTENA STARS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262302
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="RO: KANAL D" tvg-logo="http://logo.protv.cc/picons-dino/logos/kanald.png" group-title="|EU| ROMANIA",RO: KANAL D
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262303
+#EXTINF:-1 tvg-id="AXN.ro" tvg-name="RO: AXN" tvg-logo="http://logo.protv.cc/picons-dino/logos/axn.png" group-title="|EU| ROMANIA",RO: AXN
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262304
+#EXTINF:-1 tvg-id="AXNBlack.ro" tvg-name="RO: AXN BLACK" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnblack.png" group-title="|EU| ROMANIA",RO: AXN BLACK
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262305
+#EXTINF:-1 tvg-id="AXNBlack.ro" tvg-name="RO: AXN BLACK" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnblack.png" group-title="|EU| ROMANIA",RO: AXN BLACK
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262306
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN SPIN" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnspin.png" group-title="|EU| ROMANIA",RO: AXN SPIN
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262307
+#EXTINF:-1 tvg-id="AXNWhite.ro" tvg-name="RO: AXN WHITE" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnwhite.png" group-title="|EU| ROMANIA",RO: AXN WHITE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262309
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="RO: AMC" tvg-logo="http://logo.protv.cc/picons-dino/logos/amc.png" group-title="|EU| ROMANIA",RO: AMC
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262310
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="RO: B1 TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/b1tv.png" group-title="|EU| ROMANIA",RO: B1 TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262311
+#EXTINF:-1 tvg-id="BollywoodTV.ro" tvg-name="RO: BOLLYWOOD TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/bollywoodtv.png" group-title="|EU| ROMANIA",RO: BOLLYWOOD TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262312
+#EXTINF:-1 tvg-id="BollywoodClasic.ro" tvg-name="RO: BOLLYWOOD CLASIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/bollywoodtv.png" group-title="|EU| ROMANIA",RO: BOLLYWOOD CLASIC
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262313
+#EXTINF:-1 tvg-id="Boomerang.ro" tvg-name="RO: BOOMERANG" tvg-logo="http://logo.protv.cc/picons-dino/logos/boomerang.png" group-title="|EU| ROMANIA",RO: BOOMERANG
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262314
+#EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-name="RO: CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/cartoonnetworkro.png" group-title="|EU| ROMANIA",RO: CARTOON NETWORK
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262315
+#EXTINF:-1 tvg-id="" tvg-name="RO: CINEMAX 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemax.png" group-title="|EU| ROMANIA",RO: CINEMAX 1 FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262316
+#EXTINF:-1 tvg-id="Cinemax.ro" tvg-name="RO: CINEMAX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemax.png" group-title="|EU| ROMANIA",RO: CINEMAX UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262317
+#EXTINF:-1 tvg-id="Cinemax.ro" tvg-name="RO: CINEMAX RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemax.png" group-title="|EU| ROMANIA",RO: CINEMAX RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262318
+#EXTINF:-1 tvg-id="" tvg-name="RO: COMEDY CENTRAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentral.png" group-title="|EU| ROMANIA",RO: COMEDY CENTRAL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262319
+#EXTINF:-1 tvg-id="DaVinciLearning.ro" tvg-name="RO: DA VINCI LEARNING" tvg-logo="http://logo.protv.cc/picons-dino/logos/davincilearning.png" group-title="|EU| ROMANIA",RO: DA VINCI LEARNING
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262321
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO: DIGI 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/digi24.png" group-title="|EU| ROMANIA",RO: DIGI 24
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262322
+#EXTINF:-1 tvg-id="DigiAnimalworld.ro" tvg-name="RO: DIGI ANIMAL WORLD FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digianimalworld.png" group-title="|EU| ROMANIA",RO: DIGI ANIMAL WORLD FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262323
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI ANIMAL WORLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digianimalworld.png" group-title="|EU| ROMANIA",RO: DIGI ANIMAL WORLD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262324
+#EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="RO: DIGI LIFE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digilife.png" group-title="|EU| ROMANIA",RO: DIGI LIFE FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262325
+#EXTINF:-1 tvg-id="DigiLife.ro" tvg-name="RO: DIGI LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/digilife.png" group-title="|EU| ROMANIA",RO: DIGI LIFE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262326
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="RO: DIGI SPORT 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport1.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262327
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="RO: DIGI SPORT 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport2.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262328
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="RO: DIGI SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport3.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 3 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262329
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="RO: DIGI SPORT 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport3.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262330
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="RO: DIGI SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport4.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 4 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262331
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="RO: DIGI SPORT 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/digisport4.png" group-title="|EU| ROMANIA",RO: DIGI SPORT 4
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262332
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="RO: DIGI WORLD FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digiworldhdhu.png" group-title="|EU| ROMANIA",RO: DIGI WORLD FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262333
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="RO: DIGI WORLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digiworld.png" group-title="|EU| ROMANIA",RO: DIGI WORLD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262334
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY" tvg-logo="http://logo.protv.cc/picons-dino/logos/discovery.png" group-title="|EU| ROMANIA",RO: DISCOVERY
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262335
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="RO: DISCOVERY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoverychannel.png" group-title="|EU| ROMANIA",RO: DISCOVERY CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262336
+#EXTINF:-1 tvg-id="DiscoveryScience.ro" tvg-name="RO: DISCOVERY SCIENCE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoverysciencehd.png" group-title="|EU| ROMANIA",RO: DISCOVERY SCIENCE FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262337
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY SCIENCE" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryscience.png" group-title="|EU| ROMANIA",RO: DISCOVERY SCIENCE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262338
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY TURBO XTRA" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryturboxtra.png" group-title="|EU| ROMANIA",RO: DISCOVERY TURBO XTRA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262339
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY TURBO XTRA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryturboxtrahd.png" group-title="|EU| ROMANIA",RO: DISCOVERY TURBO XTRA FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262340
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="RO: DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannel.png" group-title="|EU| ROMANIA",RO: DISNEY CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262341
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="RO: DISNEY JUNIOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyjunior.png" group-title="|EU| ROMANIA",RO: DISNEY JUNIOR
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262342
+#EXTINF:-1 tvg-id="DivaUniversal.ro" tvg-name="RO: DIVA UNIVERSAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/divauniversal.png" group-title="|EU| ROMANIA",RO: DIVA UNIVERSAL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262343
+#EXTINF:-1 tvg-id="" tvg-name="RO: DOLCE SPORT 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/DOLCE-SPORT-1.jpeg" group-title="|EU| ROMANIA",RO: DOLCE SPORT 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262344
+#EXTINF:-1 tvg-id="" tvg-name="RO: DOLCE SPORT 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/DOLCE-SPORT-3.jpg" group-title="|EU| ROMANIA",RO: DOLCE SPORT 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262346
+#EXTINF:-1 tvg-id="" tvg-name="RO: E!" tvg-logo="http://logo.protv.cc/picons-dino/logos/E!-.png" group-title="|EU| ROMANIA",RO: E!
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262347
+#EXTINF:-1 tvg-id="" tvg-name="RO: ETNICTV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CROMTEL-TV.png" group-title="|EU| ROMANIA",RO: ETNICTV FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262348
+#EXTINF:-1 tvg-id="Etno.ro" tvg-name="RO: ETNO" tvg-logo="http://logo.protv.cc/picons-dino/logos/etnotv.png" group-title="|EU| ROMANIA",RO: ETNO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262349
+#EXTINF:-1 tvg-id="Eurosport1.ro" tvg-name="RO: EUROSPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|EU| ROMANIA",RO: EUROSPORT 1 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262350
+#EXTINF:-1 tvg-id="Eurosport2.ro" tvg-name="RO: EUROSPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="|EU| ROMANIA",RO: EUROSPORT 2 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262351
+#EXTINF:-1 tvg-id="" tvg-name="RO: EXTREME SPORTS CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/extremesportschannel.png" group-title="|EU| ROMANIA",RO: EXTREME SPORTS CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262352
+#EXTINF:-1 tvg-id="" tvg-name="RO: FINE LIVING" tvg-logo="http://logo.protv.cc/picons-dino/logos/fineliving.jpg" group-title="|EU| ROMANIA",RO: FINE LIVING
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262354
+#EXTINF:-1 tvg-id="FishingHunting.ro" tvg-name="RO: FISHING & HUNTING" tvg-logo="http://logo.protv.cc/picons-dino/logos/fishingandhunting.png" group-title="|EU| ROMANIA",RO: FISHING & HUNTING
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262355
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="RO: HBO 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbo2hd.png" group-title="|EU| ROMANIA",RO: HBO 2 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262356
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="RO: HBO 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbo2hd.png" group-title="|EU| ROMANIA",RO: HBO 2 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262357
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="RO: HBO 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbo3hd.png" group-title="|EU| ROMANIA",RO: HBO 3 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262358
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="RO: HBO 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/hbo3.png" group-title="|EU| ROMANIA",RO: HBO 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262359
+#EXTINF:-1 tvg-id="HistoryChannel.ro" tvg-name="RO: HISTORY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/historychannel.png" group-title="|EU| ROMANIA",RO: HISTORY CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262360
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="RO: KISS TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/kisstv.png" group-title="|EU| ROMANIA",RO: KISS TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262361
+#EXTINF:-1 tvg-id="" tvg-name="RO: LOOK TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/looktv.png" group-title="|EU| ROMANIA",RO: LOOK TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262362
+#EXTINF:-1 tvg-id="" tvg-name="RO: MEGAMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/megamax.png" group-title="|EU| ROMANIA",RO: MEGAMAX
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262363
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="RO: MINIMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/minimax.png" group-title="|EU| ROMANIA",RO: MINIMAX
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262364
+#EXTINF:-1 tvg-id="" tvg-name="RO: MOOZ RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/moozdance.png" group-title="|EU| ROMANIA",RO: MOOZ RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262365
+#EXTINF:-1 tvg-id="" tvg-name="RO: MTV ROCKS" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvrocks.png" group-title="|EU| ROMANIA",RO: MTV ROCKS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262366
+#EXTINF:-1 tvg-id="" tvg-name="RO: N24" tvg-logo="http://logo.protv.cc/picons-dino/logos/n24.png" group-title="|EU| ROMANIA",RO: N24
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262367
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="RO: NASUL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/NASUL-TV.png" group-title="|EU| ROMANIA",RO: NASUL TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262368
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="RO: NASUL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/NASUL-TV.png" group-title="|EU| ROMANIA",RO: NASUL TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262369
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEOGRAPHIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeoromania.png" group-title="|EU| ROMANIA",RO: NAT GEOGRAPHIC
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262370
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeoromania.png" group-title="|EU| ROMANIA",RO: NAT GEO FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262371
+#EXTINF:-1 tvg-id="" tvg-name="RO: NAT GEO WILD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildrom.png" group-title="|EU| ROMANIA",RO: NAT GEO WILD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262372
+#EXTINF:-1 tvg-id="" tvg-name="RO: NATIONAL 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/national24plus.png" group-title="|EU| ROMANIA",RO: NATIONAL 24
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262373
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="RO: NATIONAL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/nationaltv.png" group-title="|EU| ROMANIA",RO: NATIONAL TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262374
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="RO: NICKELODEON" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeon.png" group-title="|EU| ROMANIA",RO: NICKELODEON
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262375
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="RO: NICKELODEON" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeon.png" group-title="|EU| ROMANIA",RO: NICKELODEON
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262376
+#EXTINF:-1 tvg-id="ParamountChannel.ro" tvg-name="RO: PARAMOUNT CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/paramountchannel.png" group-title="|EU| ROMANIA",RO: PARAMOUNT CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262377
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="RO: PRIMA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/primatvro.png" group-title="|EU| ROMANIA",RO: PRIMA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262378
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRIMA LOVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/primalove.png" group-title="|EU| ROMANIA",RO: PRIMA LOVE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262379
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRIMA COOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/primacool.png" group-title="|EU| ROMANIA",RO: PRIMA COOL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262380
+#EXTINF:-1 tvg-id="" tvg-name="RO: PROFIT TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/PROFIT-TV.jpg" group-title="|EU| ROMANIA",RO: PROFIT TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262381
+#EXTINF:-1 tvg-id="" tvg-name="RO: PROTV INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/protvint.png" group-title="|EU| ROMANIA",RO: PROTV INTERNATIONAL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262382
+#EXTINF:-1 tvg-id="RealitateaTV.ro" tvg-name="RO: REALITATEA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/realitateatv.png" group-title="|EU| ROMANIA",RO: REALITATEA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262383
+#EXTINF:-1 tvg-id="" tvg-name="RO: ROMA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/romatv.png" group-title="|EU| ROMANIA",RO: ROMA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262384
+#EXTINF:-1 tvg-id="RomaniaTv.ro" tvg-name="RO: MANIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/MANIA-TV.jpeg" group-title="|EU| ROMANIA",RO: MANIA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262385
+#EXTINF:-1 tvg-id="RomaniaTv.ro" tvg-name="RO: ROMANIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/romaniatv.png" group-title="|EU| ROMANIA",RO: ROMANIA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262386
+#EXTINF:-1 tvg-id="" tvg-name="RO: SPERANTA Tv" tvg-logo="http://logo.protv.cc/picons-dino/logos/SPERANTA-Tv.jpeg" group-title="|EU| ROMANIA",RO: SPERANTA Tv
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262387
+#EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="RO: TARAF TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/TARAF-TV.jpg" group-title="|EU| ROMANIA",RO: TARAF TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262388
+#EXTINF:-1 tvg-id="TelekomSport1.ro" tvg-name="RO: TELEKOM SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-1-HD.jpg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 1 FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262389
+#EXTINF:-1 tvg-id="TelekomSport1.ro" tvg-name="RO: TELEKOM SPORT 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-1-HD.jpg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262390
+#EXTINF:-1 tvg-id="TelekomSport2.ro" tvg-name="RO: TELEKOM SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-2-HD.jpeg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 2 FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262391
+#EXTINF:-1 tvg-id="TelekomSport2.ro" tvg-name="RO: TELEKOM SPORT 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-2-HD.jpeg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262392
+#EXTINF:-1 tvg-id="TelekomSport3.ro" tvg-name="RO: TELEKOM SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-3-HD.jpeg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 3 FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262393
+#EXTINF:-1 tvg-id="TelekomSport3.ro" tvg-name="RO: TELEKOM SPORT 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-3-HD.jpeg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262394
+#EXTINF:-1 tvg-id="TelekomSport4.ro" tvg-name="RO: TELEKOM SPORT 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-4-HD.jpeg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 4
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262395
+#EXTINF:-1 tvg-id="TelekomSport4.ro" tvg-name="RO: TELEKOM SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-L-SPORT-4-HD.jpeg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 4 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262396
+#EXTINF:-1 tvg-id="TelekomSport5.ro" tvg-name="RO: TELEKOM SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEKOM-SPORT.jpg" group-title="|EU| ROMANIA",RO: TELEKOM SPORT 5 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262397
+#EXTINF:-1 tvg-id="" tvg-name="RO: DOLCE SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DOLCE-SPORT-1.jpeg" group-title="|EU| ROMANIA",RO: DOLCE SPORT 1 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262399
+#EXTINF:-1 tvg-id="" tvg-name="RO: DOLCE SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DOLCE-SPORT-2.jpeg" group-title="|EU| ROMANIA",RO: DOLCE SPORT 2 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262400
+#EXTINF:-1 tvg-id="" tvg-name="RO: DOLCE SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DOLCE-SPORT-4.jpeg" group-title="|EU| ROMANIA",RO: DOLCE SPORT 4 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262401
+#EXTINF:-1 tvg-id="TLC.ro" tvg-name="RO: TLC RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/tlcro.png" group-title="|EU| ROMANIA",RO: TLC RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262402
+#EXTINF:-1 tvg-id="TNT.ro" tvg-name="RO: TNT" tvg-logo="http://logo.protv.cc/picons-dino/logos/TNT.jpg" group-title="|EU| ROMANIA",RO: TNT
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262403
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="RO: TV PAPRIKA" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvpaprika.png" group-title="|EU| ROMANIA",RO: TV PAPRIKA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262404
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="RO: TVR 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr1.png" group-title="|EU| ROMANIA",RO: TVR 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262407
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="RO: TVR 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr2.png" group-title="|EU| ROMANIA",RO: TVR 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262408
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr2.png" group-title="|EU| ROMANIA",RO: TVR 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262409
+#EXTINF:-1 tvg-id="" tvg-name="RO: UTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/utv.png" group-title="|EU| ROMANIA",RO: UTV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262410
+#EXTINF:-1 tvg-id="" tvg-name="RO: VH 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/vh1.png" group-title="|EU| ROMANIA",RO: VH 1
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262411
+#EXTINF:-1 tvg-id="" tvg-name="RO: VH 1 CLASSIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/vh1classic.png" group-title="|EU| ROMANIA",RO: VH 1 CLASSIC
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262412
+#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="RO: VIASAT HISTORY" tvg-logo="http://logo.protv.cc/picons-dino/logos/VIASAT-HISTORY.jpeg" group-title="|EU| ROMANIA",RO: VIASAT HISTORY
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262413
+#EXTINF:-1 tvg-id="ViasatExplore.ro" tvg-name="RO: VIASAT EXPLORER" tvg-logo="http://logo.protv.cc/picons-dino/logos/VIASAT-EXPLORER.png" group-title="|EU| ROMANIA",RO: VIASAT EXPLORER
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262414
+#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="RO: VIASAT NATURE" tvg-logo="http://logo.protv.cc/picons-dino/logos/VIASAT-NATURE-.jpg" group-title="|EU| ROMANIA",RO: VIASAT NATURE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262415
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-name="RO: ZU TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/zutv.png" group-title="|EU| ROMANIA",RO: ZU TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262416
+#EXTINF:-1 tvg-id="AMC.ro" tvg-name="RO: AMC RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/amc.png" group-title="|EU| ROMANIA",RO: AMC RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262417
+#EXTINF:-1 tvg-id="DigiWorld.ro" tvg-name="RO: DIGI WORLD RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/digiworldhdhu.png" group-title="|EU| ROMANIA",RO: DIGI WORLD RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262418
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI FILIM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/digifilm.png" group-title="|EU| ROMANIA",RO: DIGI FILIM UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262419
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/protv.png" group-title="|EU| ROMANIA",RO: PRO TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262420
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO GOLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/progold.png" group-title="|EU| ROMANIA",RO: PRO GOLD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262421
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO GOLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/progold.png" group-title="|EU| ROMANIA",RO: PRO GOLD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262422
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO-X FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/prox.png" group-title="|EU| ROMANIA",RO: PRO-X FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262423
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO X" tvg-logo="http://logo.protv.cc/picons-dino/logos/prox.png" group-title="|EU| ROMANIA",RO: PRO X
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262424
+#EXTINF:-1 tvg-id="TNT.ro" tvg-name="RO: TNT" tvg-logo="http://logo.protv.cc/picons-dino/logos/TNT.jpg" group-title="|EU| ROMANIA",RO: TNT
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262425
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="RO: TVR 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr3.png" group-title="|EU| ROMANIA",RO: TVR 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262426
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="RO: TVR 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvr3.png" group-title="|EU| ROMANIA",RO: TVR 3
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262427
+#EXTINF:-1 tvg-id="" tvg-name="RO: CRIME INVESTIGATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/crimeinvest.png" group-title="|EU| ROMANIA",RO: CRIME INVESTIGATION
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262428
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR CRAIOVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvrcraiova.png" group-title="|EU| ROMANIA",RO: TVR CRAIOVA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262429
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR CLUJ" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvrcluj.png" group-title="|EU| ROMANIA",RO: TVR CLUJ
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262430
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="RO: 1 MUSIC CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/1musicchannel.png" group-title="|EU| ROMANIA",RO: 1 MUSIC CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262431
+#EXTINF:-1 tvg-id="" tvg-name="RO: A7 TV UHD RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/a7.png" group-title="|EU| ROMANIA",RO: A7 TV UHD RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262432
+#EXTINF:-1 tvg-id="" tvg-name="RO: ACTUALITATEA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ACTUALITATEA-TV.jpeg" group-title="|EU| ROMANIA",RO: ACTUALITATEA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262433
+#EXTINF:-1 tvg-id="" tvg-name="RO: ALFA & OMEGA" tvg-logo="http://logo.protv.cc/picons-dino/logos/alfaomegatv.png" group-title="|EU| ROMANIA",RO: ALFA & OMEGA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262435
+#EXTINF:-1 tvg-id="" tvg-name="RO: BUCOVINA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/BUCOVINA-TV.png" group-title="|EU| ROMANIA",RO: BUCOVINA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262437
+#EXTINF:-1 tvg-id="Cinemax2.ro" tvg-name="RO: CINEMAX 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemax2hd.png" group-title="|EU| ROMANIA",RO: CINEMAX 2 FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262438
+#EXTINF:-1 tvg-id="Cinemax2.ro" tvg-name="RO: CINEMAX 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemax2.png" group-title="|EU| ROMANIA",RO: CINEMAX 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262439
+#EXTINF:-1 tvg-id="" tvg-name="RO: CINEMARATON" tvg-logo="http://logo.protv.cc/picons-dino/logos/cinemaraton.png" group-title="|EU| ROMANIA",RO: CINEMARATON
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262440
+#EXTINF:-1 tvg-id="" tvg-name="RO: CURIER" tvg-logo="http://logo.protv.cc/picons-dino/logos/CURIER.png" group-title="|EU| ROMANIA",RO: CURIER
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262441
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISCOVERY SHOWCASE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryshowcasehd.png" group-title="|EU| ROMANIA",RO: DISCOVERY SHOWCASE UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262442
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISNEY" tvg-logo="http://logo.protv.cc/picons-dino/logos/disney.png" group-title="|EU| ROMANIA",RO: DISNEY
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262443
+#EXTINF:-1 tvg-id="" tvg-name="RO: DOCUBOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/docubox.png" group-title="|EU| ROMANIA",RO: DOCUBOX
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262444
+#EXTINF:-1 tvg-id="" tvg-name="RO: DTX UHD RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/dtxhd.png" group-title="|EU| ROMANIA",RO: DTX UHD RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262445
+#EXTINF:-1 tvg-id="Eurosport2.ro" tvg-name="RO: EUROSPORT 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2.png" group-title="|EU| ROMANIA",RO: EUROSPORT 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262446
+#EXTINF:-1 tvg-id="" tvg-name="RO: FIGHTBOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/fightbox.png" group-title="|EU| ROMANIA",RO: FIGHTBOX
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262447
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="RO: FILM NOW" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmnow.png" group-title="|EU| ROMANIA",RO: FILM NOW
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262448
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="RO: FILM NOW UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmnow.png" group-title="|EU| ROMANIA",RO: FILM NOW UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262449
+#EXTINF:-1 tvg-id="Filmcafe.ro" tvg-name="RO: FILM CAFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmcafe.png" group-title="|EU| ROMANIA",RO: FILM CAFE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262450
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILM CAFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmcafe.png" group-title="|EU| ROMANIA",RO: FILM CAFE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262451
+#EXTINF:-1 tvg-id="FilmBoxPlus.ro" tvg-name="RO: FILMBOX PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmboxplus.png" group-title="|EU| ROMANIA",RO: FILMBOX PLUS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262453
+#EXTINF:-1 tvg-id="FilmBoxFamily.ro" tvg-name="RO: FILMBOX FAMILY" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmboxfamily.png" group-title="|EU| ROMANIA",RO: FILMBOX FAMILY
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262454
+#EXTINF:-1 tvg-id="FilmBoxPremium.ro" tvg-name="RO: FILMBOX PREMIUM" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmboxpremium.png" group-title="|EU| ROMANIA",RO: FILMBOX PREMIUM
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262455
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILMBOX PREMIUM" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmboxpremium.png" group-title="|EU| ROMANIA",RO: FILMBOX PREMIUM
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262456
+#EXTINF:-1 tvg-id="FilmBox.ro" tvg-name="RO: FILMBOX EXTRA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmboxextrahd.png" group-title="|EU| ROMANIA",RO: FILMBOX EXTRA UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262457
+#EXTINF:-1 tvg-id="FilmBoxExtra.ro" tvg-name="RO: FILMBOX EXTRA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/filmboxextrahd.png" group-title="|EU| ROMANIA",RO: FILMBOX EXTRA FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262458
+#EXTINF:-1 tvg-id="" tvg-name="RO: HORA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/HORA-TV.jpeg" group-title="|EU| ROMANIA",RO: HORA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262459
+#EXTINF:-1 tvg-id="" tvg-name="RO: INVESTIGATION DISCOVERY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/investigationdiscoveryhd.png" group-title="|EU| ROMANIA",RO: INVESTIGATION DISCOVERY UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262462
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-name="RO: JIM JAM" tvg-logo="http://logo.protv.cc/picons-dino/logos/jimjam.png" group-title="|EU| ROMANIA",RO: JIM JAM
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262463
+#EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="RO: LOOK SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/looksporthd.png" group-title="|EU| ROMANIA",RO: LOOK SPORT 2 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262465
+#EXTINF:-1 tvg-id="LookSport3.ro" tvg-name="RO: LOOK SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/looksporthd.png" group-title="|EU| ROMANIA",RO: LOOK SPORT 3 UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262466
+#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="RO: LOOK SPORT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/looksporthd.png" group-title="|EU| ROMANIA",RO: LOOK SPORT UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262467
+#EXTINF:-1 tvg-id="" tvg-name="RO: MDI TV RO" tvg-logo="http://logo.protv.cc/picons-dino/logos/MDI-TV-RO.jpeg" group-title="|EU| ROMANIA",RO: MDI TV RO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262468
+#EXTINF:-1 tvg-id="" tvg-name="RO: MEZZO" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzo.png" group-title="|EU| ROMANIA",RO: MEZZO
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262469
+#EXTINF:-1 tvg-id="MTVLive.ru" tvg-name="RO: MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvlive.png" group-title="|EU| ROMANIA",RO: MTV LIVE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262470
+#EXTINF:-1 tvg-id="" tvg-name="RO: EST TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EST-TV.jpg" group-title="|EU| ROMANIA",RO: EST TV FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262472
+#EXTINF:-1 tvg-id="" tvg-name="RO: NEST TV SV" tvg-logo="http://logo.protv.cc/picons-dino/logos/NEST-TV-SV.png" group-title="|EU| ROMANIA",RO: NEST TV SV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262473
+#EXTINF:-1 tvg-id="NickJr.ro" tvg-name="RO: NICK JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickjr.png" group-title="|EU| ROMANIA",RO: NICK JR
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262474
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO-X" tvg-logo="http://logo.protv.cc/picons-dino/logos/prox.png" group-title="|EU| ROMANIA",RO: PRO-X
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262476
+#EXTINF:-1 tvg-id="Pro2.ro" tvg-name="RO: PRO 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/pro2.png" group-title="|EU| ROMANIA",RO: PRO 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262477
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/pro2.png" group-title="|EU| ROMANIA",RO: PRO 2
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262478
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="RO: PRO CINEMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/PRO-CINEMA.jpg" group-title="|EU| ROMANIA",RO: PRO CINEMA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262479
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO TV NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/protvhd.png" group-title="|EU| ROMANIA",RO: PRO TV NEWS UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262480
+#EXTINF:-1 tvg-id="" tvg-name="RO: PROTV NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/protv.png" group-title="|EU| ROMANIA",RO: PROTV NEWS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262481
+#EXTINF:-1 tvg-id="" tvg-name="RO: REALITATEA PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/realitateaplus.png" group-title="|EU| ROMANIA",RO: REALITATEA PLUS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262482
+#EXTINF:-1 tvg-id="TLC.ro" tvg-name="RO: TLC" tvg-logo="http://logo.protv.cc/picons-dino/logos/tlc.png" group-title="|EU| ROMANIA",RO: TLC
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262485
+#EXTINF:-1 tvg-id="TravelChannel.ro" tvg-name="RO: TRAVEL CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/travelchannel.png" group-title="|EU| ROMANIA",RO: TRAVEL CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262486
+#EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="RO: TRAVEL MIX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TRAVEL-MIX.jpg" group-title="|EU| ROMANIA",RO: TRAVEL MIX FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262487
+#EXTINF:-1 tvg-id="" tvg-name="RO: TRINITAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/trinitastv.png" group-title="|EU| ROMANIA",RO: TRINITAS
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262488
+#EXTINF:-1 tvg-id="" tvg-name="RO: TEZAUR TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEZAUR-TV.jpeg" group-title="|EU| ROMANIA",RO: TEZAUR TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262489
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV5 MONDE" tvg-logo="http://logo.protv.cc/picons-dino/logos/tv5monde.png" group-title="|EU| ROMANIA",RO: TV5 MONDE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262490
+#EXTINF:-1 tvg-id="" tvg-name="RO: SANGEORZ TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/SANGEORZ-TV.png" group-title="|EU| ROMANIA",RO: SANGEORZ TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262491
+#EXTINF:-1 tvg-id="" tvg-name="RO: NOC TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NOC-TV.jpeg" group-title="|EU| ROMANIA",RO: NOC TV UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262493
+#EXTINF:-1 tvg-id="" tvg-name="RO: MAGIC TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MAGIC-TV.jpeg" group-title="|EU| ROMANIA",RO: MAGIC TV FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262494
+#EXTINF:-1 tvg-id="" tvg-name="RO: INTERMEDIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/INTERMEDIA.png" group-title="|EU| ROMANIA",RO: INTERMEDIA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262495
+#EXTINF:-1 tvg-id="" tvg-name="RO: IASI TV LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/IASI-TV-LIFE.jpg" group-title="|EU| ROMANIA",RO: IASI TV LIFE
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262496
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="RO: HAPPY CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/happychannel.png" group-title="|EU| ROMANIA",RO: HAPPY CHANNEL FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262497
+#EXTINF:-1 tvg-id="" tvg-name="RO: HAPPY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/happychannel.png" group-title="|EU| ROMANIA",RO: HAPPY CHANNEL
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262498
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="RO: FOOD NETWORK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetworkhd.png" group-title="|EU| ROMANIA",RO: FOOD NETWORK UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262499
+#EXTINF:-1 tvg-id="" tvg-name="RO: FOOD NETWORK FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetworkhd.png" group-title="|EU| ROMANIA",RO: FOOD NETWORK FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262500
+#EXTINF:-1 tvg-id="" tvg-name="RO: EUROAL TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/EUROAL-TV.png" group-title="|EU| ROMANIA",RO: EUROAL TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262501
+#EXTINF:-1 tvg-id="" tvg-name="RO: EPIC DRAMA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/epicdramahd.png" group-title="|EU| ROMANIA",RO: EPIC DRAMA FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262502
+#EXTINF:-1 tvg-id="" tvg-name="RO: DUCK TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ducktv.png" group-title="|EU| ROMANIA",RO: DUCK TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262503
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO: DIGI 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/digi24.png" group-title="|EU| ROMANIA",RO: DIGI 24
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262504
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO: DIGI 24 CRAIOVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/digi24.png" group-title="|EU| ROMANIA",RO: DIGI 24 CRAIOVA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262505
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIASPORA TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DIASPORA-TV.png" group-title="|EU| ROMANIA",RO: DIASPORA TV FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262506
+#EXTINF:-1 tvg-id="" tvg-name="RO: CREDO TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/credotv.png" group-title="|EU| ROMANIA",RO: CREDO TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262507
+#EXTINF:-1 tvg-id="" tvg-name="RO: COLUMNA TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/COLUMNA-TV.jpg" group-title="|EU| ROMANIA",RO: COLUMNA TV UHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262508
+#EXTINF:-1 tvg-id="" tvg-name="RO: CINETHRONIX" tvg-logo="http://logo.protv.cc/picons-dino/logos/CINETHRONIX-.jpg" group-title="|EU| ROMANIA",RO: CINETHRONIX
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262509
+#EXTINF:-1 tvg-id="" tvg-name="RO: CANAL 33" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-33.png" group-title="|EU| ROMANIA",RO: CANAL 33
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262510
+#EXTINF:-1 tvg-id="" tvg-name="RO: BUCURESTI TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BUCURESTI-TV-HD.jpg" group-title="|EU| ROMANIA",RO: BUCURESTI TV FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262511
+#EXTINF:-1 tvg-id="" tvg-name="RO: BUCOVINA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/BUCOVINA-TV.png" group-title="|EU| ROMANIA",RO: BUCOVINA TV
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262512
+#EXTINF:-1 tvg-id="" tvg-name="RO: ARCADIA WORLD FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ARCADIA-WORLD-HD.jpeg" group-title="|EU| ROMANIA",RO: ARCADIA WORLD FHD
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262513
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="RO: TV PAPRIKA" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvpaprika.png" group-title="|EU| ROMANIA",RO: TV PAPRIKA
+http://es.hi-live.me:80/e4d049b7ee/a08882a5a6/262515
